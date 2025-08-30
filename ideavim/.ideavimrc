@@ -1,0 +1,255 @@
+" =========================
+" Basic Settings
+" =========================
+set number
+set relativenumber
+set clipboard=unnamed
+set incsearch
+set ignorecase
+set smartcase
+set hlsearch
+set scrolloff=5
+set cursorline
+set showmode
+set showcmd
+
+let mapleader = " "
+
+" =========================
+" Completion / Autocomplete
+" =========================
+inoremap <C-n> <C-x><C-n>
+inoremap <C-p> <C-x><C-p>
+
+iunmap <C-y>
+inoremap <C-y> <C-x><C-o>
+
+" =========================
+" Leader Key Mappings (Normal Mode)
+" =========================
+" Build / Project
+nnoremap <leader>bb :action Build<CR>
+nnoremap <leader>br :action Run<CR>
+nnoremap <leader>bc :action Clean<CR>
+nnoremap <leader>bd :action Debug<CR>
+nnoremap <leader>bor :action ChooseRunConfiguration<CR>
+nnoremap <leader>bod :action ChooseDebugConfiguration<CR>
+
+" File Management
+nnoremap <leader>fn :action NewFile<CR>
+nnoremap <leader>fc :action CIDR.Lang.Cpp.NewClass<CR>
+nnoremap <leader>fr :action RenameFile<CR>
+nnoremap <leader>fm :action Move<CR>
+nnoremap <leader>fd :action FileChooser.Delete<CR>
+nnoremap <leader>fo :action OpenFile<CR>
+nnoremap <leader>fs :action SaveAll<CR>
+
+" File Search / Navigation
+nnoremap <leader>se :action SearchEverywhere<CR>
+nnoremap <leader>ss :action FindInPath<CR>
+nnoremap <leader>sr :action RecentFiles<CR>
+nnoremap <leader>so :action GotoSymbol<CR>
+
+" Fuzzier plugin mapping
+map <leader>sf <action>(com.mituuz.fuzzier.Fuzzier)
+map <leader>sm <action>(com.mituuz.fuzzier.FuzzyMover)
+map <leader>sv <action>(com.mituuz.fuzzier.FuzzierVCS)
+map <leader>sg <action>(com.mituuz.fuzzier.FuzzyGrep)
+
+" Window / Editor Management
+nnoremap <leader>ws :action SplitHorizontally<CR>
+nnoremap <leader>wd :action SplitVertically<CR>
+nnoremap <leader>ww :action CloseEditor<CR>
+nnoremap <leader>p  :action ActivateProjectToolWindow<CR>
+
+" =========================
+" Visual-Mode Leader Mappings (Safe)
+" =========================
+xnoremap <leader>fm :action Move<CR>
+xnoremap <leader>fd :action FileChooser.Delete<CR>
+xnoremap <leader>rr :action Refactorings.QuickListPopupAction<CR>
+
+" =========================
+" Movement & Editing Enhancements
+" =========================
+nnoremap <C-h> <C-w>h
+nnoremap <C-j> <C-w>j
+nnoremap <C-k> <C-w>k
+nnoremap <C-l> <C-w>l
+
+nnoremap n nzzzv
+nnoremap N Nzzzv
+
+nnoremap <A-j> :m .+1<CR>==
+nnoremap <A-k> :m .-2<CR>==
+inoremap <A-j> <Esc>:m .+1<CR>==gi
+inoremap <A-k> <Esc>:m .-2<CR>==gi
+xnoremap <A-j> :m '>+1<CR>gv=gv
+xnoremap <A-k> :m '<-2<CR>gv=gv
+
+nnoremap J mzJ`z
+xnoremap < <gv
+xnoremap > >gv
+
+" =========================
+" Buffer / Tab Navigation
+" =========================
+nnoremap <leader><leader> :action RecentFiles<CR>
+nnoremap ]b :action NextTab<CR>
+nnoremap [b :action PreviousTab<CR>
+
+" =========================
+" Symbol & Definition Navigation
+" =========================
+nnoremap gd :action GotoDeclaration<CR>
+nnoremap gh :action SwitchHeaderSource<CR>
+nnoremap gi :action GotoImplementation<CR>
+nnoremap gr :action FindUsages<CR>
+nnoremap gR :action QuickTypeDefinition<CR>
+nnoremap gO :action GotoSymbol<CR>
+
+smap <C-v> <C-g>
+
+" =========================
+" Diagnostics / LSP
+" =========================
+nnoremap <leader>q :action ShowHoverInfo<CR>
+nnoremap <F3> :action GotoNextError<CR>
+nnoremap <S-F3> :action GotoPreviousError<CR>
+
+" =========================
+" Refactoring
+" =========================
+nnoremap <leader>rr :action Refactorings.QuickListPopupAction<CR>
+nnoremap <leader>rn :action RenameElement<CR>
+xnoremap <leader>rn :action RenameElement<CR>
+nnoremap <leader>re :action ExtractMethod<CR>
+xnoremap <leader>re :action ExtractMethod<CR>
+xnoremap <leader>riv :action IntroduceVariable<CR>
+xnoremap <leader>ric :action IntroduceConstant<CR>
+xnoremap <leader>rif :action IntroduceField<CR>
+xnoremap <leader>rip :action IntroduceParameter<CR>
+nnoremap <leader>rg :action Generate<CR>
+xnoremap <leader>rg :action Generate<CR>
+
+" =========================
+" Bookmarks
+" =========================
+nnoremap <leader>mb :action ToggleBookmark<CR>
+nnoremap <leader>mn :action GotoNextBookmark<CR>
+nnoremap <leader>mp :action GotoPreviousBookmark<CR>
+nnoremap <leader>ml :action ShowBookmarks<CR>
+
+" =========================
+" Debugging / Run Controls
+" =========================
+nnoremap <F9>  :action ToggleLineBreakpoint<CR>
+nnoremap <F10> :action StepOver<CR>
+nnoremap <F11> :action StepInto<CR>
+nnoremap <S-F11> :action StepOut<CR>
+
+nnoremap <leader>dr   :action Debug<CR>
+nnoremap <leader>db   :action ToggleLineBreakpoint<CR>
+nnoremap <leader>ds   :action StepOver<CR>
+nnoremap <leader>di   :action StepInto<CR>
+nnoremap <leader>do   :action StepOut<CR>
+nnoremap <leader>dl   :action RunToCursor<CR>
+nnoremap <leader>drr  :action Rerun<CR>
+nnoremap <leader>dw   :action ActivateDebugToolWindow<CR>
+nnoremap <leader>dc   :action ChooseDebugConfiguration<CR>
+nnoremap K :action ShowHoverInfo<CR>
+
+set mouse=
+
+set idearefactormode=visual
+" =========================
+" Plugins
+" =========================
+Plug 'machakann/vim-highlightedyank'
+Plug 'tpope/vim-commentary'
+Plug 'vim-scripts/argtextobj.vim'
+Plug 'chrisbra/matchit'
+Plug 'tpope/vim-surround'
+set peekaboo
+set quickscope
+set which-key
+set notimeout
+
+
+" =========================
+" WhichKey Descriptions
+" =========================
+
+" --- File Management (<leader>f) ---
+let g:WhichKeyDesc_f_prefix = "<leader>f  File Management"
+let g:WhichKeyDesc_fn = "<leader>fn  New File"
+let g:WhichKeyDesc_fc = "<leader>fc  New Class"
+let g:WhichKeyDesc_fr = "<leader>fr  Rename File"
+let g:WhichKeyDesc_fm = "<leader>fm  Move"
+let g:WhichKeyDesc_fd = "<leader>fd  Delete"
+let g:WhichKeyDesc_fo = "<leader>fo  Open File"
+let g:WhichKeyDesc_fs = "<leader>fs  Save All"
+
+" --- Build / Run (<leader>b) ---
+let g:WhichKeyDesc_b_prefix = "<leader>b  Build/run..."
+let g:WhichKeyDesc_bb = "<leader>bb  Build"
+let g:WhichKeyDesc_br = "<leader>br  Run"
+let g:WhichKeyDesc_bd = "<leader>bd  Debug"
+let g:WhichKeyDesc_bt = "<leader>bt  Test"
+let g:WhichKeyDesc_bc = "<leader>bc  Clean"
+let g:WhichKeyDesc_bo_prefix = "<leader>bo Choose configurations"
+let g:WhichKeyDesc_bor = "<leader>bor  Choose Run Configuration"
+let g:WhichKeyDesc_bod = "<leader>bod Choose Debug Configuration"
+
+" --- Search / Navigation (<leader>s) ---
+let g:WhichKeyDesc_s_prefix = "<leader>s  Search / Navigation"
+let g:WhichKeyDesc_se = "<leader>se  Search Everywhere"
+let g:WhichKeyDesc_ss = "<leader>ss  Find in Path"
+let g:WhichKeyDesc_sr = "<leader>sr  Recent Files"
+let g:WhichKeyDesc_so = "<leader>so  Go to Symbol"
+let g:WhichKeyDesc_sp = "<leader>sp  Fuzzier"
+let g:WhichKeyDesc_sm = "<leader>sm  Fuzzy Mover"
+let g:WhichKeyDesc_sv = "<leader>sv  Fuzzier VCS"
+let g:WhichKeyDesc_sf = "<leader>sf  Fuzzy Grep"
+
+" --- Window / Editor Management (<leader>w) ---
+let g:WhichKeyDesc_w_prefix = "<leader>w  Window / Editor"
+let g:WhichKeyDesc_ws = "<leader>ws  Split Horizontally"
+let g:WhichKeyDesc_wd = "<leader>wd  Split Vertically / Delete"
+let g:WhichKeyDesc_ww = "<leader>ww  Close Editor"
+let g:WhichKeyDesc_wp = "<leader>wp  Project Sidebar"
+
+" --- Refactoring (<leader>r) ---
+let g:WhichKeyDesc_r_prefix = "<leader>r  Refactor..."
+let g:WhichKeyDesc_rr = "<leader>rr  Quick List"
+let g:WhichKeyDesc_rn = "<leader>rn  Rename"
+let g:WhichKeyDesc_re = "<leader>re  Extract Method"
+let g:WhichKeyDesc_ri_prefix = "<leader>ri Introduce..."
+let g:WhichKeyDesc_riv = "<leader>rev  Introduce Variable"
+let g:WhichKeyDesc_rec = "<leader>rec  Introduce Constant"
+let g:WhichKeyDesc_rec = "<leader>rec  Introduce Field"
+let g:WhichKeyDesc_rec = "<leader>rec  Introduce Parameter"
+let g:WhichKeyDesc_rg = "<leader>rg  Generate"
+
+" --- Debug / Run (<leader>d) ---
+let g:WhichKeyDesc_d_prefix = "<leader>d  Debug"
+let g:WhichKeyDesc_db = "<leader>db  Toggle Breakpoint"
+let g:WhichKeyDesc_ds = "<leader>ds  Step Over"
+let g:WhichKeyDesc_di = "<leader>di  Step Into"
+let g:WhichKeyDesc_do = "<leader>do  Step Out"
+let g:WhichKeyDesc_dl = "<leader>dl  Run to Cursor"
+let g:WhichKeyDesc_drr = "<leader>drr  Rerun"
+let g:WhichKeyDesc_dw = "<leader>dw  Debug Tool Window"
+let g:WhichKeyDesc_dc = "<leader>dc  Choose Debug Configuration"
+
+" --- Bookmarks (<leader>m) ---
+let g:WhichKeyDesc_m_prefix = "<leader>m  Bookmarks"
+let g:WhichKeyDesc_mb = "<leader>mb  Toggle Bookmark"
+let g:WhichKeyDesc_mn = "<leader>mn  Next Bookmark"
+let g:WhichKeyDesc_mp = "<leader>mp  Previous Bookmark"
+let g:WhichKeyDesc_ml = "<leader>ml  Show All Bookmarks"
+
+" --- Project / Sidebar / Quick Access ---
+let g:WhichKeyDesc_p = "<leader>p  Project Tool Window"
+let g:WhichKeyDesc_q = "<leader>q  NOT IMPLEMENTED"
+let g:WhichKeyDesc__leader = "<leader><leader>  Recent Files"
