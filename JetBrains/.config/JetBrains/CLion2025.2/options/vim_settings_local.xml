@@ -1,0 +1,681 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd>
+        <entry encoding="base64">ZWNobyBtYXBsZWFkZXI=</entry>
+        <entry encoding="base64">c291cmNlIA==</entry>
+        <entry encoding="base64">ZSBhY3Rpb25saXN0</entry>
+        <entry encoding="base64">YWN0aW9ubGlzdA==</entry>
+        <entry encoding="base64">YWN0aW9ubGlzdCBpbnRyb2R1Y2U=</entry>
+        <entry encoding="base64">cQ==</entry>
+        <entry encoding="base64">d3E=</entry>
+        <entry encoding="base64">YWN0aW9uIChjb20uZnV6enlmaWxlc2VhcmNoLill</entry>
+        <entry encoding="base64">YWN0aW9uIChjb20ubWl0dXV6LmZ1enppZXIuRnV6emllcik=</entry>
+        <entry encoding="base64">YWN0aW9uIChjb20uZnV6enlmaWxlc2VhcmNoLik=</entry>
+        <entry encoding="base64">c291cmNlIH4vLmlkZWF2aW1yYw==</entry>
+        <entry encoding="base64">aQ==</entry>
+        <entry encoding="base64" />
+        <entry encoding="base64">JzwsJz4b</entry>
+        <entry encoding="base64">d10=</entry>
+        <entry encoding="base64">Vw==</entry>
+        <entry encoding="base64">dw==</entry>
+        <entry encoding="base64">Gw==</entry>
+      </history-cmd>
+      <history-search>
+        <entry encoding="base64">XDxFTW92aWVHZW5yZVR5cGVcPg==</entry>
+        <entry encoding="base64">ZXh0cmFjdA==</entry>
+        <entry encoding="base64">bGVhZGVyPmI=</entry>
+        <entry encoding="base64">cHJpbnRsaXN0</entry>
+        <entry encoding="base64">cGY=</entry>
+        <entry encoding="base64">ZnV6eg==</entry>
+        <entry encoding="base64">c2VhcmNo</entry>
+        <entry encoding="base64" />
+      </history-search>
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="oving1-singly-c59b9444">
+      <jump line="47" column="4" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/main.cpp" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.cpp" protocol="file" />
+      <jump line="4" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.cpp" protocol="file" />
+      <jump line="6" column="1" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.h" protocol="file" />
+      <jump line="31" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieList.cpp" protocol="file" />
+      <jump line="167" column="22" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieList.cpp" protocol="file" />
+      <jump line="5" column="4" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.h" protocol="file" />
+      <jump line="3" column="4" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.h" protocol="file" />
+      <jump line="10" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.h" protocol="file" />
+      <jump line="7" column="49" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.h" protocol="file" />
+      <jump line="8" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.h" protocol="file" />
+      <jump line="14" column="32" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.h" protocol="file" />
+      <jump line="21" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieList.h" protocol="file" />
+      <jump line="106" column="4" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieList.h" protocol="file" />
+      <jump line="105" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieList.h" protocol="file" />
+      <jump line="28" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.h" protocol="file" />
+      <jump line="62" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.h" protocol="file" />
+      <jump line="60" column="20" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.h" protocol="file" />
+      <jump line="17" column="43" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.h" protocol="file" />
+      <jump line="16" column="4" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.h" protocol="file" />
+      <jump line="19" column="21" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.h" protocol="file" />
+      <jump line="50" column="53" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.h" protocol="file" />
+      <jump line="61" column="26" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.h" protocol="file" />
+      <jump line="54" column="32" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.h" protocol="file" />
+      <jump line="57" column="23" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.h" protocol="file" />
+      <jump line="56" column="31" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.h" protocol="file" />
+      <jump line="68" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.h" protocol="file" />
+      <jump line="107" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieList.h" protocol="file" />
+      <jump line="1" column="2" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieList.h" protocol="file" />
+      <jump line="65" column="13" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.h" protocol="file" />
+      <jump line="1" column="23" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.h" protocol="file" />
+      <jump line="98" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieList.cpp" protocol="file" />
+      <jump line="24" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieList.h" protocol="file" />
+      <jump line="4" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieList.h" protocol="file" />
+      <jump line="50" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieList.h" protocol="file" />
+      <jump line="22" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieList.cpp" protocol="file" />
+      <jump line="2" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.cpp" protocol="file" />
+      <jump line="137" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.h" protocol="file" />
+      <jump line="4" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.h" protocol="file" />
+      <jump line="22" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.h" protocol="file" />
+      <jump line="24" column="16" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.h" protocol="file" />
+      <jump line="5" column="16" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.cpp" protocol="file" />
+      <jump line="7" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.cpp" protocol="file" />
+      <jump line="26" column="8" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.h" protocol="file" />
+      <jump line="15" column="5" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.cpp" protocol="file" />
+      <jump line="29" column="10" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.h" protocol="file" />
+      <jump line="32" column="10" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.h" protocol="file" />
+      <jump line="35" column="37" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.cpp" protocol="file" />
+      <jump line="35" column="14" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.h" protocol="file" />
+      <jump line="43" column="38" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.cpp" protocol="file" />
+      <jump line="62" column="15" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.cpp" protocol="file" />
+      <jump line="41" column="14" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.h" protocol="file" />
+      <jump line="70" column="5" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.cpp" protocol="file" />
+      <jump line="45" column="14" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.h" protocol="file" />
+      <jump line="79" column="19" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.cpp" protocol="file" />
+      <jump line="48" column="14" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.h" protocol="file" />
+      <jump line="96" column="42" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.cpp" protocol="file" />
+      <jump line="78" column="7" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieList.h" protocol="file" />
+      <jump line="72" column="4" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieList.h" protocol="file" />
+      <jump line="101" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/main.cpp" protocol="file" />
+      <jump line="25" column="4" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/main.cpp" protocol="file" />
+      <jump line="36" column="4" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/main.cpp" protocol="file" />
+      <jump line="42" column="4" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/main.cpp" protocol="file" />
+      <jump line="46" column="4" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/main.cpp" protocol="file" />
+      <jump line="50" column="4" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/main.cpp" protocol="file" />
+      <jump line="24" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/main.cpp" protocol="file" />
+      <jump line="72" column="11" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/main.cpp" protocol="file" />
+      <jump line="75" column="26" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/main.cpp" protocol="file" />
+      <jump line="74" column="20" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/main.cpp" protocol="file" />
+      <jump line="78" column="26" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/main.cpp" protocol="file" />
+      <jump line="144" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/main.cpp" protocol="file" />
+      <jump line="145" column="13" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/main.cpp" protocol="file" />
+      <jump line="151" column="35" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/main.cpp" protocol="file" />
+      <jump line="155" column="12" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/main.cpp" protocol="file" />
+      <jump line="67" column="16" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.cpp" protocol="file" />
+      <jump line="68" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.cpp" protocol="file" />
+      <jump line="111" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="80" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.cpp" protocol="file" />
+      <jump line="72" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.cpp" protocol="file" />
+      <jump line="22" column="19" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.cpp" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.cpp" protocol="file" />
+      <jump line="23" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.cpp" protocol="file" />
+      <jump line="90" column="18" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/main.cpp" protocol="file" />
+      <jump line="165" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieList.cpp" protocol="file" />
+      <jump line="66" column="16" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/main.cpp" protocol="file" />
+      <jump line="29" column="27" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/main.cpp" protocol="file" />
+      <jump line="28" column="1" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/main.cpp" protocol="file" />
+      <jump line="81" column="32" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/main.cpp" protocol="file" />
+      <jump line="80" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/main.cpp" protocol="file" />
+      <jump line="38" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.h" protocol="file" />
+      <jump line="75" column="16" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.cpp" protocol="file" />
+      <jump line="9" column="13" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.cpp" protocol="file" />
+      <jump line="13" column="13" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.cpp" protocol="file" />
+      <jump line="16" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.cpp" protocol="file" />
+      <jump line="65" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.cpp" protocol="file" />
+      <jump line="69" column="10" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieListDouble.cpp" protocol="file" />
+      <jump line="30" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/TMovieList.h" protocol="file" />
+      <jump line="61" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/main.cpp" protocol="file" />
+      <jump line="4" column="22" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/CMakeLists.txt" protocol="file" />
+      <jump line="1" column="19" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/CMakeLists.txt" protocol="file" />
+    </project>
+    <project id="submission1-c59b9444">
+      <jump line="6" column="27" filename="$USER_HOME$/ikt203g25h/submissions/submission1/singly/CMakeLists.txt" protocol="file" />
+    </project>
+    <project id="submission1-16f1c727">
+      <jump line="6" column="26" filename="$USER_HOME$/ikt203g25h/submissions/submission1/CMakeLists.txt" protocol="file" />
+      <jump line="69" column="10" filename="$USER_HOME$/ikt203g25h/submissions/submission1/TMovieListDouble.cpp" protocol="file" />
+      <jump line="93" column="27" filename="$USER_HOME$/ikt203g25h/submissions/submission1/TMovieListDouble.cpp" protocol="file" />
+      <jump line="111" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="30" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/TMovieList.h" protocol="file" />
+      <jump line="22" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/TMovieList.h" protocol="file" />
+      <jump line="61" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/main.cpp" protocol="file" />
+      <jump line="84" column="18" filename="$USER_HOME$/ikt203g25h/submissions/submission1/TMovieList.h" protocol="file" />
+      <jump line="13" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/TMovieList.h" protocol="file" />
+      <jump line="12" column="23" filename="$USER_HOME$/ikt203g25h/submissions/submission1/TMovieList.h" protocol="file" />
+      <jump line="16" column="16" filename="$USER_HOME$/ikt203g25h/submissions/submission1/TMovieList.h" protocol="file" />
+      <jump line="18" column="15" filename="$USER_HOME$/ikt203g25h/submissions/submission1/TMovieList.h" protocol="file" />
+      <jump line="20" column="1" filename="$USER_HOME$/ikt203g25h/submissions/submission1/TMovieList.h" protocol="file" />
+      <jump line="56" column="2" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="30" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="64" column="26" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="53" column="13" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="165" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/TMovieList.cpp" protocol="file" />
+      <jump line="38" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/TMovieListDouble.h" protocol="file" />
+      <jump line="19" column="18" filename="$USER_HOME$/ikt203g25h/submissions/submission1/TMovieList.h" protocol="file" />
+      <jump line="56" column="15" filename="$USER_HOME$/ikt203g25h/submissions/submission1/TMovieList.h" protocol="file" />
+      <jump line="23" column="11" filename="$USER_HOME$/ikt203g25h/submissions/submission1/TMovieList.h" protocol="file" />
+      <jump line="134" column="23" filename="$USER_HOME$/ikt203g25h/submissions/submission1/main.cpp" protocol="file" />
+      <jump line="88" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/main.cpp" protocol="file" />
+      <jump line="87" column="26" filename="$USER_HOME$/ikt203g25h/submissions/submission1/main.cpp" protocol="file" />
+      <jump line="70" column="4" filename="$USER_HOME$/ikt203g25h/submissions/submission1/main.cpp" protocol="file" />
+      <jump line="31" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/main.cpp" protocol="file" />
+      <jump line="17" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission1/main.cpp" protocol="file" />
+    </project>
+    <project id="submission2-16f1c728">
+      <jump line="62" column="24" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="56" column="52" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="207" column="39" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="204" column="46" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="210" column="37" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="255" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission2/CMakeLists.txt" protocol="file" />
+      <jump line="6" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission2/CMakeLists.txt" protocol="file" />
+      <jump line="8" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="15" column="39" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="17" column="12" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="18" column="13" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="27" column="41" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="20" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="23" column="4" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="31" column="3" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="12" column="19" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="29" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="37" column="16" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="39" column="36" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="47" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="46" column="6" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="44" column="33" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="43" column="33" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="49" column="7" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="54" column="20" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="45" column="27" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="60" column="4" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="61" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="22" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="13" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="24" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="33" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="42" column="5" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="38" column="11" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="63" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="32" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="26" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="25" column="10" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="3" column="6" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="80" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="73" column="36" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="70" column="5" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="64" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="65" column="3" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="66" column="9" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="34" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="36" column="9" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="40" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="2" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="48" column="4" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="88" column="32" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="41" column="13" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="96" column="12" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="93" column="4" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="91" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="85" column="34" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="82" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="97" column="64" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="81" column="3" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="79" column="21" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="86" column="4" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="71" column="16" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="74" column="46" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="72" column="46" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="69" column="10" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="77" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="92" column="17" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="94" column="4" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="95" column="4" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="101" column="5" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="105" column="112" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="87" column="2" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="83" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="123" column="12" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="146" column="10" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="142" column="77" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="143" column="32" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="145" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="148" column="11" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="150" column="11" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="119" column="33" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="118" column="4" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="57" column="31" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="53" column="15" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="55" column="18" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="58" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="120" column="35" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="110" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="121" column="24" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="115" column="9" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="116" column="4" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="108" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="111" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="127" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="154" column="11" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="52" column="23" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="35" column="23" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="99" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+      <jump line="117" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" protocol="file" />
+    </project>
+    <project id="submission3-16f1c729">
+      <jump line="3" column="12" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="4" column="1" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="21" column="5" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.tpp" protocol="file" />
+      <jump line="4" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.tpp" protocol="file" />
+      <jump line="39" column="26" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="14" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="30" column="2" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="27" column="13" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="15" column="4" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="20" column="8" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="22" column="23" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="25" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="54" column="19" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="52" column="4" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="36" column="11" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="35" column="6" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="56" column="17" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="32" column="65" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="29" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="28" column="29" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="45" column="6" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="67" column="15" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.cpp" protocol="file" />
+      <jump line="53" column="16" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="64" column="14" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="17" column="4" filename="$USER_HOME$/ikt203g25h/submissions/submission3/main.cpp" protocol="file" />
+      <jump line="74" column="13" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="70" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="66" column="25" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="78" column="3" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="23" column="13" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="80" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="43" column="13" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="86" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="13" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="12" column="11" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="5" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="18" column="23" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="17" column="21" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="21" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="61" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="42" column="17" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="82" column="6" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="83" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="12" column="3" filename="$USER_HOME$/ikt203g25h/submissions/submission3/main.cpp" protocol="file" />
+      <jump line="18" column="12" filename="$USER_HOME$/ikt203g25h/submissions/submission3/main.cpp" protocol="file" />
+      <jump line="16" column="25" filename="$USER_HOME$/ikt203g25h/submissions/submission3/main.cpp" protocol="file" />
+      <jump line="13" column="15" filename="$USER_HOME$/ikt203g25h/submissions/submission3/main.cpp" protocol="file" />
+      <jump line="81" column="12" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.tpp" protocol="file" />
+      <jump line="7" column="16" filename="$USER_HOME$/ikt203g25h/submissions/submission3/CMakeLists.txt" protocol="file" />
+      <jump line="6" column="8" filename="$USER_HOME$/ikt203g25h/submissions/submission3/CMakeLists.txt" protocol="file" />
+      <jump line="0" column="17" filename="$USER_HOME$/ikt203g25h/submissions/submission3/CMakeLists.txt" protocol="file" />
+      <jump line="21" column="19" filename="$USER_HOME$/ikt203g25h/submissions/submission3/main.cpp" protocol="file" />
+      <jump line="8" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TQueue.h" protocol="file" />
+      <jump line="2" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TQueue.h" protocol="file" />
+      <jump line="3" column="29" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TQueue.h" protocol="file" />
+      <jump line="17" column="1" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TQueue.h" protocol="file" />
+      <jump line="14" column="7" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TQueue.h" protocol="file" />
+      <jump line="16" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TQueue.h" protocol="file" />
+      <jump line="15" column="1" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TQueue.h" protocol="file" />
+      <jump line="13" column="13" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TQueue.h" protocol="file" />
+      <jump line="9" column="24" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TQueue.h" protocol="file" />
+      <jump line="23" column="1" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TQueue.h" protocol="file" />
+      <jump line="11" column="11" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TQueue.h" protocol="file" />
+      <jump line="27" column="1" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TQueue.h" protocol="file" />
+      <jump line="12" column="15" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TQueue.h" protocol="file" />
+      <jump line="28" column="19" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TQueue.h" protocol="file" />
+      <jump line="10" column="23" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TQueue.h" protocol="file" />
+      <jump line="43" column="28" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TQueue.h" protocol="file" />
+      <jump line="30" column="4" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TQueue.h" protocol="file" />
+      <jump line="7" column="30" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TQueue.h" protocol="file" />
+      <jump line="31" column="17" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TQueue.h" protocol="file" />
+      <jump line="39" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TQueue.h" protocol="file" />
+      <jump line="49" column="31" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TQueue.h" protocol="file" />
+      <jump line="24" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TQueue.h" protocol="file" />
+      <jump line="35" column="4" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TQueue.h" protocol="file" />
+      <jump line="36" column="21" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TQueue.h" protocol="file" />
+      <jump line="1" column="19" filename="$USER_HOME$/ikt203g25h/submissions/submission3/main.cpp" protocol="file" />
+      <jump line="24" column="13" filename="$USER_HOME$/ikt203g25h/submissions/submission3/main.cpp" protocol="file" />
+      <jump line="50" column="17" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="0" column="11" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TQueue.h" protocol="file" />
+      <jump line="18" column="55" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TQueue.h" protocol="file" />
+      <jump line="28" column="8" filename="$USER_HOME$/ikt203g25h/submissions/submission3/main.cpp" protocol="file" />
+      <jump line="8" column="38" filename="$USER_HOME$/ikt203g25h/submissions/submission3/main.cpp" protocol="file" />
+      <jump line="7" column="5" filename="$USER_HOME$/ikt203g25h/submissions/submission3/main.cpp" protocol="file" />
+      <jump line="10" column="10" filename="$USER_HOME$/ikt203g25h/submissions/submission3/main.cpp" protocol="file" />
+      <jump line="3" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/main.cpp" protocol="file" />
+      <jump line="15" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/main.cpp" protocol="file" />
+      <jump line="41" column="28" filename="$USER_HOME$/ikt203g25h/submissions/submission3/main.cpp" protocol="file" />
+      <jump line="23" column="19" filename="$USER_HOME$/ikt203g25h/submissions/submission3/main.cpp" protocol="file" />
+      <jump line="5" column="31" filename="$USER_HOME$/ikt203g25h/submissions/submission3/main.cpp" protocol="file" />
+      <jump line="40" column="48" filename="$USER_HOME$/ikt203g25h/submissions/submission3/main.cpp" protocol="file" />
+      <jump line="45" column="18" filename="$USER_HOME$/ikt203g25h/submissions/submission3/main.cpp" protocol="file" />
+      <jump line="11" column="25" filename="$USER_HOME$/ikt203g25h/submissions/submission3/main.cpp" protocol="file" />
+      <jump line="39" column="21" filename="$USER_HOME$/ikt203g25h/submissions/submission3/main.cpp" protocol="file" />
+      <jump line="36" column="20" filename="$USER_HOME$/ikt203g25h/submissions/submission3/main.cpp" protocol="file" />
+      <jump line="19" column="18" filename="$USER_HOME$/ikt203g25h/submissions/submission3/main.cpp" protocol="file" />
+      <jump line="37" column="43" filename="$USER_HOME$/ikt203g25h/submissions/submission3/main.cpp" protocol="file" />
+    </project>
+    <project id="ikt203g25h-b537039">
+      <jump line="0" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/main.cpp" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/CMakeLists.txt" protocol="file" />
+      <jump line="2" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/CMakeLists.txt" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission2/CMakeLists.txt" protocol="file" />
+      <jump line="2" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission2/CMakeLists.txt" protocol="file" />
+      <jump line="3" column="21" filename="$USER_HOME$/ikt203g25h/submissions/submission1/CMakeLists.txt" protocol="file" />
+      <jump line="7" column="0" filename="$USER_HOME$/ikt203g25h/CMakeLists.txt" protocol="file" />
+      <jump line="6" column="0" filename="$USER_HOME$/ikt203g25h/CMakeLists.txt" protocol="file" />
+    </project>
+    <project id="ikt203-b537039">
+      <jump line="5" column="20" filename="$USER_HOME$/ikt203g25h/submissions/submission3/practical_applications.cpp" protocol="file" />
+      <jump line="10" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/practical_applications.cpp" protocol="file" />
+      <jump line="5" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" protocol="file" />
+      <jump line="4" column="15" filename="$USER_HOME$/ikt203g25h/submissions/submission3/tests/tests.cpp" protocol="file" />
+      <jump line="3" column="25" filename="$USER_HOME$/ikt203g25h/submissions/submission3/CMakeLists.txt" protocol="file" />
+      <jump line="12" column="50" filename="$USER_HOME$/ikt203g25h/submissions/submission3/CMakeLists.txt" protocol="file" />
+      <jump line="0" column="11" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TQueue.tpp" protocol="file" />
+      <jump line="3" column="31" filename="$USER_HOME$/ikt203g25h/submissions/submission3/tests/tests.cpp" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/tests/tests.cpp" protocol="file" />
+      <jump line="48" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/tests/tests.cpp" protocol="file" />
+      <jump line="55" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/tests/tests.cpp" protocol="file" />
+      <jump line="54" column="36" filename="$USER_HOME$/ikt203g25h/submissions/submission3/tests/tests.cpp" protocol="file" />
+      <jump line="62" column="15" filename="$USER_HOME$/ikt203g25h/submissions/submission3/tests/tests.cpp" protocol="file" />
+      <jump line="58" column="1" filename="$USER_HOME$/ikt203g25h/submissions/submission3/tests/tests.cpp" protocol="file" />
+      <jump line="56" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/tests/tests.cpp" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/practical_applications.cpp" protocol="file" />
+      <jump line="60" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/tests/tests.cpp" protocol="file" />
+      <jump line="59" column="32" filename="$USER_HOME$/ikt203g25h/submissions/submission3/tests/tests.cpp" protocol="file" />
+      <jump line="61" column="9" filename="$USER_HOME$/ikt203g25h/submissions/submission3/tests/tests.cpp" protocol="file" />
+      <jump line="9" column="20" filename="$USER_HOME$/ikt203g25h/submissions/submission3/CMakeLists.txt" protocol="file" />
+      <jump line="11" column="33" filename="$USER_HOME$/ikt203g25h/submissions/submission3/CMakeLists.txt" protocol="file" />
+      <jump line="0" column="21" filename="$USER_HOME$/ikt203g25h/submissions/submission3/practical_applications.cpp" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="23" column="11" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="11" column="11" filename="$USER_HOME$/ikt203g25h/submissions/submission3/practical_applications.h" protocol="file" />
+      <jump line="22" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/practical_applications.cpp" protocol="file" />
+      <jump line="39" column="14" filename="$USER_HOME$/ikt203g25h/submissions/submission3/practical_applications.cpp" protocol="file" />
+      <jump line="12" column="34" filename="$USER_HOME$/ikt203g25h/submissions/submission3/practical_applications.h" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/tests/tests.cpp" protocol="file" />
+      <jump line="63" column="38" filename="$USER_HOME$/ikt203g25h/submissions/submission3/tests/tests.cpp" protocol="file" />
+      <jump line="65" column="9" filename="$USER_HOME$/ikt203g25h/submissions/submission3/tests/tests.cpp" protocol="file" />
+      <jump line="69" column="35" filename="$USER_HOME$/ikt203g25h/submissions/submission3/tests/tests.cpp" protocol="file" />
+      <jump line="76" column="26" filename="$USER_HOME$/ikt203g25h/submissions/submission3/tests/tests.cpp" protocol="file" />
+      <jump line="37" column="12" filename="$USER_HOME$/ikt203g25h/submissions/submission3/practical_applications.cpp" protocol="file" />
+      <jump line="67" column="37" filename="$USER_HOME$/ikt203g25h/submissions/submission3/tests/tests.cpp" protocol="file" />
+      <jump line="34" column="5" filename="$USER_HOME$/ikt203g25h/submissions/submission3/practical_applications.cpp" protocol="file" />
+      <jump line="30" column="108" filename="$USER_HOME$/ikt203g25h/submissions/submission3/practical_applications.cpp" protocol="file" />
+      <jump line="21" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/practical_applications.cpp" protocol="file" />
+      <jump line="43" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/practical_applications.cpp" protocol="file" />
+      <jump line="55" column="4" filename="$USER_HOME$/ikt203g25h/submissions/submission3/practical_applications.cpp" protocol="file" />
+      <jump line="7" column="38" filename="$USER_HOME$/ikt203g25h/submissions/submission3/main.cpp" protocol="file" />
+      <jump line="66" column="55" filename="$USER_HOME$/ikt203g25h/submissions/submission3/practical_applications.cpp" protocol="file" />
+      <jump line="13" column="5" filename="$USER_HOME$/ikt203g25h/submissions/submission3/practical_applications.h" protocol="file" />
+      <jump line="69" column="44" filename="$USER_HOME$/ikt203g25h/submissions/submission3/practical_applications.cpp" protocol="file" />
+      <jump line="56" column="47" filename="$USER_HOME$/ikt203g25h/submissions/submission3/practical_applications.cpp" protocol="file" />
+      <jump line="63" column="19" filename="$USER_HOME$/ikt203g25h/submissions/submission3/practical_applications.cpp" protocol="file" />
+      <jump line="5" column="4" filename="$USER_HOME$/ikt203g25h/submissions/submission3/main.cpp" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.h" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.h" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.cpp" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.cpp" protocol="file" />
+      <jump line="11" column="8" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.cpp" protocol="file" />
+      <jump line="16" column="12" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.cpp" protocol="file" />
+      <jump line="15" column="8" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.cpp" protocol="file" />
+      <jump line="11" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/main.cpp" protocol="file" />
+      <jump line="14" column="30" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.cpp" protocol="file" />
+      <jump line="14" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/practical_applications.h" protocol="file" />
+      <jump line="40" column="17" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.cpp" protocol="file" />
+      <jump line="9" column="19" filename="$USER_HOME$/ikt203g25h/submissions/submission3/main.cpp" protocol="file" />
+      <jump line="12" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/main.cpp" protocol="file" />
+      <jump line="8" column="25" filename="$USER_HOME$/ikt203g25h/submissions/submission3/main.cpp" protocol="file" />
+      <jump line="49" column="25" filename="$USER_HOME$/ikt203g25h/submissions/submission3/practical_applications.cpp" protocol="file" />
+      <jump line="35" column="1" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.cpp" protocol="file" />
+      <jump line="3" column="25" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.h" protocol="file" />
+      <jump line="9" column="14" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.h" protocol="file" />
+      <jump line="10" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.h" protocol="file" />
+      <jump line="5" column="7" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.h" protocol="file" />
+      <jump line="34" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.cpp" protocol="file" />
+      <jump line="7" column="15" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.h" protocol="file" />
+      <jump line="18" column="13" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.h" protocol="file" />
+      <jump line="19" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.h" protocol="file" />
+      <jump line="11" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.h" protocol="file" />
+      <jump line="2" column="7" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.h" protocol="file" />
+      <jump line="14" column="11" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.h" protocol="file" />
+      <jump line="22" column="4" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.cpp" protocol="file" />
+      <jump line="10" column="28" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.cpp" protocol="file" />
+      <jump line="30" column="4" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.cpp" protocol="file" />
+      <jump line="6" column="24" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.cpp" protocol="file" />
+      <jump line="8" column="3" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.cpp" protocol="file" />
+      <jump line="36" column="4" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.cpp" protocol="file" />
+      <jump line="12" column="15" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.cpp" protocol="file" />
+      <jump line="13" column="5" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.cpp" protocol="file" />
+      <jump line="21" column="19" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.cpp" protocol="file" />
+      <jump line="32" column="23" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.cpp" protocol="file" />
+      <jump line="41" column="25" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.cpp" protocol="file" />
+      <jump line="49" column="4" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.cpp" protocol="file" />
+      <jump line="33" column="4" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.cpp" protocol="file" />
+      <jump line="42" column="12" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.cpp" protocol="file" />
+      <jump line="46" column="12" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.cpp" protocol="file" />
+      <jump line="7" column="2" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.cpp" protocol="file" />
+      <jump line="48" column="5" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.cpp" protocol="file" />
+      <jump line="17" column="9" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.cpp" protocol="file" />
+      <jump line="18" column="22" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.cpp" protocol="file" />
+      <jump line="4" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.cpp" protocol="file" />
+      <jump line="29" column="4" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.cpp" protocol="file" />
+      <jump line="24" column="14" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.cpp" protocol="file" />
+      <jump line="23" column="26" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.cpp" protocol="file" />
+      <jump line="19" column="16" filename="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.cpp" protocol="file" />
+      <jump line="13" column="18" filename="$USER_HOME$/ikt203g25h/submissions/submission3/main.cpp" protocol="file" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/ikt203g25h/submissions/submission3/tests/tests.cpp" timestamp="1756466251605">
+        <mark key="[" line="68" column="34" />
+        <mark key="]" line="68" column="41" />
+        <mark key="." line="68" column="40" />
+        <mark key="^" line="68" column="41" />
+      </file>
+      <file name="$USER_HOME$/ikt203g25h/submissions/submission3/practical_applications.h" timestamp="1756469570765">
+        <mark key="&quot;" line="12" column="0" />
+        <mark key="[" line="13" column="25" />
+        <mark key="]" line="13" column="26" />
+        <mark key="^" line="13" column="26" />
+        <mark key="." line="13" column="25" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1756465727280">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ikt203g25h/submissions/submission3/tests/test_queue_stack.cpp" timestamp="1756457015948">
+        <mark key="&quot;" line="23" column="32" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="2" column="15" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ikt203g25h/submissions/submission2/main.cpp" timestamp="1756465733066">
+        <mark key="&quot;" line="161" column="0" />
+      </file>
+      <file name="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.tpp" timestamp="1756459173943">
+        <mark key="&quot;" line="1" column="0" />
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" timestamp="1756465727410">
+        <mark key="&quot;" line="61" column="0" />
+        <mark key="'" line="6" column="0" />
+        <mark key="z" line="54" column="4" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/ikt203g25h/SharedCode/VatnarUtility/VatnarDebug/assert.h" timestamp="1756459177598">
+        <mark key="&quot;" line="2" column="20" />
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="12" />
+        <mark key="^" line="2" column="13" />
+      </file>
+      <file name="$USER_HOME$/ikt203g25h/submissions/submission3/TQueue.h" timestamp="1756459174570">
+        <mark key="&quot;" line="24" column="0" />
+        <mark key="[" line="24" column="4" />
+        <mark key="]" line="24" column="4" />
+        <mark key="^" line="25" column="12" />
+        <mark key="." line="24" column="4" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1756471621601">
+        <mark key="&quot;" line="23" column="11" />
+      </file>
+      <file name="$USER_HOME$/ikt203g25h/submissions/submission3/main.cpp" timestamp="1756472783229">
+        <mark key="[" line="13" column="14" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="18" />
+        <mark key="^" line="13" column="19" />
+      </file>
+      <file name="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.cpp" timestamp="1756472771360">
+        <mark key="[" line="19" column="10" />
+        <mark key="]" line="19" column="17" />
+        <mark key="^" line="19" column="17" />
+        <mark key="." line="19" column="16" />
+      </file>
+      <file name="$USER_HOME$/ikt203g25h/CMakeLists.txt" timestamp="1756465732693">
+        <mark key="&quot;" line="23" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/ikt203g25h/submissions/submission3/TQueue.tpp" timestamp="1756459521053">
+        <mark key="&quot;" line="0" column="11" />
+        <mark key="'" line="46" column="4" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/ikt203g25h/submissions/submission3/tests/test_structures.cpp" timestamp="1756456296017">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="66" column="13" />
+        <mark key="." line="66" column="12" />
+        <mark key="^" line="66" column="13" />
+      </file>
+      <file name="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.h" timestamp="1756472074802">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="12" />
+        <mark key="^" line="5" column="13" />
+      </file>
+      <file name="$USER_HOME$/ikt203g25h/submissions/submission3/CMakeLists.txt" timestamp="1756471799297">
+        <mark key="&quot;" line="13" column="33" />
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="13" column="34" />
+        <mark key="^" line="13" column="34" />
+        <mark key="." line="13" column="33" />
+      </file>
+      <file name="$USER_HOME$/ikt203g25h/submissions/submission1/CMakeLists.txt" timestamp="1756469925583">
+        <mark key="&quot;" line="2" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="1" />
+      </file>
+      <file name="$USER_HOME$/ikt203g25h/submissions/submission1/TMovieListDouble.h" timestamp="1756465727767">
+        <mark key="&quot;" line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/ikt203g25h/submissions/submission3/practical_applications.cpp" timestamp="1756471797362">
+        <mark key="&quot;" line="49" column="25" />
+        <mark key="[" line="64" column="22" />
+        <mark key="]" line="63" column="20" />
+        <mark key="." line="63" column="19" />
+        <mark key="^" line="63" column="20" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="CHARACTER_WISE">
+        <text encoding="base64">YXJy</text>
+      </register>
+      <register name="*" type="CHARACTER_WISE">
+        <text encoding="base64">YXJy</text>
+      </register>
+      <register name="+" type="CHARACTER_WISE">
+        <text encoding="base64">YXV0byBiQXJyID0gbmV3IGJvb2wgKlsxMDBdOwoKICAgIGlmICgqYkFyciA9PSBudWxscHRyKQogICAgewogICAgICAgIHN0ZDo6Y2VyciA8PCAiRXJyb3IgYWxsb2NhdGluZyBtZW1vcnkgZm9yIGFycltpXSIgPDwgc3RkOjplbmRsOwogICAgICAgIHJldHVybiB7fTsKICAgIH0KICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMTAwOyBpKyspCiAgICB7CiAgICAgICAgYkFycltpXSA9IG5ldyBib29sWzEwMF07CiAgICAgICAgCiAgICAgICAgaWYgKGJBcnJbaV0gPT0gbnVsbHB0cikKICAgICAgICB7CiAgICAgICAgICAgIHN0ZDo6Y2VyciA8PCAiRXJyb3IgYWxsb2NhdGluZyBtZW1vcnkgZm9yIGFycltpXSIgPDwgc3RkOjplbmRsOwogICAgICAgICAgICByZXR1cm4ge307CiAgICAgICAgfQogICAgfQ==</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">YXJy</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">c2V0dXA=</text>
+      </register>
+      <register name="/" type="CHARACTER_WISE">
+        <text encoding="base64">c2VhcmNo</text>
+      </register>
+      <register name="0" type="CHARACTER_WISE">
+        <text encoding="base64">aWYgKHNldHVwLmlBcnIgPT0gbnVsbHB0cikKICAgICAgICByZXR1cm47CiAgICBmb3IgKGludCBpID0gMDsgaSA8IDEwMDsgaSsrKQogICAgICAgIGRlbGV0ZVtdIHNldHVwLmlBcnJbaV07CiAgICBkZWxldGVbXSBzZXR1cC5pQXJyOw==</text>
+      </register>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">ICAgIGlmIChzZXR1cC5iQXJyID09IG51bGxwdHIpCg==</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">ICAgIGlmIChzZXR1cC5pQXJyID09IG51bGxwdHIpCg==</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+      </register>
+      <register name="5" type="CHARACTER_WISE">
+        <text encoding="base64">ICBTZXR1cFN0cnVjdCBzZXR1cHt9OwogICAgYXV0byAgICAgICAgaUFyciA9IG5ldyBpbnQgKlsxMDBdOwoKICAgIGlmICgqaUFyciA9PSBudWxscHRyKQogICAgewogICAgICAgIHN0ZDo6Y2VyciA8PCAiRXJyb3IgYWxsb2NhdGluZyBtZW1vcnkgZm9yIGFycltpXSIgPDwgc3RkOjplbmRsOwogICAgICAgIHJldHVybiB7fTsKICAgIH0KICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMTAwOyBpKyspCiAgICB7CiAgICAgICAgaUFycltpXSA9IG5ldyBpbnRbMTAwXTsKCiAgICAgICAgaWYgKGlBcnJbaV0gPT0gbnVsbHB0cikKICAgICAgICB7CiAgICAgICAgICAgIHN0ZDo6Y2VyciA8PCAiRXJyb3IgYWxsb2NhdGluZyBtZW1vcnkgZm9yIGFycltpXSIgPDwgc3RkOjplbmRsOwogICAgICAgICAgICByZXR1cm4ge307CiAgICAgICAgfQogICAgfQogICAgZm9yIChpbnQgaSA9IDA7IGkgPCAxMDA7IGkrKykKICAgIHsKICAgICAgICBmb3IgKGludCBqID0gMDsgaiA8IDEwMDsgaisrKQogICAgICAgIHsKCiAgICAgICAgICAgIGlBcnJbaV1bal0gPSByYW5kKCkgJSA5OyAvLyB3ZSB3b3VsZG50IHVzZSByYW5kKCkgZm9yIHNlY3VyaXR5LCBidXQgaXRzIGZpbmUgaGVyZQogICAgICAgIH0KICAgIH0KICAgIGF1dG8gYkFyciA9IG5ldyBib29sICpbMTAwXTsKCiAgICBpZiAoKmJBcnIgPT0gbnVsbHB0cikKICAgIHsKICAgICAgICBzdGQ6OmNlcnIgPDwgIkVycm9yIGFsbG9jYXRpbmcgbWVtb3J5IGZvciBhcnJbaV0iIDw8IHN0ZDo6ZW5kbDsKICAgICAgICByZXR1cm4ge307CiAgICB9CiAgICBmb3IgKGludCBpID0gMDsgaSA8IDEwMDsgaSsrKQogICAgewogICAgICAgIGJBcnJbaV0gPSBuZXcgYm9vbFsxMDBdOwoKICAgICAgICBpZiAoYkFycltpXSA9PSBudWxscHRyKQogICAgICAgIHsKICAgICAgICAgICAgc3RkOjpjZXJyIDw8ICJFcnJvciBhbGxvY2F0aW5nIG1lbW9yeSBmb3IgYXJyW2ldIiA8PCBzdGQ6OmVuZGw7CiAgICAgICAgICAgIHJldHVybiB7fTsKICAgICAgICB9CiAgICB9Cgo=</text>
+      </register>
+      <register name="6" type="LINE_WISE">
+        <text encoding="base64">ICAgIHN0ZDo6bWVtc2V0KGJBcnIsIDAsIDEwMCoxMDAgKiBzaXplb2YoYm9vbCkpOwo=</text>
+      </register>
+      <register name="7" type="LINE_WISE">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="8" type="LINE_WISE">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="9" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">dw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">c2VhcmNo</last-search>
+      <last-offset encoding="base64" />
+      <last-pattern encoding="base64">c2VhcmNo</last-pattern>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">dHJ1ZQ==</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

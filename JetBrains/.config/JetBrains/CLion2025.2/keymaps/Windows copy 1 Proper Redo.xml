@@ -1,0 +1,42 @@
+<keymap version="1" name="Windows copy 1 Proper Redo" parent="$default">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="CIDR.Lang.Cpp.NewClass">
+    <keyboard-shortcut first-keystroke="ctrl alt n" second-keystroke="ctrl alt c" />
+  </action>
+  <action id="EditorBackwardParagraph">
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+  </action>
+  <action id="EditorCodeBlockEnd" />
+  <action id="EditorCodeBlockStart" />
+  <action id="EditorDeleteLine" />
+  <action id="EditorForwardParagraph">
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
+  </action>
+  <action id="EditorScrollDown" />
+  <action id="EditorScrollUp" />
+  <action id="ExpressionTypeInfo" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt t" />
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="shift ctrl alt r" />
+  </action>
+  <action id="ToggleInlayHintsGloballyAction">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
+  <action id="relativelinesjump.actions.mode.JumpDownModeAction">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
+  <action id="relativelinesjump.actions.mode.JumpUpModeAction">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
+</keymap>

@@ -1,0 +1,180 @@
+<application>
+  <component name="DailyLocalStatistics">
+    <dateToStats>
+      <entry key="2025-8-19-17">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="157" />
+                <distribution>
+                  <entry key="Language: C#" value="157" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="157" />
+                <distribution>
+                  <entry key="EMPTY" value="137" />
+                  <entry key="INVALIDATED" value="20" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="157" />
+                <distribution>
+                  <entry key="false" value="157" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-8-28-15">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="30" />
+                <distribution>
+                  <entry key="Language: C#" value="30" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="30" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="1" />
+                  <entry key="EMPTY" value="12" />
+                  <entry key="INVALIDATED" value="17" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="1" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="1" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="30" />
+                <distribution>
+                  <entry key="false" value="29" />
+                  <entry key="true" value="1" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-8-29-8">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="449" />
+                <distribution>
+                  <entry key="Language: C#" value="449" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="449" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="6" />
+                  <entry key="CARET_CHANGED" value="13" />
+                  <entry key="EMPTY" value="235" />
+                  <entry key="INVALIDATED" value="185" />
+                  <entry key="MOUSE_PRESSED" value="2" />
+                  <entry key="SELECTED" value="5" />
+                  <entry key="TYPED" value="3" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="47" />
+                <option name="sum" value="154.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="47" />
+                <option name="sum" value="7.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="449" />
+                <distribution>
+                  <entry key="false" value="402" />
+                  <entry key="true" value="47" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-8-29-9">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="957" />
+                <distribution>
+                  <entry key="Language: C#" value="956" />
+                  <entry key="Language: RazorHtmlDialect" value="1" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="957" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="8" />
+                  <entry key="CARET_CHANGED" value="25" />
+                  <entry key="EMPTY" value="457" />
+                  <entry key="ERROR" value="50" />
+                  <entry key="INVALIDATED" value="394" />
+                  <entry key="OTHER" value="1" />
+                  <entry key="SELECTED" value="20" />
+                  <entry key="TYPED" value="2" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="86" />
+                <option name="sum" value="462.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="86" />
+                <option name="sum" value="22.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="957" />
+                <distribution>
+                  <entry key="false" value="871" />
+                  <entry key="true" value="86" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+    </dateToStats>
+  </component>
+</application>

@@ -1,0 +1,90 @@
+<application>
+  <component name="RiderRecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_1/assignment_1.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="assignment_1 [~/ikt201g25h/assignments/solutions/assignment_1] – /home/vatnar/ikt201g25h/assignments/solutions/assignment_1/Program.cs" projectWorkspaceId="31uw0gbcxLnPaPvqXG74ke9fKqn">
+              <option name="activationTimestamp" value="1756388724783" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-252.23892.524" />
+              <option name="buildTimestamp" value="1755035640000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="0" y="0" width="1920" height="1080" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1756387044686" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ikt201g25h/examples/Example2/Example2.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Example2 [~/ikt201g25h/examples/Example2] – /home/vatnar/ikt201g25h/examples/Example2/Data/ApplicationDbContext.cs" projectWorkspaceId="31uzQIqVCyqVcgaPTc3kKKAq90J">
+              <option name="activationTimestamp" value="1756449094544" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-252.23892.537" />
+              <option name="buildTimestamp" value="1755726060000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="0" y="0" width="1920" height="1080" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1756449069470" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ikt201g25h/examples/02_entity_framework/Example.csproj">
+          <value>
+            <RecentProjectMetaInfo displayName="Example" frameTitle="02_entity_framework [~/ikt201g25h/examples/02_entity_framework] – /home/vatnar/ikt201g25h/examples/02_entity_framework/Views/Authors/Add.cshtml" projectWorkspaceId="31wxmwQoESt327IymbG5FlWhVFW">
+              <option name="activationTimestamp" value="1756460965610" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-252.23892.537" />
+              <option name="buildTimestamp" value="1755726060000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="6" y="6" width="1908" height="1028" />
+              <option name="metadata" value="02_entity_framework|/home/vatnar/ikt201g25h/examples/02_entity_framework/Example.csproj" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1756449098505" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_2/WebApplication1/WebApplication1.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="WebApplication1 [~/ikt201g25h/assignments/solutions/assignment_2/WebApplication1]" projectWorkspaceId="31wy2hsj7TwiXLnmjZurqeGUI00">
+              <option name="activationTimestamp" value="1756449278750" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-252.23892.537" />
+              <option name="buildTimestamp" value="1755726060000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="6" y="6" width="949" height="1028" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1756449223594" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_2/assignment_2.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="assignment_2 [~/ikt201g25h/assignments/solutions/assignment_2] – /home/vatnar/ikt201g25h/assignments/solutions/assignment_2/Views/Guestbook/Index.cshtml" opened="true" projectWorkspaceId="31wyEfznqbXfpFNbYQaDZHtNKQE">
+              <option name="activationTimestamp" value="1756461022733" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-252.23892.537" />
+              <option name="buildTimestamp" value="1755726060000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="6" y="6" width="1908" height="1028" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1756460966620" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_2/assignment_2.sln" />
+  </component>
+</application>

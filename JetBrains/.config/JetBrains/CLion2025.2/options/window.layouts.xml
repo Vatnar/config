@@ -1,0 +1,112 @@
+<application>
+  <component name="ToolWindowLayout"><![CDATA[{
+  "layouts": {
+    "Custom": {
+      "v2": [
+        {
+          "id": "Commit",
+          "order": 0,
+          "isShowStripeButton": false,
+          "weight": 0.25
+        },
+        {
+          "id": "Version Control",
+          "order": 0,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems",
+          "order": 1,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems View",
+          "order": 2,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Terminal",
+          "order": 3,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Services",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "CMake",
+          "order": 5,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Python Packages",
+          "order": 6,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Notifications",
+          "order": 0,
+          "anchor": "RIGHT",
+          "contentUiType": "COMBO",
+          "weight": 0.25
+        },
+        {
+          "id": "AIAssistant",
+          "order": 1,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Database",
+          "order": 2,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Gradle",
+          "order": 3,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Maven",
+          "order": 4,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Meson",
+          "order": 5,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "Python Console",
+          "order": 6,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "Project",
+          "order": 7,
+          "anchor": "RIGHT",
+          "contentUiType": "COMBO",
+          "isVisible": true,
+          "weight": 0.16328125
+        },
+        {
+          "id": "Structure",
+          "order": 8,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        }
+      ],
+      "unifiedWeights": {
+        "top": 0.33,
+        "left": 0.16328125,
+        "bottom": 0.33,
+        "right": 0.33
+      }
+    }
+  }
+}]]></component>
+</application>

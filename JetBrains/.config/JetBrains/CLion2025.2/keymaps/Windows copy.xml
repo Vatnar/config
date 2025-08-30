@@ -1,0 +1,11 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="f" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="r" />
+  </action>
+  <action id="Replace" />
+  <action id="Terminal.SearchInCommandHistory" />
+  <action id="UsageFiltering.ReadAccess" />
+</keymap>

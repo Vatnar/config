@@ -1,0 +1,45 @@
+# font
+font-family = Hack Nerd Font Mono
+font-size = 12
+font-feature = "-liga"
+bold-is-bright = true
+
+# window customization
+window-padding-x = 5
+window-padding-y = 5
+background-opacity = 0.9
+
+# theme
+theme = catppuccin-mocha
+
+# command
+shell-integration = fish
+command = /usr/bin/fish --login --interactive
+
+# history buffer
+scrollback-limit = 10000
+
+# keybinds
+keybind = performable:ctrl+c=copy_to_clipboard
+keybind = performable:ctrl+v=paste_from_clipboard
+# Split right (horizontal)
+keybind = alt+shift+d=new_split:right
+
+# Split down (vertical)
+keybind = alt+shift+s=new_split:down
+
+# Close current pane
+keybind = alt+shift+w=close_surface
+
+# Move between panes
+keybind = alt+left=goto_split:left
+keybind = alt+right=goto_split:right
+keybind = alt+up=goto_split:up
+keybind = alt+down=goto_split:down
+
+
+# cursror
+cursor-style = "block"
+cursor-style-blink = true
+cursor-click-to-move = true
+

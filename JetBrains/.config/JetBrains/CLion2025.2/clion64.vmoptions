@@ -1,0 +1,6 @@
+-Xmx2048m
+-Dide.managed.by.toolbox=/home/vatnar/bin/jetbrains-toolbox-2.8.1.52155/bin/jetbrains-toolbox
+-Dtoolbox.notification.token=8ad7c706-b880-4fce-867a-faa696bc6d25
+-Dtoolbox.notification.portFile=/home/vatnar/.cache/JetBrains/Toolbox/ports/259c724c-823a-4887-b241-beb3f743c86a.port
+-Didea.suppressed.plugins.set.selector=radler
+-Dcom.sun.awt.use.national.layouts=false

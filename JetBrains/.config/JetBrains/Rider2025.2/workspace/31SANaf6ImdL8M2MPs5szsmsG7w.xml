@@ -1,0 +1,583 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="assignment_1" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2b8bu0v6d1k93" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/assignment_1.csproj" file-id="190" managing-fs="1755195194016">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"assignment_1.csproj","foregroundColor":-3287308,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,117,10,40,114,101,115,104,97,114,112,101,114,47,80,114,111,106,101,99,116,77,111,100,101,108,47,67,115,104,97,114,112,80,114,111,106,101,99,116,46,115,118,103,18,46,114,101,115,104,97,114,112,101,114,47,101,120,112,117,105,47,80,114,111,106,101,99,116,77,111,100,101,108,47,67,115,104,97,114,112,80,114,111,106,101,99,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-14,-31,-20,-82,-2,-1,-1,-1,-1,1,48,2]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/Program.cs" file-id="194" managing-fs="1755195194016">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="588">
+              <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Program.cs","foregroundColor":-3287308,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,92,10,30,114,101,115,104,97,114,112,101,114,47,80,115,105,67,83,104,97,114,112,47,67,115,104,97,114,112,46,115,118,103,18,36,114,101,115,104,97,114,112,101,114,47,101,120,112,117,105,47,80,115,105,67,83,104,97,114,112,47,67,115,104,97,114,112,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-118,-79,-68,-127,4,48,2]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Views/About/Index.cshtml" file-id="579" managing-fs="1755195194016">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="420">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Index.cshtml","foregroundColor":-7752454,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,99,10,31,114,105,100,101,114,47,102,105,108,101,84,121,112,101,115,47,114,97,122,111,114,67,83,104,97,114,112,46,115,118,103,18,37,114,105,100,101,114,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,114,97,122,111,114,67,83,104,97,114,112,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-24,-105,-81,-119,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/Views/Shared/_Layout.cshtml" file-id="582" managing-fs="1755195194016">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="420">
+              <caret line="74" column="12" selection-start-line="74" selection-start-column="12" selection-end-line="74" selection-end-column="82" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"_Layout.cshtml","foregroundColor":-3287308,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,99,10,31,114,105,100,101,114,47,102,105,108,101,84,121,112,101,115,47,114,97,122,111,114,67,83,104,97,114,112,46,115,118,103,18,37,114,105,100,101,114,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,114,97,122,111,114,67,83,104,97,114,112,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-24,-105,-81,-119,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/Controllers/AboutController.cs" file-id="668" managing-fs="1755195194016">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="315">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <marker date="1755617336936" expanded="true" signature="157:192" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"AboutController.cs","foregroundColor":-7752454,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,92,10,30,114,101,115,104,97,114,112,101,114,47,80,115,105,67,83,104,97,114,112,47,67,115,104,97,114,112,46,115,118,103,18,36,114,101,115,104,97,114,112,101,114,47,101,120,112,117,105,47,80,115,105,67,83,104,97,114,112,47,67,115,104,97,114,112,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-118,-79,-68,-127,4,48,2]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Csproj": {
+      "usageCount": 6,
+      "lastUsed": 1755609280172
+    },
+    "WebPreview": {
+      "usageCount": 2,
+      "lastUsed": 1755507063525
+    },
+    "C#": {
+      "usageCount": 7,
+      "lastUsed": 1755609280215
+    },
+    "Razor": {
+      "usageCount": 7,
+      "lastUsed": 1755609280549
+    },
+    "CSS": {
+      "usageCount": 1,
+      "lastUsed": 1755606796804
+    },
+    "JSON": {
+      "usageCount": 2,
+      "lastUsed": 1755611070613
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory"><![CDATA[{
+  "changedPaths": [
+    "/home/vatnar/ikt201g25h/assignments/solutions/assignment_1/Controllers/AboutController.cs",
+    "/home/vatnar/ikt201g25h/assignments/solutions/assignment_1/Views/About/Index.cshtml"
+  ]
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.assignment_1/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="C#">
+      <summary usageCount="7" lastUsage="1755609280215" />
+    </language>
+    <language id="CSS">
+      <summary usageCount="1" lastUsage="1755606796804" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="2" lastUsage="1755611070613" />
+    </language>
+    <language id="MSBuild">
+      <summary usageCount="6" lastUsage="1755609280174" />
+    </language>
+    <language id="Razor">
+      <summary usageCount="7" lastUsage="1755609280549" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="assignment_1" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="assignment_1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="assignment_1" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="assignment_1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="assignment_1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Properties" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="assignment_1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="assignment_1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="wwwroot" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="assignment_1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="assignment_1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="wwwroot" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="css" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="assignment_1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="assignment_1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="assignment_1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="assignment_1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="assignment_1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="assignment_1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="About" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="assignment_1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="assignment_1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Home" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="assignment_1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="assignment_1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Shared" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="assignment_1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="assignment_1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Shared" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="_Layout.cshtml" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="assignment_1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="assignment_1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Shared" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="_Layout.cshtml" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </select>
+        </subPane>
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+        <option name="search-dependencies" value="false" />
+        <option name="show-unreal-project-files" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer">
+        <option name="show-all-files" value="true" />
+      </pane>
+    </panes>
+  </component>
+  <component name="RiderPerAppToolWindowOpenedTWKeeper">
+    <option name="map">
+      <map>
+        <entry key="AIAssistant">
+          <value>
+            <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="Bookmarks">
+          <value>
+            <window_info id="Bookmarks" order="2" side_tool="true" weight="0.3982255" />
+          </value>
+        </entry>
+        <entry key="Build">
+          <value>
+            <window_info anchor="bottom" id="Build" order="6" weight="0.3300926" />
+          </value>
+        </entry>
+        <entry key="Commit">
+          <value>
+            <window_info id="Commit" order="0" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="Database">
+          <value>
+            <window_info anchor="right" id="Database" order="2" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="Debug">
+          <value>
+            <window_info anchor="bottom" id="Debug" order="7" weight="0.3146887" />
+          </value>
+        </entry>
+        <entry key="Find">
+          <value>
+            <window_info anchor="bottom" id="Find" order="8" weight="0.3146887" />
+          </value>
+        </entry>
+        <entry key="Gradle">
+          <value>
+            <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="Maven">
+          <value>
+            <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="Monitoring">
+          <value>
+            <window_info anchor="right" id="Monitoring" order="5" weight="0.3299266" />
+          </value>
+        </entry>
+        <entry key="Notifications">
+          <value>
+            <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="Problems">
+          <value>
+            <window_info anchor="bottom" id="Problems" order="1" />
+          </value>
+        </entry>
+        <entry key="Problems View">
+          <value>
+            <window_info anchor="bottom" id="Problems View" order="2" weight="0.33025292" />
+          </value>
+        </entry>
+        <entry key="Project">
+          <value>
+            <window_info active="true" anchor="right" content_ui="combo" id="Project" order="6" visible="true" weight="0.37776607" />
+          </value>
+        </entry>
+        <entry key="Run">
+          <value>
+            <window_info anchor="bottom" id="Run" order="5" weight="0.3146887" />
+          </value>
+        </entry>
+        <entry key="Services">
+          <value>
+            <window_info anchor="bottom" id="Services" order="4" />
+          </value>
+        </entry>
+        <entry key="Structure">
+          <value>
+            <window_info id="Structure" order="1" side_tool="true" weight="0.3986979" />
+          </value>
+        </entry>
+        <entry key="Terminal">
+          <value>
+            <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.1502809" />
+          </value>
+        </entry>
+        <entry key="Version Control">
+          <value>
+            <window_info anchor="bottom" id="Version Control" order="0" />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting=".NET Launch Settings Profile.assignment_1: http" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+      <TerminalTabState tabName="bash (/bin/bash)">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+    <option name="mySelectedTabIndex" value="1" />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11576000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Commit" order="0" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.3986979" />
+      <window_info id="Bookmarks" order="2" side_tool="true" weight="0.3982255" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.33025292" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.1502809" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.3146887" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.3300926" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3146887" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.3146887" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Monitoring" order="5" weight="0.3299266" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="6" visible="true" weight="0.37776607" />
+      <unified_weights bottom="0.1502809" left="0.3982255" right="0.37776607" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="231" y="405" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1755507942998">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="231" y="405" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1755507942998" />
+    <state x="720" y="282" width="470" height="486" key="FileChooserDialogImpl" timestamp="1755507939989">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="720" y="282" width="470" height="486" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1755507939989" />
+    <state width="958" height="291" key="GridCell.Tab.0.bottom" timestamp="1755609264763">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="958" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1755609264763" />
+    <state width="958" height="291" key="GridCell.Tab.0.center" timestamp="1755609264763">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="958" height="291" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1755609264763" />
+    <state width="958" height="291" key="GridCell.Tab.0.left" timestamp="1755609264763">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="958" height="291" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1755609264763" />
+    <state width="958" height="291" key="GridCell.Tab.0.right" timestamp="1755609264763">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="958" height="291" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1755609264763" />
+    <state width="958" height="291" key="GridCell.Tab.1.bottom" timestamp="1755609264763">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="958" height="291" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1755609264763" />
+    <state width="958" height="291" key="GridCell.Tab.1.center" timestamp="1755609264763">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="958" height="291" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1755609264763" />
+    <state width="958" height="291" key="GridCell.Tab.1.left" timestamp="1755609264763">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="958" height="291" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1755609264763" />
+    <state width="958" height="291" key="GridCell.Tab.1.right" timestamp="1755609264763">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="958" height="291" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1755609264763" />
+    <state width="958" height="291" key="GridCell.Tab.2.bottom" timestamp="1755609264763">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="958" height="291" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1755609264763" />
+    <state width="958" height="291" key="GridCell.Tab.2.center" timestamp="1755609264763">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="958" height="291" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1755609264763" />
+    <state width="958" height="291" key="GridCell.Tab.2.left" timestamp="1755609264763">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="958" height="291" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1755609264763" />
+    <state width="958" height="291" key="GridCell.Tab.2.right" timestamp="1755609264763">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="958" height="291" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1755609264763" />
+    <state width="958" height="291" key="GridCell.Tab.3.bottom" timestamp="1755609264763">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="958" height="291" key="GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1755609264763" />
+    <state width="958" height="291" key="GridCell.Tab.3.center" timestamp="1755609264763">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="958" height="291" key="GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080" timestamp="1755609264763" />
+    <state width="958" height="291" key="GridCell.Tab.3.left" timestamp="1755609264763">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="958" height="291" key="GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080" timestamp="1755609264763" />
+    <state width="958" height="291" key="GridCell.Tab.3.right" timestamp="1755609264763">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="958" height="291" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1755609264763" />
+    <state width="958" height="291" key="GridCell.Tab.4.bottom" timestamp="1755609264763">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="958" height="291" key="GridCell.Tab.4.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1755609264763" />
+    <state width="958" height="291" key="GridCell.Tab.4.center" timestamp="1755609264763">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="958" height="291" key="GridCell.Tab.4.center/0.0.1920.1080@0.0.1920.1080" timestamp="1755609264763" />
+    <state width="958" height="291" key="GridCell.Tab.4.left" timestamp="1755609264763">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="958" height="291" key="GridCell.Tab.4.left/0.0.1920.1080@0.0.1920.1080" timestamp="1755609264763" />
+    <state width="958" height="291" key="GridCell.Tab.4.right" timestamp="1755609264763">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="958" height="291" key="GridCell.Tab.4.right/0.0.1920.1080@0.0.1920.1080" timestamp="1755609264763" />
+    <state width="958" height="291" key="GridCell.Tab.5.bottom" timestamp="1755609264763">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="958" height="291" key="GridCell.Tab.5.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1755609264763" />
+    <state width="958" height="291" key="GridCell.Tab.5.center" timestamp="1755609264763">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="958" height="291" key="GridCell.Tab.5.center/0.0.1920.1080@0.0.1920.1080" timestamp="1755609264763" />
+    <state width="958" height="291" key="GridCell.Tab.5.left" timestamp="1755609264763">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="958" height="291" key="GridCell.Tab.5.left/0.0.1920.1080@0.0.1920.1080" timestamp="1755609264763" />
+    <state width="958" height="291" key="GridCell.Tab.5.right" timestamp="1755609264763">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="958" height="291" key="GridCell.Tab.5.right/0.0.1920.1080@0.0.1920.1080" timestamp="1755609264763" />
+    <state width="958" height="291" key="GridCell.Tab.6.bottom" timestamp="1755609264763">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="958" height="291" key="GridCell.Tab.6.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1755609264763" />
+    <state width="958" height="291" key="GridCell.Tab.6.center" timestamp="1755609264763">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="958" height="291" key="GridCell.Tab.6.center/0.0.1920.1080@0.0.1920.1080" timestamp="1755609264763" />
+    <state width="958" height="291" key="GridCell.Tab.6.left" timestamp="1755609264763">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="958" height="291" key="GridCell.Tab.6.left/0.0.1920.1080@0.0.1920.1080" timestamp="1755609264763" />
+    <state width="958" height="291" key="GridCell.Tab.6.right" timestamp="1755609264763">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="958" height="291" key="GridCell.Tab.6.right/0.0.1920.1080@0.0.1920.1080" timestamp="1755609264763" />
+    <state x="866" y="867" width="1027" height="133" key="ProcessPopupWindow" timestamp="1755507703337">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="866" y="867" width="1027" height="133" key="ProcessPopupWindow/0.0.1920.1080@0.0.1920.1080" timestamp="1755507703337" />
+    <state x="505" y="181" width="900" height="647" key="Rider.NewProjectDialog.Size" timestamp="1755594261832">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="505" y="181" width="900" height="647" key="Rider.NewProjectDialog.Size/0.0.1920.1080@0.0.1920.1080" timestamp="1755594261832" />
+    <state x="469" y="170" key="SettingsEditor" timestamp="1755507154732">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="170" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1755507154732" />
+    <state x="689" y="289" width="576" height="533" key="StructurePopup" timestamp="1755610642890">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="689" y="289" width="576" height="533" key="StructurePopup/0.0.1920.1080@0.0.1920.1080" timestamp="1755610642890" />
+    <state x="623" y="232" width="749" height="704" key="search.everywhere.popup" timestamp="1755606964610">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="232" width="749" height="704" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1755606964610" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wwwroot/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment_1.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Properties/launchSettings.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controllers/AboutController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <marker date="1755617336936" expanded="true" signature="157:192" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="74" column="12" selection-start-line="74" selection-start-column="12" selection-end-line="74" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/About/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

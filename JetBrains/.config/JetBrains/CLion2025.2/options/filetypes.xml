@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="19">
+    <ignoreFiles list="*$py.class;*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.mypy_cache;.pytest_cache;.ruff_cache;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
+    <extensionMap>
+      <mapping ext="exe" type="Native" />
+      <removed_mapping ext="bat" approved="true" type="Bat" />
+      <removed_mapping ext="cmd" approved="true" type="Cmd" />
+    </extensionMap>
+  </component>
+</application>

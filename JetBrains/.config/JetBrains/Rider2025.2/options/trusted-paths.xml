@@ -1,0 +1,129 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/debugcpp" value="true" />
+        <entry key="$USER_HOME$/dev/computer_enhance_me/part1/hom1/8086-disasm" value="true" />
+        <entry key="$USER_HOME$/dev/testproj" value="true" />
+        <entry key="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_2" value="true" />
+        <entry key="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_2/.idea/.idea.assignment_2" value="true" />
+        <entry key="$USER_HOME$/ikt201g25h/examples/02_entity_framework" value="true" />
+        <entry key="$USER_HOME$/ikt201g25h/examples/02_entity_framework/.idea/.idea.02_entity_framework.dir" value="true" />
+        <entry key="$USER_HOME$/ikt203g25h/ovinger/oving1" value="true" />
+        <entry key="$USER_HOME$/ikt203g25h/ovinger/oving1/singly" value="true" />
+        <entry key="$USER_HOME$/ikt203g25h/submissions/submission1" value="true" />
+        <entry key="$USER_HOME$/ikt203g25h/submissions/submission1/singly" value="true" />
+        <entry key="$USER_HOME$/ikt203g25h/submissions/submission2" value="true" />
+        <entry key="$USER_HOME$/ikt203g25h/submissions/submission3" value="true" />
+        <entry key="C:\Users\peter\AppData\Local\JetBrains\CLion2024.3\frontend\per_process_config_0\thinProject" value="true" />
+        <entry key="C:\Users\peter\AppData\Local\Temp\hashmaps2.rs7733927234907914541" value="true" />
+        <entry key="C:\Users\peter\CLionProjects\helloworld" value="true" />
+        <entry key="C:\Users\peter\CLionProjects\untitled" value="true" />
+        <entry key="C:\Users\peter\CarRentalCLI\CarRentalCLI" value="true" />
+        <entry key="C:\Users\peter\CarRentalGUI\CarRentalGUI" value="true" />
+        <entry key="C:\Users\peter\Courses\IKT104Exam\Exam" value="true" />
+        <entry key="C:\Users\peter\Courses\IKT104Exam\Exam\source" value="true" />
+        <entry key="C:\Users\peter\Courses\IKT104Projects\assignment_2" value="true" />
+        <entry key="C:\Users\peter\Courses\IKT104Projects\assignment_5" value="true" />
+        <entry key="C:\Users\peter\Courses\IKT104Projects\test" value="true" />
+        <entry key="C:\Users\peter\Courses\ikt103g25v\Exam\CarRentalGUI" value="true" />
+        <entry key="C:\Users\peter\Courses\ikt103g25v\assignments\assignment_4_1" value="true" />
+        <entry key="C:\Users\peter\Courses\ikt103g25v\assignments\solutions\assignment_3" value="true" />
+        <entry key="C:\Users\peter\Courses\ikt103g25v\assignments\solutions\assignment_4_1" value="true" />
+        <entry key="C:\Users\peter\Courses\ikt103g25v\examples\18_patterns" value="true" />
+        <entry key="C:\Users\peter\Courses\ikt103g25v\examples\19_sql" value="true" />
+        <entry key="C:\Users\peter\Courses\ikt103g25v\examples\21_gtk" value="true" />
+        <entry key="C:\Users\peter\Courses\ikt103g25v\examples\3004" value="true" />
+        <entry key="C:\Users\peter\OneDrive - Universitetet i Agder\Courses\ikt101g24h\assignments\solutions\assignment_4_1" value="true" />
+        <entry key="C:\Users\peter\OneDrive - Universitetet i Agder\Courses\ikt101g24h\assignments\solutions\assignment_5_1" value="true" />
+        <entry key="C:\Users\peter\OneDrive - Universitetet i Agder\Courses\ikt101g24h\assignments\solutions\assignment_5_2" value="true" />
+        <entry key="C:\Users\peter\OneDrive - Universitetet i Agder\Courses\ikt101g24h\assignments\solutions\assignment_6_1" value="true" />
+        <entry key="C:\Users\peter\OneDrive - Universitetet i Agder\Courses\ikt101g24h\assignments\solutions\assignment_8_1" value="true" />
+        <entry key="C:\Users\peter\OneDrive - Universitetet i Agder\Courses\ikt101g24h\extra problems\Elementary" value="true" />
+        <entry key="C:\Users\peter\OneDrive - Universitetet i Agder\Courses\ikt101g24h\extra problems\compilation" value="true" />
+        <entry key="C:\Users\peter\OneDrive - Universitetet i Agder\Courses\ikt101g24h\extra problems\klasser" value="true" />
+        <entry key="C:\Users\peter\OneDrive - Universitetet i Agder\Courses\ikt103g25v\assignments\solutions\assignment_1_1" value="true" />
+        <entry key="C:\Users\peter\OneDrive - Universitetet i Agder\Courses\ikt103g25v\examples\0204SQL" value="true" />
+        <entry key="C:\Users\peter\OneDrive - Universitetet i Agder\Courses\ikt103g25v\examples\0204orm" value="true" />
+        <entry key="C:\Users\peter\OneDrive - Universitetet i Agder\Courses\ikt103g25v\examples\0503 Gamedev" value="true" />
+        <entry key="C:\Users\peter\dev\Ballspeed\Ballspeed" value="true" />
+        <entry key="C:\Users\peter\dev\ShaderPreview" value="true" />
+        <entry key="C:\Users\peter\dev\capsmod" value="true" />
+        <entry key="C:\Users\peter\dev\capsmod2" value="true" />
+        <entry key="C:\Users\peter\dev\handmade\code" value="true" />
+        <entry key="C:\Users\peter\dev\rust\Workspace-Template" value="true" />
+        <entry key="C:\Users\peter\dev\rust\add" value="true" />
+        <entry key="C:\Users\peter\dev\rust\adder" value="true" />
+        <entry key="C:\Users\peter\dev\rust\book\asynchronous" value="true" />
+        <entry key="C:\Users\peter\dev\rust\book\hello" value="true" />
+        <entry key="C:\Users\peter\dev\rust\book\hello_macro" value="true" />
+        <entry key="C:\Users\peter\dev\rust\book\pancakes" value="true" />
+        <entry key="C:\Users\peter\dev\rust\book\pointers" value="true" />
+        <entry key="C:\Users\peter\dev\rust\book\threads" value="true" />
+        <entry key="C:\Users\peter\dev\rust\book\untitled" value="true" />
+        <entry key="C:\Users\peter\dev\rust\crates" value="true" />
+        <entry key="C:\Users\peter\dev\rust\generics_traits_lifetimes" value="true" />
+        <entry key="C:\Users\peter\dev\rust\hello_cargo" value="true" />
+        <entry key="C:\Users\peter\dev\rust\iteratorandclosure" value="true" />
+        <entry key="C:\Users\peter\dev\rust\minigrep" value="true" />
+        <entry key="C:\Users\peter\dev\rust\my-project" value="true" />
+        <entry key="C:\Users\peter\dev\rust\ownership" value="true" />
+        <entry key="C:\Users\peter\dev\rust\structs" value="true" />
+        <entry key="C:\Users\peter\dev\rust\templates\empty-workspace" value="true" />
+        <entry key="C:\Users\peter\dev\rust\testing" value="true" />
+        <entry key="C:\Users\peter\dev\rust\testing2" value="true" />
+        <entry key="C:\Users\peter\dev\rust\untitled" value="true" />
+        <entry key="C:\Users\peter\dev\rust\untitled1" value="true" />
+        <entry key="C:\Users\peter\rustlings" value="true" />
+        <entry key="C:\Users\peter\rustlings\exercises" value="true" />
+        <entry key="D:\InstallFiles\Coding\juce-8.0.6-windows\JUCE\examples\CMake\AudioPlugin" value="true" />
+        <entry key="D:\dev\Courses\ikt103g25v\assignments\solutions\assignment_2_1" value="true" />
+        <entry key="D:\dev\Courses\ikt103g25v\assignments\solutions\assignment_3_1 pong" value="true" />
+        <entry key="D:\dev\Cubed" value="true" />
+        <entry key="D:\dev\JUCE\LearnJuce" value="true" />
+        <entry key="D:\dev\LineTool" value="true" />
+        <entry key="D:\dev\VatnarLib" value="true" />
+        <entry key="D:\dev\VatnarLib\VatnarLib" value="true" />
+        <entry key="D:\dev\VatnarLib\vatnarlibcpp" value="true" />
+        <entry key="D:\dev\dijkstra" value="true" />
+        <entry key="D:\dev\leetcode" value="true" />
+        <entry key="D:\dev\pch" value="true" />
+        <entry key="D:\dev\ping" value="true" />
+        <entry key="D:\dev\rust\fibonacci" value="true" />
+        <entry key="D:\dev\rust\functions" value="true" />
+        <entry key="D:\dev\rust\guessing_game" value="true" />
+        <entry key="D:\dev\rust\hello_cargo" value="true" />
+        <entry key="D:\dev\rust\hello_world" value="true" />
+        <entry key="D:\dev\rust\ownership" value="true" />
+        <entry key="D:\dev\rust\variables" value="true" />
+        <entry key="D:\dev\sockets\1brblearn" value="true" />
+        <entry key="D:\dev\sockets\basicwinsockapp" value="true" />
+        <entry key="D:\dev\sockets\client" value="true" />
+        <entry key="D:\dev\sockets\server" value="true" />
+        <entry key="D:\dev\sockets\socketlearn" value="true" />
+        <entry key="D:\dev\sockets\test2" value="true" />
+        <entry key="D:\dev\untitled" value="true" />
+        <entry key="D:\dev\vatnarlibcpp" value="true" />
+        <entry key="Z:\handmade\code" value="true" />
+        <entry key="Z:\learning\learncpp\1" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="D:\dev\VatnarLib" />
+        <option value="D:\InstallFiles\Coding\juce-8.0.6-windows\JUCE\examples\CMake" />
+        <option value="D:\dev\JUCE" />
+        <option value="D:\dev\sockets" />
+        <option value="D:\dev" />
+        <option value="C:\Users\peter\Courses\ikt103g25v\examples" />
+        <option value="C:\Users\peter\CarRentalCLI" />
+        <option value="C:\Users\peter\dev\rust" />
+        <option value="C:\Users\peter\rustlings" />
+        <option value="Z:\handmade" />
+        <option value="$USER_HOME$/dev/computer_enhance_me/part1/hom1" />
+      </list>
+    </option>
+  </component>
+</application>
