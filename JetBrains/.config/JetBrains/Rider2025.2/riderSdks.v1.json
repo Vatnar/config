@@ -3,8 +3,68 @@
   "sdk-channels": [
     {
       "sdk-channel": "10.0",
-      "latest-sdk": "10.0.100-preview.7.25380.108",
+      "latest-sdk": "10.0.100-rc.1",
       "sdks": [
+        {
+          "version": "10.0.100-rc.1.25451.107",
+          "files": [
+            {
+              "name": "dotnet-sdk-10.0.100-rc.1.25451.107-linux-arm.tar.gz",
+              "rid": "linux-arm",
+              "url": "https://download.jetbrains.com/resources/dotnet/releases/dotnet-sdk-10.0.100-rc.1.25451.107-linux-arm.tar.gz"
+            },
+            {
+              "name": "dotnet-sdk-10.0.100-rc.1.25451.107-linux-arm64.tar.gz",
+              "rid": "linux-arm64",
+              "url": "https://download.jetbrains.com/resources/dotnet/releases/dotnet-sdk-10.0.100-rc.1.25451.107-linux-arm64.tar.gz"
+            },
+            {
+              "name": "dotnet-sdk-10.0.100-rc.1.25451.107-linux-musl-arm.tar.gz",
+              "rid": "linux-musl-arm",
+              "url": "https://download.jetbrains.com/resources/dotnet/releases/dotnet-sdk-10.0.100-rc.1.25451.107-linux-musl-arm.tar.gz"
+            },
+            {
+              "name": "dotnet-sdk-10.0.100-rc.1.25451.107-linux-musl-arm64.tar.gz",
+              "rid": "linux-musl-arm64",
+              "url": "https://download.jetbrains.com/resources/dotnet/releases/dotnet-sdk-10.0.100-rc.1.25451.107-linux-musl-arm64.tar.gz"
+            },
+            {
+              "name": "dotnet-sdk-10.0.100-rc.1.25451.107-linux-musl-x64.tar.gz",
+              "rid": "linux-musl-x64",
+              "url": "https://download.jetbrains.com/resources/dotnet/releases/dotnet-sdk-10.0.100-rc.1.25451.107-linux-musl-x64.tar.gz"
+            },
+            {
+              "name": "dotnet-sdk-10.0.100-rc.1.25451.107-linux-x64.tar.gz",
+              "rid": "linux-x64",
+              "url": "https://download.jetbrains.com/resources/dotnet/releases/dotnet-sdk-10.0.100-rc.1.25451.107-linux-x64.tar.gz"
+            },
+            {
+              "name": "dotnet-sdk-10.0.100-rc.1.25451.107-osx-arm64.tar.gz",
+              "rid": "osx-arm64",
+              "url": "https://download.jetbrains.com/resources/dotnet/releases/dotnet-sdk-10.0.100-rc.1.25451.107-osx-arm64.tar.gz"
+            },
+            {
+              "name": "dotnet-sdk-10.0.100-rc.1.25451.107-osx-x64.tar.gz",
+              "rid": "osx-x64",
+              "url": "https://download.jetbrains.com/resources/dotnet/releases/dotnet-sdk-10.0.100-rc.1.25451.107-osx-x64.tar.gz"
+            },
+            {
+              "name": "dotnet-sdk-10.0.100-rc.1.25451.107-win-arm64.zip",
+              "rid": "win-arm64",
+              "url": "https://download.jetbrains.com/resources/dotnet/releases/dotnet-sdk-10.0.100-rc.1.25451.107-win-arm64.zip"
+            },
+            {
+              "name": "dotnet-sdk-10.0.100-rc.1.25451.107-win-x64.zip",
+              "rid": "win-x64",
+              "url": "https://download.jetbrains.com/resources/dotnet/releases/dotnet-sdk-10.0.100-rc.1.25451.107-win-x64.zip"
+            },
+            {
+              "name": "dotnet-sdk-10.0.100-rc.1.25451.107-win-x86.zip",
+              "rid": "win-x86",
+              "url": "https://download.jetbrains.com/resources/dotnet/releases/dotnet-sdk-10.0.100-rc.1.25451.107-win-x86.zip"
+            }
+          ]
+        },
         {
           "version": "10.0.100-preview.7.25380.108",
           "files": [
@@ -429,8 +489,58 @@
     },
     {
       "sdk-channel": "9.0",
-      "latest-sdk": "9.0.304",
+      "latest-sdk": "9.0.305",
       "sdks": [
+        {
+          "version": "9.0.305",
+          "files": [
+            {
+              "name": "dotnet-sdk-9.0.305-linux-arm.tar.gz",
+              "rid": "linux-arm",
+              "url": "https://download.jetbrains.com/resources/dotnet/releases/dotnet-sdk-9.0.305-linux-arm.tar.gz"
+            },
+            {
+              "name": "dotnet-sdk-9.0.305-linux-arm64.tar.gz",
+              "rid": "linux-arm64",
+              "url": "https://download.jetbrains.com/resources/dotnet/releases/dotnet-sdk-9.0.305-linux-arm64.tar.gz"
+            },
+            {
+              "name": "dotnet-sdk-9.0.305-linux-musl-arm.tar.gz",
+              "rid": "linux-musl-arm",
+              "url": "https://download.jetbrains.com/resources/dotnet/releases/dotnet-sdk-9.0.305-linux-musl-arm.tar.gz"
+            },
+            {
+              "name": "dotnet-sdk-9.0.305-linux-musl-arm64.tar.gz",
+              "rid": "linux-musl-arm64",
+              "url": "https://download.jetbrains.com/resources/dotnet/releases/dotnet-sdk-9.0.305-linux-musl-arm64.tar.gz"
+            },
+            {
+              "name": "dotnet-sdk-9.0.305-linux-musl-x64.tar.gz",
+              "rid": "linux-musl-x64",
+              "url": "https://download.jetbrains.com/resources/dotnet/releases/dotnet-sdk-9.0.305-linux-musl-x64.tar.gz"
+            },
+            {
+              "name": "dotnet-sdk-9.0.305-linux-x64.tar.gz",
+              "rid": "linux-x64",
+              "url": "https://download.jetbrains.com/resources/dotnet/releases/dotnet-sdk-9.0.305-linux-x64.tar.gz"
+            },
+            {
+              "name": "dotnet-sdk-9.0.305-osx-arm64.tar.gz",
+              "rid": "osx-arm64",
+              "url": "https://download.jetbrains.com/resources/dotnet/releases/dotnet-sdk-9.0.305-osx-arm64.tar.gz"
+            },
+            {
+              "name": "dotnet-sdk-9.0.305-osx-x64.tar.gz",
+              "rid": "osx-x64",
+              "url": "https://download.jetbrains.com/resources/dotnet/releases/dotnet-sdk-9.0.305-osx-x64.tar.gz"
+            },
+            {
+              "name": "dotnet-sdk-9.0.305-win-arm64.zip",
+              "rid": "win-arm64",
+              "url": "https://download.jetbrains.com/resources/dotnet/releases/dotnet-sdk-9.0.305-win-arm64.zip"
+            }
+          ]
+        },
         {
           "version": "9.0.304",
           "files": [

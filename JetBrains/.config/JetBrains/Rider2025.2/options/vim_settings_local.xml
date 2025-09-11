@@ -3,12 +3,14 @@
     <history>
       <history-cmd>
         <entry encoding="base64" />
-        <entry encoding="base64">Gw==</entry>
         <entry encoding="base64">JzwsJz4b</entry>
+        <entry encoding="base64">Gw==</entry>
+        <entry encoding="base64">Vw==</entry>
         <entry encoding="base64">dw==</entry>
       </history-cmd>
       <history-search>
         <entry encoding="base64">Qy15</entry>
+        <entry encoding="base64">Lw==</entry>
       </history-search>
     </history>
   </component>
@@ -57,7 +59,6 @@
       <jump line="14" column="69" filename="$USER_HOME$/ikt201g25h/examples/02_entity_framework/Views/Authors/Add.cshtml" protocol="file" />
     </project>
     <project id="assignment_2-e2ee12ac">
-      <jump line="26" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
       <jump line="23" column="4" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_2/Models/Guestbook.cs" protocol="file" />
       <jump line="6" column="0" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_2/Models/Guestbook.cs" protocol="file" />
       <jump line="31" column="20" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_2/Models/Guestbook.cs" protocol="file" />
@@ -157,165 +158,288 @@
       <jump line="26" column="25" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_2/Models/Guestbook.cs" protocol="file" />
       <jump line="26" column="0" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_2/Views/Guestbook/Index.cshtml" protocol="file" />
       <jump line="20" column="19" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_2/Views/Guestbook/Index.cshtml" protocol="file" />
+      <jump line="19" column="27" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_2/Views/Guestbook/Index.cshtml" protocol="file" />
+    </project>
+    <project id="shaders-8a3ddec0">
+      <jump line="8" column="0" filename="$USER_HOME$/dev/shaderpreview2/shaders/default.glsl" protocol="file" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/shaderpreview2/shaders/default.glsl" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/shaderpreview2/shaders/default.glsl" protocol="file" />
+      <jump line="15" column="15" filename="$USER_HOME$/dev/shaderpreview2/shaders/default.glsl" protocol="file" />
+      <jump line="17" column="18" filename="$USER_HOME$/dev/shaderpreview2/shaders/default.glsl" protocol="file" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/shaderpreview2/shaders/default.glsl" protocol="file" />
+      <jump line="11" column="7" filename="$USER_HOME$/dev/shaderpreview2/shaders/default.glsl" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/shaderpreview2/shaders/default.vert" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/shaderpreview2/shaders/default.frag" protocol="file" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/shaderpreview2/shaders/default.vert" protocol="file" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/shaderpreview2/shaders/default.frag" protocol="file" />
+      <jump line="11" column="0" filename="$USER_HOME$/dev/shaderpreview2/shaders/default.vert" protocol="file" />
+    </project>
+    <project id="03_entity_framework_relationships-2448ab23">
+      <jump line="0" column="0" filename="$USER_HOME$/ikt201g25h/examples/03_entity_framework_relationships/Controllers/AuthorsController.cs" protocol="file" />
+      <jump line="12" column="29" filename="$USER_HOME$/ikt201g25h/examples/03_entity_framework_relationships/Controllers/AuthorsController.cs" protocol="file" />
+      <jump line="13" column="14" filename="$USER_HOME$/ikt201g25h/examples/03_entity_framework_relationships/Controllers/AuthorsController.cs" protocol="file" />
+      <jump line="24" column="23" filename="$USER_HOME$/ikt201g25h/examples/03_entity_framework_relationships/Controllers/AuthorsController.cs" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/ikt201g25h/examples/03_entity_framework_relationships/Program.cs" protocol="file" />
+      <jump line="13" column="52" filename="$USER_HOME$/ikt201g25h/examples/03_entity_framework_relationships/Program.cs" protocol="file" />
+      <jump line="14" column="53" filename="$USER_HOME$/ikt201g25h/examples/03_entity_framework_relationships/Program.cs" protocol="file" />
+      <jump line="20" column="38" filename="$USER_HOME$/ikt201g25h/examples/03_entity_framework_relationships/Program.cs" protocol="file" />
+      <jump line="23" column="86" filename="$USER_HOME$/ikt201g25h/examples/03_entity_framework_relationships/Program.cs" protocol="file" />
+      <jump line="9" column="100" filename="$USER_HOME$/ikt201g25h/examples/03_entity_framework_relationships/Data/ApplicationDbInitializer.cs" protocol="file" />
+      <jump line="8" column="9" filename="$USER_HOME$/ikt201g25h/examples/03_entity_framework_relationships/Data/ApplicationDbInitializer.cs" protocol="file" />
+      <jump line="13" column="40" filename="$USER_HOME$/ikt201g25h/examples/03_entity_framework_relationships/Data/ApplicationDbInitializer.cs" protocol="file" />
+      <jump line="17" column="12" filename="$USER_HOME$/ikt201g25h/examples/03_entity_framework_relationships/Data/ApplicationDbInitializer.cs" protocol="file" />
+      <jump line="19" column="12" filename="$USER_HOME$/ikt201g25h/examples/03_entity_framework_relationships/Data/ApplicationDbInitializer.cs" protocol="file" />
+      <jump line="14" column="0" filename="$USER_HOME$/ikt201g25h/examples/03_entity_framework_relationships/Data/ApplicationDbInitializer.cs" protocol="file" />
+      <jump line="26" column="35" filename="$USER_HOME$/ikt201g25h/examples/03_entity_framework_relationships/Program.cs" protocol="file" />
+      <jump line="7" column="27" filename="$USER_HOME$/ikt201g25h/examples/03_entity_framework_relationships/Data/ApplicationDbInitializer.cs" protocol="file" />
+      <jump line="21" column="12" filename="$USER_HOME$/ikt201g25h/examples/03_entity_framework_relationships/Data/ApplicationDbInitializer.cs" protocol="file" />
+      <jump line="16" column="31" filename="$USER_HOME$/ikt201g25h/examples/03_entity_framework_relationships/Data/ApplicationDbInitializer.cs" protocol="file" />
+      <jump line="24" column="61" filename="$USER_HOME$/ikt201g25h/examples/03_entity_framework_relationships/Data/ApplicationDbInitializer.cs" protocol="file" />
+      <jump line="1315" column="6" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/d72e815ad95e4afca99d97adba235137d1a000/9c/86b14db3/Task.cs" protocol="file" />
+      <jump line="22" column="0" filename="$USER_HOME$/ikt201g25h/examples/03_entity_framework_relationships/Data/ApplicationDbInitializer.cs" protocol="file" />
+      <jump line="15" column="12" filename="$USER_HOME$/ikt201g25h/examples/03_entity_framework_relationships/Data/ApplicationDbInitializer.cs" protocol="file" />
+      <jump line="18" column="127" filename="$USER_HOME$/ikt201g25h/examples/03_entity_framework_relationships/Data/ApplicationDbInitializer.cs" protocol="file" />
+      <jump line="20" column="39" filename="$USER_HOME$/ikt201g25h/examples/03_entity_framework_relationships/Data/ApplicationDbInitializer.cs" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/ikt201g25h/examples/03_entity_framework_relationships/Models/ApplicationUser.cs" protocol="file" />
+      <jump line="6" column="16" filename="$USER_HOME$/ikt201g25h/examples/03_entity_framework_relationships/Models/ApplicationUser.cs" protocol="file" />
+      <jump line="7" column="56" filename="$USER_HOME$/ikt201g25h/examples/03_entity_framework_relationships/Models/ApplicationUser.cs" protocol="file" />
+      <jump line="9" column="0" filename="$USER_HOME$/ikt201g25h/examples/03_entity_framework_relationships/Models/ApplicationUser.cs" protocol="file" />
+      <jump line="8" column="0" filename="$USER_HOME$/ikt201g25h/examples/03_entity_framework_relationships/Models/ApplicationUser.cs" protocol="file" />
+      <jump line="4" column="39" filename="$USER_HOME$/ikt201g25h/examples/03_entity_framework_relationships/Models/ApplicationUser.cs" protocol="file" />
+    </project>
+    <project id="assignment_3-e4c765cc">
+      <jump line="26" column="2" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Models/Blog.cs" protocol="file" />
+      <jump line="28" column="27" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Models/Blog.cs" protocol="file" />
+      <jump line="20" column="24" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Models/Blog.cs" protocol="file" />
+      <jump line="36" column="26" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Models/Blog.cs" protocol="file" />
+      <jump line="59" column="17" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Index.cshtml" protocol="file" />
+      <jump line="23" column="22" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Index.cshtml" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Index.cshtml" protocol="file" />
+      <jump line="39" column="17" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Index.cshtml" protocol="file" />
+      <jump line="12" column="4" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="18" column="8" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="16" column="8" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="17" column="35" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="29" column="38" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Program.cs" protocol="file" />
+      <jump line="19" column="26" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="14" column="10" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="11" column="50" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="13" column="0" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="15" column="4" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="20" column="36" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="32" column="80" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Data/ApplicationDbInitializer.cs" protocol="file" />
+      <jump line="37" column="18" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Models/Blog.cs" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Index.cshtml" protocol="file" />
+      <jump line="14" column="23" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Models/Blog.cs" protocol="file" />
+      <jump line="12" column="59" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Program.cs" protocol="file" />
+      <jump line="37" column="17" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Data/ApplicationDbInitializer.cs" protocol="file" />
+      <jump line="17" column="17" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Data/ApplicationDbInitializer.cs" protocol="file" />
+      <jump line="24" column="36" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Data/ApplicationDbInitializer.cs" protocol="file" />
+      <jump line="13" column="4" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Data/ApplicationDbContext.cs" protocol="file" />
+      <jump line="23" column="87" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="31" column="5" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="22" column="4" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="125" column="86" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Areas/Identity/Pages/Account/Register.cshtml.cs" protocol="file" />
+      <jump line="26" column="0" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Data/ApplicationDbInitializer.cs" protocol="file" />
+      <jump line="25" column="0" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Data/ApplicationDbInitializer.cs" protocol="file" />
+      <jump line="22" column="37" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Data/ApplicationDbInitializer.cs" protocol="file" />
+      <jump line="23" column="125" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Data/ApplicationDbInitializer.cs" protocol="file" />
+      <jump line="19" column="7" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Data/ApplicationDbInitializer.cs" protocol="file" />
+      <jump line="18" column="129" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Data/ApplicationDbInitializer.cs" protocol="file" />
+      <jump line="8" column="4" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Data/ApplicationDbInitializer.cs" protocol="file" />
+      <jump line="11" column="0" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Data/ApplicationDbInitializer.cs" protocol="file" />
+      <jump line="20" column="57" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Index.cshtml" protocol="file" />
+      <jump line="9" column="22" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Index.cshtml" protocol="file" />
+      <jump line="4" column="23" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Index.cshtml" protocol="file" />
+      <jump line="7" column="22" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Add.cshtml" protocol="file" />
+      <jump line="29" column="34" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="15" column="0" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Models/Blog.cs" protocol="file" />
+      <jump line="36" column="24" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="38" column="5" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="0" column="12" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Add.cshtml" protocol="file" />
+      <jump line="41" column="9" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="44" column="44" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="39" column="8" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="48" column="11" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="45" column="12" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="40" column="9" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="10" column="4" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Index.cshtml" protocol="file" />
+      <jump line="57" column="59" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Index.cshtml" protocol="file" />
+      <jump line="58" column="14" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Index.cshtml" protocol="file" />
+      <jump line="43" column="28" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="46" column="32" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="25" column="47" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="26" column="49" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="2" column="0" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Shared/_PostPartial.cshtml" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Shared/_PostPartial.cshtml" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Shared/_PostPartial.cshtml" protocol="file" />
+      <jump line="61" column="0" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Index.cshtml" protocol="file" />
+      <jump line="37" column="52" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Index.cshtml" protocol="file" />
+      <jump line="7" column="53" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Shared/_PostPartial.cshtml" protocol="file" />
+      <jump line="41" column="7" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Index.cshtml" protocol="file" />
+      <jump line="32" column="8" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Index.cshtml" protocol="file" />
+      <jump line="14" column="10" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Index.cshtml" protocol="file" />
+      <jump line="18" column="0" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Index.cshtml" protocol="file" />
+      <jump line="13" column="4" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Index.cshtml" protocol="file" />
+      <jump line="17" column="0" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Index.cshtml" protocol="file" />
+      <jump line="15" column="6" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Shared/_PostPartial.cshtml" protocol="file" />
+      <jump line="13" column="4" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Shared/_PostPartial.cshtml" protocol="file" />
+      <jump line="15" column="1" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Index.cshtml" protocol="file" />
+      <jump line="12" column="4" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Shared/_PostPartial.cshtml" protocol="file" />
+      <jump line="8" column="52" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Shared/_PostPartial.cshtml" protocol="file" />
+      <jump line="4" column="52" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Shared/_PostPartial.cshtml" protocol="file" />
+      <jump line="11" column="0" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Shared/_PostPartial.cshtml" protocol="file" />
+      <jump line="12" column="0" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Data/ApplicationDbInitializer.cs" protocol="file" />
+      <jump line="42" column="88" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Data/ApplicationDbInitializer.cs" protocol="file" />
+      <jump line="2" column="2" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Add.cshtml" protocol="file" />
+      <jump line="33" column="6" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Add.cshtml" protocol="file" />
+      <jump line="7" column="18" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Edit.cshtml" protocol="file" />
+      <jump line="34" column="0" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Edit.cshtml" protocol="file" />
+      <jump line="24" column="12" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="53" column="8" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="52" column="5" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="54" column="42" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="66" column="0" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="59" column="8" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="61" column="27" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="63" column="25" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="92" column="0" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="82" column="8" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="49" column="0" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="51" column="13" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
+      <jump line="50" column="4" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
     </project>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <localmarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4f31270a-2f20-4004-854f-96a30f70e105/console_1.sql" timestamp="1756453095126">
+      <file name="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Models/Blog.cs" timestamp="1757590772255">
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="13" column="24" />
+        <mark key="^" line="13" column="24" />
+        <mark key="." line="13" column="23" />
+      </file>
+      <file name="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Areas/Identity/Pages/Account/Register.cshtml" timestamp="1757585864866">
+        <mark key="[" line="15" column="52" />
+        <mark key="]" line="18" column="78" />
+        <mark key="^" line="18" column="78" />
+        <mark key="." line="18" column="77" />
+      </file>
+      <file name="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Areas/Identity/Pages/Account/Register.cshtml.cs" timestamp="1757585694091">
+        <mark key="&quot;" line="130" column="0" />
+        <mark key="[" line="76" column="43" />
+        <mark key="]" line="77" column="12" />
+        <mark key="." line="77" column="11" />
+        <mark key="^" line="77" column="12" />
+      </file>
+      <file name="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml.cs" timestamp="1757585592341">
+        <mark key="&quot;" line="67" column="0" />
+      </file>
+      <file name="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Index.cshtml" timestamp="1757592088345">
+        <mark key="&quot;" line="30" column="4" />
+      </file>
+      <file name="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/HomeController.cs" timestamp="1757590146959">
+        <mark key="&quot;" line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" timestamp="1757585592463">
+        <mark key="&quot;" line="119" column="0" />
+      </file>
+      <file name="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml.cs" timestamp="1757585592736">
+        <mark key="&quot;" line="69" column="0" />
+      </file>
+      <file name="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml.cs" timestamp="1757585592544">
+        <mark key="&quot;" line="82" column="0" />
+      </file>
+      <file name="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Shared/_PostPartial.cshtml" timestamp="1757592230356">
+        <mark key="[" line="8" column="7" />
+        <mark key="]" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+      </file>
+      <file name="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml.cs" timestamp="1757585592395">
+        <mark key="&quot;" line="188" column="0" />
+      </file>
+      <file name="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Data/ApplicationDbInitializer.cs" timestamp="1757592316074">
+        <mark key="[" line="40" column="80" />
+        <mark key="]" line="42" column="89" />
+        <mark key="." line="42" column="88" />
+        <mark key="^" line="42" column="89" />
+      </file>
+      <file name="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Index.cshtml.cs" timestamp="1757587427833">
         <mark key="&quot;" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_2/Data/ApplicationDbInitializer.cs" timestamp="1756454288835">
-        <mark key="&quot;" line="2" column="0" />
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="19" column="8" />
-        <mark key="]" line="17" column="28" />
-        <mark key="^" line="13" column="8" />
-        <mark key="." line="17" column="29" />
+      <file name="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" timestamp="1757592638703">
+        <mark key="'" line="46" column="45" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="50" column="14" />
+        <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1756454288829">
-        <mark key="&quot;" line="26" column="0" />
-        <mark key="'" line="117" column="27" />
-        <mark key="]" line="117" column="30" />
-        <mark key="^" line="117" column="30" />
-        <mark key="." line="117" column="29" />
+      <file name="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml.cs" timestamp="1757585592632">
+        <mark key="&quot;" line="88" column="0" />
       </file>
-      <file name="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_2/Program.cs" timestamp="1756453096111">
-        <mark key="&quot;" line="11" column="0" />
-        <mark key="[" line="7" column="86" />
-        <mark key="]" line="7" column="86" />
-        <mark key="^" line="21" column="44" />
-        <mark key="." line="7" column="86" />
+      <file name="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml.cs" timestamp="1757585592509">
+        <mark key="&quot;" line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/ikt201g25h/examples/02_entity_framework/Data/ApplicationDbInitializer.cs" timestamp="1756460965797">
-        <mark key="&quot;" line="0" column="0" />
+      <file name="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Areas/Identity/Pages/Account/ResetPassword.cshtml.cs" timestamp="1757585592428">
+        <mark key="&quot;" line="117" column="0" />
       </file>
-      <file name="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_2/Data/ApplicationDbContext.cs" timestamp="1756454288831">
-        <mark key="&quot;" line="6" column="0" />
-        <mark key="[" line="13" column="47" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/ikt201g25h/examples/02_entity_framework/Views/Authors/Index.cshtml" timestamp="1756460965835">
-        <mark key="&quot;" line="9" column="3" />
-        <mark key="[" line="14" column="41" />
-      </file>
-      <file name="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_2/Controllers/GuestbookController.cs" timestamp="1756454288792">
-        <mark key="&quot;" line="38" column="46" />
-        <mark key="[" line="28" column="5" />
-        <mark key="]" line="38" column="47" />
-        <mark key="^" line="38" column="47" />
-        <mark key="." line="38" column="46" />
-      </file>
-      <file name="$USER_HOME$/ikt201g25h/examples/02_entity_framework/Models/Author.cs" timestamp="1756460965818">
-        <mark key="&quot;" line="31" column="4" />
-      </file>
-      <file name="$USER_HOME$/ikt201g25h/examples/02_entity_framework/Data/ApplicationDbContext.cs" timestamp="1756460965740">
-        <mark key="&quot;" line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_2/Views/Guestbook/Index.cshtml" timestamp="1756454288815">
-        <mark key="&quot;" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/ikt201g25h/examples/02_entity_framework/Controllers/HomeController.cs" timestamp="1756460965814">
-        <mark key="&quot;" line="7" column="13" />
-      </file>
-      <file name="$USER_HOME$/ikt201g25h/examples/02_entity_framework/Program.cs" timestamp="1756460965831">
-        <mark key="&quot;" line="31" column="0" />
-        <mark key="]" line="22" column="29" />
-        <mark key="^" line="22" column="29" />
-        <mark key="." line="22" column="28" />
-      </file>
-      <file name="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_2/Views/Home/Index.cshtml" timestamp="1756453093487">
-        <mark key="&quot;" line="5" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="64" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_2/Controllers/HomeController.cs" timestamp="1756453092098">
-        <mark key="&quot;" line="23" column="5" />
-      </file>
-      <file name="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_2/Models/Guestbook.cs" timestamp="1756454288824">
-        <mark key="&quot;" line="26" column="25" />
-        <mark key="'" line="30" column="4" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="26" column="25" />
-        <mark key="." line="26" column="24" />
-        <mark key="^" line="26" column="25" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4f31270a-2f20-4004-854f-96a30f70e105/console.sql" timestamp="1756454288705">
-        <mark key="&quot;" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/ikt201g25h/examples/02_entity_framework/Controllers/AuthorsController.cs" timestamp="1756460965804">
-        <mark key="&quot;" line="24" column="16" />
-        <mark key="]" line="24" column="17" />
-        <mark key="^" line="24" column="17" />
-        <mark key="." line="24" column="16" />
-      </file>
-      <file name="$USER_HOME$/ikt201g25h/examples/02_entity_framework/Views/Authors/Add.cshtml" timestamp="1756460965823">
-        <mark key="&quot;" line="2" column="1" />
-      </file>
-      <file name="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_2/Views/Guestbook/Add.cshtml" timestamp="1756454288820">
-        <mark key="&quot;" line="0" column="0" />
-        <mark key="[" line="36" column="39" />
-        <mark key="]" line="36" column="39" />
-        <mark key="." line="36" column="38" />
-        <mark key="^" line="36" column="39" />
+      <file name="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Edit.cshtml" timestamp="1757592496845">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="34" column="0" />
       </file>
     </localmarks>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="LINE_WISE">
-        <text encoding="base64">PGgyPkFkZCBhIEd1ZXN0Ym9vayBFbnRyeTwvaDI+Cgo8Zm9ybSBtZXRob2Q9InBvc3QiIGFzcC1hY3Rpb249IkFkZCI+CiAgICA8ZGl2IGNsYXNzPSJyb3cgbWItMyI+CiAgICAgICAgPGxhYmVsIGFzcC1mb3I9Ik5hbWUiIGNsYXNzPSJjb2wtMiBjb2wtZm9ybS1sYWJlbCI+PC9sYWJlbD4KICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tMyI+CiAgICAgICAgICAgIDxpbnB1dCBhc3AtZm9yPSJOYW1lIiBjbGFzcz0iZm9ybS1jb250cm9sIj4KICAgICAgICAgICAgPHNwYW4gYXNwLXZhbGlkYXRpb24tZm9yPSJOYW1lIiBjbGFzcz0idGV4dC1kYW5nZXIiPjwvc3Bhbj4KICAgICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICAgPGRpdiBjbGFzcz0icm93IG1iLTMiPgogICAgICAgIDxsYWJlbCBhc3AtZm9yPSJUaXRsZSIgY2xhc3M9ImNvbC0yIGNvbC1mb3JtLWxhYmVsIj48L2xhYmVsPgogICAgICAgIDxkaXYgY2xhc3M9ImNvbC1zbS0zIj4KICAgICAgICAgICAgPGlucHV0IGFzcC1mb3I9IlRpdGxlIiBjbGFzcz0iZm9ybS1jb250cm9sIj4KICAgICAgICAgICAgPHNwYW4gYXNwLXZhbGlkYXRpb24tZm9yPSJUaXRsZSIgY2xhc3M9InRleHQtZGFuZ2VyIj48L3NwYW4+CiAgICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICAgIDxkaXYgY2xhc3M9InJvdyBtYi0zIj4KICAgICAgICA8bGFiZWwgYXNwLWZvcj0iTWVzc2FnZSIgY2xhc3M9ImNvbC0yIGNvbC1mb3JtLWxhYmVsIj48L2xhYmVsPgogICAgICAgIDxkaXYgY2xhc3M9ImNvbC1zbS0zIj4KICAgICAgICAgICAgPGlucHV0IGFzcC1mb3I9Ik1lc3NhZ2UiIGNsYXNzPSJmb3JtLWNvbnRyb2wiPgogICAgICAgICAgICA8c3BhbiBhc3AtdmFsaWRhdGlvbi1mb3I9Ik1lc3NhZ2UiIGNsYXNzPSJ0ZXh0LWRhbmdlciI+PC9zcGFuPgogICAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgICA8YnV0dG9uIHR5cGU9InN1Ym1pdCIgaWQ9InN1Ym1pdCI+U3VibWl0PC9idXR0b24+CjwvZm9ybT4K</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gVXNlcnMgY2FuIG9ubHkgZWRpdCB0aGVpciBvd24gcG9zdHMK</text>
       </register>
       <register name="*" type="LINE_WISE">
-        <text encoding="base64">PGgyPkFkZCBhIEd1ZXN0Ym9vayBFbnRyeTwvaDI+Cgo8Zm9ybSBtZXRob2Q9InBvc3QiIGFzcC1hY3Rpb249IkFkZCI+CiAgICA8ZGl2IGNsYXNzPSJyb3cgbWItMyI+CiAgICAgICAgPGxhYmVsIGFzcC1mb3I9Ik5hbWUiIGNsYXNzPSJjb2wtMiBjb2wtZm9ybS1sYWJlbCI+PC9sYWJlbD4KICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tMyI+CiAgICAgICAgICAgIDxpbnB1dCBhc3AtZm9yPSJOYW1lIiBjbGFzcz0iZm9ybS1jb250cm9sIj4KICAgICAgICAgICAgPHNwYW4gYXNwLXZhbGlkYXRpb24tZm9yPSJOYW1lIiBjbGFzcz0idGV4dC1kYW5nZXIiPjwvc3Bhbj4KICAgICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICAgPGRpdiBjbGFzcz0icm93IG1iLTMiPgogICAgICAgIDxsYWJlbCBhc3AtZm9yPSJUaXRsZSIgY2xhc3M9ImNvbC0yIGNvbC1mb3JtLWxhYmVsIj48L2xhYmVsPgogICAgICAgIDxkaXYgY2xhc3M9ImNvbC1zbS0zIj4KICAgICAgICAgICAgPGlucHV0IGFzcC1mb3I9IlRpdGxlIiBjbGFzcz0iZm9ybS1jb250cm9sIj4KICAgICAgICAgICAgPHNwYW4gYXNwLXZhbGlkYXRpb24tZm9yPSJUaXRsZSIgY2xhc3M9InRleHQtZGFuZ2VyIj48L3NwYW4+CiAgICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICAgIDxkaXYgY2xhc3M9InJvdyBtYi0zIj4KICAgICAgICA8bGFiZWwgYXNwLWZvcj0iTWVzc2FnZSIgY2xhc3M9ImNvbC0yIGNvbC1mb3JtLWxhYmVsIj48L2xhYmVsPgogICAgICAgIDxkaXYgY2xhc3M9ImNvbC1zbS0zIj4KICAgICAgICAgICAgPGlucHV0IGFzcC1mb3I9Ik1lc3NhZ2UiIGNsYXNzPSJmb3JtLWNvbnRyb2wiPgogICAgICAgICAgICA8c3BhbiBhc3AtdmFsaWRhdGlvbi1mb3I9Ik1lc3NhZ2UiIGNsYXNzPSJ0ZXh0LWRhbmdlciI+PC9zcGFuPgogICAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgICA8YnV0dG9uIHR5cGU9InN1Ym1pdCIgaWQ9InN1Ym1pdCI+U3VibWl0PC9idXR0b24+CjwvZm9ybT4K</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gVXNlcnMgY2FuIG9ubHkgZWRpdCB0aGVpciBvd24gcG9zdHMK</text>
       </register>
       <register name="+" type="LINE_WISE">
-        <text encoding="base64">PHRhYmxlIGNsYXNzID0gInRhYmxlLWJvcmRlcmVkIHRhYmxlLWhvdmVyIHRhYmxlLXJlc3BvbnNpdmUiPgogICAgPHRyPgoKICAgIDx0aGVhZD5OYW1lPC90aGVhZD4KICAgIDx0aGVhZD5UaXRsZTwvdGhlYWQ+CiAgICA8dGhlYWQ+TWVzc2FnZTwvdGhlYWQ+CiAgICA8L3RyPgoKICAgIEBmb3JlYWNoICh2YXIgZ3Vlc3QgaW4gTW9kZWwpCiAgICB7CiAgICAgICAgPHRyPgogICAgICAgICAgICA8dGQ+QGd1ZXN0Lk5hbWU8L3RkPgogICAgICAgICAgICA8dGQ+QGd1ZXN0LlRpdGxlPC90ZD4KICAgICAgICAgICAgPHRkPkBndWVzdC5NZXNzYWdlPC90ZD4KICAgICAgICA8L3RyPgogICAgfQo8L3RhYmxlPgo=</text>
+        <text encoding="base64">QG1vZGVsIElFbnVtZXJhYmxlPGFzc2lnbm1lbnRfMy5Nb2RlbHMuQmxvZz4KCkB7CiAgICBWaWV3QmFnLlRpdGxlID0gIkJsb2cgcG9zdHMiOwogICAgTGF5b3V0ID0gIl9MYXlvdXQiOwp9Cgo8aDI+QmxvZyBwb3N0czwvaDI+CjxwPgogICAgQCogPGEgYXNwLWFjdGlvbj0iQ3JlYXRlIj5DcmVhdGUgTmV3PC9hPiAqQAo8L3A+CgoKPHRhYmxlIGNsYXNzPSJ0YWJsZSI+CiAgICA8dGhlYWQ+CiAgICA8dHI+CiAgICAgICAgPHRoPgogICAgICAgICAgICBAKiBASHRtbC5EaXNwbGF5TmFtZUZvcihtb2RlbCA9PiBtb2RlbC5Vc2VyLk5pY2tuYW1lKSAqQAogICAgICAgIDwvdGg+CiAgICAgICAgPHRoPgogICAgICAgICAgICBASHRtbC5EaXNwbGF5TmFtZUZvcihtb2RlbCA9PiBtb2RlbC5QdWJsaXNoRGF0ZSkKICAgICAgICA8L3RoPgogICAgICAgIDx0aD4KICAgICAgICAgICAgQEh0bWwuRGlzcGxheU5hbWVGb3IobW9kZWwgPT4gbW9kZWwuVGl0bGUpCiAgICAgICAgPC90aD4KICAgICAgICA8dGg+CiAgICAgICAgICAgIEBIdG1sLkRpc3BsYXlOYW1lRm9yKG1vZGVsID0+IG1vZGVsLlN1bW1hcnkpCiAgICAgICAgPC90aD4KICAgICAgICA8dGg+CiAgICAgICAgICAgIEBIdG1sLkRpc3BsYXlOYW1lRm9yKG1vZGVsID0+IG1vZGVsLkNvbnRlbnQpCiAgICAgICAgPC90aD4KICAgICAgICA8dGg+PC90aD4KICAgIDwvdHI+CiAgICA8L3RoZWFkPgogICAgPHRib2R5PgogICAgQGZvcmVhY2ggKHZhciBpdGVtIGluIE1vZGVsKSB7CiAgICAgICAgPHRyPgogICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICBAKiBASHRtbC5EaXNwbGF5Rm9yKG1vZGVsSXRlbSA9PiBpdGVtLlVzZXIuTmlja25hbWUpICpACiAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICAgIEBIdG1sLkRpc3BsYXlGb3IobW9kZWxJdGVtID0+IGl0ZW0uUHVibGlzaERhdGUpCiAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICAgIEBIdG1sLkRpc3BsYXlGb3IobW9kZWxJdGVtID0+IGl0ZW0uVGl0bGUpCiAgICAgICAgICAgIDwvdGQ+CgogICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICBASHRtbC5EaXNwbGF5Rm9yKG1vZGVsSXRlbSA9PiBpdGVtLlN1bW1hcnkpCiAgICAgICAgICAgIDwvdGQ+CgogICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICBASHRtbC5EaXNwbGF5Rm9yKG1vZGVsSXRlbSA9PiBpdGVtLkNvbnRlbnQpCiAgICAgICAgICAgIDwvdGQ+CgogICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICBAKiA8YSBhc3AtYWN0aW9uPSJFZGl0IiBhc3Atcm91dGUtaWQ9IkBpdGVtLklkIj5FZGl0PC9hPiB8ICpACiAgICAgICAgICAgICAgICBAKiA8YSBhc3AtYWN0aW9uPSJEZXRhaWxzIiBhc3Atcm91dGUtaWQ9IkBpdGVtLklkIj5EZXRhaWxzPC9hPiB8ICpACiAgICAgICAgICAgICAgICBAKiA8YSBhc3AtYWN0aW9uPSJEZWxldGUiIGFzcC1yb3V0ZS1pZD0iQGl0ZW0uSWQiPkRlbGV0ZTwvYT4gKkAKICAgICAgICAgICAgPC90ZD4KICAgICAgICA8L3RyPgogICAgfQogICAgPC90Ym9keT4KPC90YWJsZT4K</text>
       </register>
       <register name="-" type="CHARACTER_WISE">
-        <text encoding="base64">Y29tLw==</text>
+        <text encoding="base64">IC8vIG9yIFJlZGlyZWN0VG9BY3Rpb24oIkluZGV4Iikgd2l0aCBhIG1lc3NhZ2U=</text>
       </register>
       <register name="." type="CHARACTER_WISE">
-        <text encoding="base64">Uw==</text>
+        <text encoding="base64">W11bXV1bQXV0aG9yaXplb3JpemVfXwlBdXRob3JpemU=</text>
       </register>
       <register name="/" type="CHARACTER_WISE">
         <text encoding="base64">Qy15</text>
       </register>
-      <register name="0" type="CHARACTER_WISE">
-        <text encoding="base64">ZGl2IGNsYXNzPSJyb3cgbWItMyI+CiAgICAgICAgPGxhYmVsIGFzcC1mb3I9Ik5hbWUiIGNsYXNzPSJjb2wtMiBjb2wtZm9ybS1sYWJlbCI+PC9sYWJlbD4KICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tMyI+CiAgICAgICAgICAgIDxpbnB1dCBhc3AtZm9yPSJOYW1lIiBjbGFzcz0iZm9ybS1jb250cm9sIj4KICAgICAgICAgICAgPHNwYW4gYXNwLXZhbGlkYXRpb24tZm9yPSJOYW1lIiBjbGFzcz0idGV4dC1kYW5nZXIiPjwvc3Bhbj4KICAgICAgICA8L2Rpdj4KICAgIDwvZGl2Pg==</text>
+      <register name="0" type="LINE_WISE">
+        <text encoding="base64">QG1vZGVsIElFbnVtZXJhYmxlPGFzc2lnbm1lbnRfMy5Nb2RlbHMuQmxvZz4KCkB7CiAgICBWaWV3QmFnLlRpdGxlID0gIkJsb2cgcG9zdHMiOwogICAgTGF5b3V0ID0gIl9MYXlvdXQiOwp9Cgo8aDI+QmxvZyBwb3N0czwvaDI+CjxwPgogICAgQCogPGEgYXNwLWFjdGlvbj0iQ3JlYXRlIj5DcmVhdGUgTmV3PC9hPiAqQAo8L3A+CgoKPHRhYmxlIGNsYXNzPSJ0YWJsZSI+CiAgICA8dGhlYWQ+CiAgICA8dHI+CiAgICAgICAgPHRoPgogICAgICAgICAgICBAKiBASHRtbC5EaXNwbGF5TmFtZUZvcihtb2RlbCA9PiBtb2RlbC5Vc2VyLk5pY2tuYW1lKSAqQAogICAgICAgIDwvdGg+CiAgICAgICAgPHRoPgogICAgICAgICAgICBASHRtbC5EaXNwbGF5TmFtZUZvcihtb2RlbCA9PiBtb2RlbC5QdWJsaXNoRGF0ZSkKICAgICAgICA8L3RoPgogICAgICAgIDx0aD4KICAgICAgICAgICAgQEh0bWwuRGlzcGxheU5hbWVGb3IobW9kZWwgPT4gbW9kZWwuVGl0bGUpCiAgICAgICAgPC90aD4KICAgICAgICA8dGg+CiAgICAgICAgICAgIEBIdG1sLkRpc3BsYXlOYW1lRm9yKG1vZGVsID0+IG1vZGVsLlN1bW1hcnkpCiAgICAgICAgPC90aD4KICAgICAgICA8dGg+CiAgICAgICAgICAgIEBIdG1sLkRpc3BsYXlOYW1lRm9yKG1vZGVsID0+IG1vZGVsLkNvbnRlbnQpCiAgICAgICAgPC90aD4KICAgICAgICA8dGg+PC90aD4KICAgIDwvdHI+CiAgICA8L3RoZWFkPgogICAgPHRib2R5PgogICAgQGZvcmVhY2ggKHZhciBpdGVtIGluIE1vZGVsKSB7CiAgICAgICAgPHRyPgogICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICBAKiBASHRtbC5EaXNwbGF5Rm9yKG1vZGVsSXRlbSA9PiBpdGVtLlVzZXIuTmlja25hbWUpICpACiAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICAgIEBIdG1sLkRpc3BsYXlGb3IobW9kZWxJdGVtID0+IGl0ZW0uUHVibGlzaERhdGUpCiAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICAgIEBIdG1sLkRpc3BsYXlGb3IobW9kZWxJdGVtID0+IGl0ZW0uVGl0bGUpCiAgICAgICAgICAgIDwvdGQ+CgogICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICBASHRtbC5EaXNwbGF5Rm9yKG1vZGVsSXRlbSA9PiBpdGVtLlN1bW1hcnkpCiAgICAgICAgICAgIDwvdGQ+CgogICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICBASHRtbC5EaXNwbGF5Rm9yKG1vZGVsSXRlbSA9PiBpdGVtLkNvbnRlbnQpCiAgICAgICAgICAgIDwvdGQ+CgogICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICBAKiA8YSBhc3AtYWN0aW9uPSJFZGl0IiBhc3Atcm91dGUtaWQ9IkBpdGVtLklkIj5FZGl0PC9hPiB8ICpACiAgICAgICAgICAgICAgICBAKiA8YSBhc3AtYWN0aW9uPSJEZXRhaWxzIiBhc3Atcm91dGUtaWQ9IkBpdGVtLklkIj5EZXRhaWxzPC9hPiB8ICpACiAgICAgICAgICAgICAgICBAKiA8YSBhc3AtYWN0aW9uPSJEZWxldGUiIGFzcC1yb3V0ZS1pZD0iQGl0ZW0uSWQiPkRlbGV0ZTwvYT4gKkAKICAgICAgICAgICAgPC90ZD4KICAgICAgICA8L3RyPgogICAgfQogICAgPC90Ym9keT4KPC90YWJsZT4K</text>
       </register>
       <register name="1" type="LINE_WISE">
-        <text encoding="base64">PGgyPkFkZCBhIEd1ZXN0Ym9vayBFbnRyeTwvaDI+Cgo8Zm9ybSBtZXRob2Q9InBvc3QiIGFzcC1hY3Rpb249IkFkZCI+CiAgICA8ZGl2IGNsYXNzPSJyb3cgbWItMyI+CiAgICAgICAgPGxhYmVsIGFzcC1mb3I9Ik5hbWUiIGNsYXNzPSJjb2wtMiBjb2wtZm9ybS1sYWJlbCI+PC9sYWJlbD4KICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tMyI+CiAgICAgICAgICAgIDxpbnB1dCBhc3AtZm9yPSJOYW1lIiBjbGFzcz0iZm9ybS1jb250cm9sIj4KICAgICAgICAgICAgPHNwYW4gYXNwLXZhbGlkYXRpb24tZm9yPSJOYW1lIiBjbGFzcz0idGV4dC1kYW5nZXIiPjwvc3Bhbj4KICAgICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICAgPGRpdiBjbGFzcz0icm93IG1iLTMiPgogICAgICAgIDxsYWJlbCBhc3AtZm9yPSJUaXRsZSIgY2xhc3M9ImNvbC0yIGNvbC1mb3JtLWxhYmVsIj48L2xhYmVsPgogICAgICAgIDxkaXYgY2xhc3M9ImNvbC1zbS0zIj4KICAgICAgICAgICAgPGlucHV0IGFzcC1mb3I9IlRpdGxlIiBjbGFzcz0iZm9ybS1jb250cm9sIj4KICAgICAgICAgICAgPHNwYW4gYXNwLXZhbGlkYXRpb24tZm9yPSJUaXRsZSIgY2xhc3M9InRleHQtZGFuZ2VyIj48L3NwYW4+CiAgICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICAgIDxkaXYgY2xhc3M9InJvdyBtYi0zIj4KICAgICAgICA8bGFiZWwgYXNwLWZvcj0iTWVzc2FnZSIgY2xhc3M9ImNvbC0yIGNvbC1mb3JtLWxhYmVsIj48L2xhYmVsPgogICAgICAgIDxkaXYgY2xhc3M9ImNvbC1zbS0zIj4KICAgICAgICAgICAgPGlucHV0IGFzcC1mb3I9Ik1lc3NhZ2UiIGNsYXNzPSJmb3JtLWNvbnRyb2wiPgogICAgICAgICAgICA8c3BhbiBhc3AtdmFsaWRhdGlvbi1mb3I9Ik1lc3NhZ2UiIGNsYXNzPSJ0ZXh0LWRhbmdlciI+PC9zcGFuPgogICAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgICA8YnV0dG9uIHR5cGU9InN1Ym1pdCIgaWQ9InN1Ym1pdCI+U3VibWl0PC9idXR0b24+CjwvZm9ybT4K</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gVXNlcnMgY2FuIG9ubHkgZWRpdCB0aGVpciBvd24gcG9zdHMK</text>
       </register>
       <register name="2" type="LINE_WISE">
-        <text encoding="base64">PHRhYmxlIGNsYXNzID0gInRhYmxlLWJvcmRlcmVkIHRhYmxlLWhvdmVyIHRhYmxlLXJlc3BvbnNpdmUiPgogICAgPHRyPgoKICAgIDx0aGVhZD5OYW1lPC90aGVhZD4KICAgIDx0aGVhZD5UaXRsZTwvdGhlYWQ+CiAgICA8dGhlYWQ+TWVzc2FnZTwvdGhlYWQ+CiAgICA8L3RyPgoKICAgIEBmb3JlYWNoICh2YXIgZ3Vlc3QgaW4gTW9kZWwpCiAgICB7CiAgICAgICAgPHRyPgogICAgICAgICAgICA8dGQ+QGd1ZXN0Lk5hbWU8L3RkPgogICAgICAgICAgICA8dGQ+QGd1ZXN0LlRpdGxlPC90ZD4KICAgICAgICAgICAgPHRkPkBndWVzdC5NZXNzYWdlPC90ZD4KICAgICAgICA8L3RyPgogICAgfQo8L3RhYmxlPgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBQcmVzZXJ2ZSBVc2VySWQgYW5kIFB1Ymxpc2hEYXRlLCB1cGRhdGUgZWRpdGFibGUgZmllbGRzCg==</text>
       </register>
       <register name="3" type="LINE_WISE">
-        <text encoding="base64">ICAgIDxsaT4K</text>
+        <text encoding="base64">ICAgICAgICAvLyBPbmx5IGFsbG93IGVkaXRpbmcgaWYgdGhlIGN1cnJlbnQgdXNlb3ducyB0aGUgcG9zdAo=</text>
       </register>
       <register name="4" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICBAZ3Vlc3QuTmFtZSBAZ3Vlc3QuVGl0bGUgQGd1ZXN0Lk1lc3NhZ2UK</text>
+        <text encoding="base64">QCogQG1vZGVsIFRNb2RlbCAqQAoKQHsKICAgIFZpZXdCYWcuVGl0bGUgPSAiRWRpdCBibG9nIHBvc3QiOwogICAgTGF5b3V0ID0gIl9MYXlvdXQiOwp9Cgo8aDI+RWRpdCBibG9nIHBvc3Q8L2gyPgo=</text>
       </register>
       <register name="5" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICA8L3RhYmxlPgo=</text>
+        <text encoding="base64">QG1vZGVsIEJsb2cKCkB7CiAgICBWaWV3QmFnLlRpdGxlID0gIkFkZCBhIG5ldyBibG9nIHBvc3QiOwogICAgTGF5b3V0ID0gIl9MYXlvdXQiOwp9Cgo8aDI+QWRkIGEgbmV3IGJsb2cgcG9zdDwvaDI+Cg==</text>
       </register>
-      <register name="6" type="LINE_WISE">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="CHARACTER_WISE">
+        <text encoding="base64">IDxoNSBjbGFzcz0iY2FyZC10aXRsZSBUaXRsZSI+QE1vZGVsLlRpdGxlPC9oNT4KICAgICAgICA8aDYgY2xhc3M9ImNhcmQtc3VidGl0bGUgbWItMiB0ZXh0LW11dGVkIFN1bW1hcnkiPkBNb2RlbC5TdW1tYXJ5PC9oNj4KICAgICAgICA8cCBjbGFzcz0iY2FyZC10ZXh0IENvbnRlbnQiPkBNb2RlbC5Db250ZW50PC9wPg==</text>
       </register>
       <register name="7" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICA8dGFibGU+Cg==</text>
+        <text encoding="base64">QG1vZGVsIElFbnVtZXJhYmxlPEJsb2c+CgpAewogICAgVmlld0JhZy5UaXRsZSA9ICJCbG9nIHBvc3RzIjsKICAgIExheW91dCA9ICJfTGF5b3V0IjsKfQoKPGgyPkJsb2cgcG9zdHM8L2gyPgo8cD4KICAgIDxhIGFzcC1hY3Rpb249IkFkZCI+QWRkIGEgYmxvZyBwb3N0ITwvYT4KPC9wPgoKCiAgICBAZm9yZWFjaCAodmFyIGl0ZW0gaW4gTW9kZWwpCiAgICB7CiAgICAgIEBhd2FpdCBIdG1sLlBhcnRpYWxBc3luYygiX1Bvc3RQYXJ0aWFsIiwgaXRlbSkKICAgIH0K</text>
       </register>
       <register name="8" type="LINE_WISE">
-        <text encoding="base64">ICAgIDwvbGk+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YSBhc3AtYWN0aW9uPSJEZXRhaWxzIiBhc3Atcm91dGUtaWQ9IkBNb2RlbC5JZCIgY2xhc3M9ImJ0biBidG4tc20gYnRuLXNlY29uZGFyeSI+RGV0YWlsczwvYT4K</text>
       </register>
       <register name="9" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgPGEgYXNwLWNvbnRyb2xsZXI9IkF1dGhvcnMiIGFzcC1hY3Rpb249IkRlbGV0ZSIgYXNwLXJvdXRlLWlkPSJAYXV0aG9yLklkIj5EZWxldGU8L2E+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YSBhc3AtYWN0aW9uPSJEZWxldGUiIGFzcC1yb3V0ZS1pZD0iQE1vZGVsLklkIiBjbGFzcz0iYnRuIGJ0bi1zbSBidG4tZGFuZ2VyIj5EZWxldGU8L2E+Cg==</text>
       </register>
       <register name=":" type="CHARACTER_WISE">
         <text encoding="base64">dw==</text>

@@ -1,0 +1,97 @@
+<keymap version="1" name="Vatnar RUST" parent="$default">
+  <action id="CPP.NewCppFile">
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="CPP.NewHeaderFile">
+    <keyboard-shortcut first-keystroke="shift alt h" />
+  </action>
+  <action id="Console.TableResult.SubmitAndCommit" />
+  <action id="Console.Transaction.Commit" />
+  <action id="CppIncludesHierarchy" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift f9" />
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="EditorDeleteLine" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="GotoTest" />
+  <action id="InsertInlineCompletionAction" />
+  <action id="Macro.Reformat and optimize">
+    <keyboard-shortcut first-keystroke="shift ctrl alt enter" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="shift alt a" />
+  </action>
+  <action id="RecentChanges" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt t" />
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="shift ctrl alt r" />
+  </action>
+  <action id="RerunTests" />
+  <action id="Run" />
+  <action id="RunJsbtTask" />
+  <action id="ServiceView.ShowServices" />
+  <action id="ShowProjectStructureSettings" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="shift alt s" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+    <keyboard-shortcut first-keystroke="shift alt d" />
+  </action>
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f7" />
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="shift f8" />
+    <keyboard-shortcut first-keystroke="shift f11" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f8" />
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="SwitchHeaderSource">
+    <keyboard-shortcut first-keystroke="f10" />
+    <keyboard-shortcut first-keystroke="shift f10" />
+  </action>
+  <action id="TableResult.ShrinkSelection" />
+  <action id="Terminal.NewTab" />
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="alt f11" />
+  </action>
+  <action id="Tool_External Tools_WriteProjectRoot">
+    <keyboard-shortcut first-keystroke="shift alt p" />
+  </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="shift alt w" />
+  </action>
+  <action id="Vcs.Log.ShowAllAffected" />
+  <action id="VcsHistory.ShowAllAffected" />
+  <action id="context.save" />
+  <action id="hg4idea.QFold" />
+  <action id="hg4idea.QPushAction" />
+  <action id="tasks.close" />
+  <action id="tasks.goto" />
+  <action id="tasks.switch" />
+</keymap>

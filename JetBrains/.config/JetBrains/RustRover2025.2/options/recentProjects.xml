@@ -1,0 +1,26 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/dev/ShaderPreview2">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ShaderPreview2 [~/dev/ShaderPreview2]" opened="true" projectWorkspaceId="32Kyc8esFFo84WM4MrJAlkXZhgy">
+              <option name="activationTimestamp" value="1757191025510" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RR-252.25557.134" />
+              <option name="buildTimestamp" value="1756357440000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="6" y="6" width="1908" height="1028" />
+              <option name="productionCode" value="RR" />
+              <option name="projectOpenTimestamp" value="1757183634677" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/dev/ShaderPreview2" />
+    <option name="lastProjectLocation" value="$USER_HOME$/dev" />
+  </component>
+</application>

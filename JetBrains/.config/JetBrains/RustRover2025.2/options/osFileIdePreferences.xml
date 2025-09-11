@@ -1,0 +1,46 @@
+<application>
+  <component name="OSFileAssociationPreferences">
+    <option name="fileTypeNames">
+      <list>
+        <option value="Assembly file" />
+        <option value="C/C++" />
+        <option value="C/C++-x-c" />
+        <option value="C/C++-x-c++" />
+        <option value="C/C++-x-c++m" />
+        <option value="C/C++-x-cc" />
+        <option value="C/C++-x-ccm" />
+        <option value="C/C++-x-cp" />
+        <option value="C/C++-x-cppm" />
+        <option value="C/C++-x-cu" />
+        <option value="C/C++-x-cxx" />
+        <option value="C/C++-x-cxxm" />
+        <option value="C/C++-x-i" />
+        <option value="C/C++-x-ii" />
+        <option value="C/C++-x-ixx" />
+        <option value="C/C++-x-m" />
+        <option value="C/C++-x-mm" />
+        <option value="C/C++-x-mxx" />
+        <option value="C/C++-x-usf" />
+        <option value="C/C++ Header" />
+        <option value="C/C++ Header-x-cuh" />
+        <option value="C/C++ Header-x-h++" />
+        <option value="C/C++ Header-x-hh" />
+        <option value="C/C++ Header-x-hp" />
+        <option value="C/C++ Header-x-hpp" />
+        <option value="C/C++ Header-x-hxx" />
+        <option value="C/C++ Header-x-icc" />
+        <option value="C/C++ Header-x-inc" />
+        <option value="C/C++ Header-x-inl" />
+        <option value="C/C++ Header-x-ino" />
+        <option value="C/C++ Header-x-ipp" />
+        <option value="C/C++ Header-x-mpp" />
+        <option value="C/C++ Header-x-pch" />
+        <option value="C/C++ Header-x-tcc" />
+        <option value="C/C++ Header-x-tpp" />
+        <option value="C/C++ Header-x-ush" />
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+    <option name="ideLocationHash" value="8305E787B8FB07E889CBE869B0892B1B" />
+  </component>
+</application>

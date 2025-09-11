@@ -1,0 +1,160 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="ShaderPreview2" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2lt3jz8j161jm" SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Rust": {
+      "usageCount": 7,
+      "lastUsed": 1757190638584
+    },
+    "WebPreview": {
+      "usageCount": 2,
+      "lastUsed": 1757183716726
+    },
+    "TOML": {
+      "usageCount": 5,
+      "lastUsed": 1757190638588
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/vatnar/dev/ShaderPreview2/src/lib.rs&quot;,
+    &quot;/home/vatnar/dev/ShaderPreview2/src/main.rs&quot;
+  ]
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Rust">
+      <summary usageCount="7" lastUsage="1757190638584" />
+    </language>
+    <language id="TOML">
+      <summary usageCount="5" lastUsage="1757190638588" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Cargo.Run" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1085000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Commit" order="0" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.33025292" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="5" visible="true" weight="0.33025292" />
+      <window_info anchor="bottom" id="Run" order="6" show_stripe_button="false" weight="0.3300926" />
+      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Cargo" order="5" weight="0.2" />
+      <window_info anchor="right" id="RustCargo" order="6" weight="0.09931865" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="7" visible="true" weight="0.32625785" />
+      <unified_weights bottom="0.33025292" left="0.33045074" right="0.32625785" />
+    </layoutV2>
+    <recentWindows>
+      <value>Build</value>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="710" y="405" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1757184364535">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="710" y="405" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1757184364535" />
+    <state x="725" y="277" key="FileChooserDialogImpl" timestamp="1757184362595">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="725" y="277" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1757184362595" />
+    <state width="1854" height="324" key="GridCell.Tab.0.bottom" timestamp="1757184365311">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1854" height="324" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1757184365311" />
+    <state width="1854" height="324" key="GridCell.Tab.0.center" timestamp="1757184365311">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1854" height="324" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1757184365311" />
+    <state width="1854" height="324" key="GridCell.Tab.0.left" timestamp="1757184365311">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1854" height="324" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1757184365311" />
+    <state width="1854" height="324" key="GridCell.Tab.0.right" timestamp="1757184365311">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1854" height="324" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1757184365311" />
+    <state x="464" y="175" key="SettingsEditor" timestamp="1757183812236">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="464" y="175" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1757183812236" />
+    <state width="750" height="525" key="ShowBookmarks" timestamp="1757183705761">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="750" height="525" key="ShowBookmarks/0.0.1920.1080@0.0.1920.1080" timestamp="1757183705761" />
+    <state x="693" y="228" width="524" height="554" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1757190866297">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="693" y="228" width="524" height="554" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1757190866297" />
+    <state x="834" y="394" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1757183704486">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="834" y="394" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.0.1920.1080@0.0.1920.1080" timestamp="1757183704486" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib.rs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

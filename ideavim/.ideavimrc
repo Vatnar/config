@@ -170,11 +170,12 @@ Plug 'tpope/vim-commentary'
 Plug 'vim-scripts/argtextobj.vim'
 Plug 'chrisbra/matchit'
 Plug 'tpope/vim-surround'
+Plug 'preservim/nerdtree'
 set peekaboo
 set quickscope
 set which-key
 set notimeout
-
+nnoremap <leader>fb :<C-u>NERDTreeFocus<CR>
 
 " =========================
 " WhichKey Descriptions
@@ -253,3 +254,4 @@ let g:WhichKeyDesc_ml = "<leader>ml  Show All Bookmarks"
 let g:WhichKeyDesc_p = "<leader>p  Project Tool Window"
 let g:WhichKeyDesc_q = "<leader>q  NOT IMPLEMENTED"
 let g:WhichKeyDesc__leader = "<leader><leader>  Recent Files"
+set relativenumber

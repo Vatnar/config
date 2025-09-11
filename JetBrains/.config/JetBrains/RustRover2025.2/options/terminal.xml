@@ -1,0 +1,21 @@
+<application>
+  <component name="BlockTerminalOptions">
+    <option name="promptStyle" value="SHELL" />
+  </component>
+  <component name="BlockTerminalUsage">
+    <option name="blockTerminalUsedLastTimeMillis" value="1747215128808" />
+    <option name="blockTerminalUsedLastVersion" value="243.22562.225" />
+    <shellToExecutedCommandsNumber>
+      <entry key="powershell" value="14" />
+    </shellToExecutedCommandsNumber>
+  </component>
+  <component name="ReworkedTerminalUsage">{
+  &quot;feedbackNotificationShown&quot;: true,
+  &quot;enterKeyPressedTimes&quot;: 4
+}</component>
+  <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="C:\Program Files\PowerShell\7\pwsh.exe" />
+    <option name="mySoundBell" value="false" />
+    <option name="terminalEngine" value="NEW_TERMINAL" />
+  </component>
+</application>

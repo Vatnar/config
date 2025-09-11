@@ -1,0 +1,16 @@
+<application>
+  <component name="CppCodeCompletionExtraSettings">
+    <option name="behaviorOfImportItems" value="Always show menu with options" />
+  </component>
+  <component name="CppCodeFoldingSettings">
+    <option name="collapseMultilineComments" value="true" />
+  </component>
+  <component name="LSCodeFoldingSettings">
+    <option name="topLevelCommands" value="true" />
+  </component>
+  <component name="RiderCodeCompletionExtraSettings">
+    <option name="allowToCompleteWithWhitespace" value="false" />
+    <option name="alwaysCompleteWithEnter" value="false" />
+    <option name="showSignatures" value="true" />
+  </component>
+</application>

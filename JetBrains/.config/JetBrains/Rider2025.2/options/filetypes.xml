@@ -6,6 +6,7 @@
       <removed_mapping ext="bat" approved="true" type="Bat" />
       <removed_mapping ext="cmd" approved="true" type="Cmd" />
       <removed_mapping ext="exe" approved="true" type="Binary" />
+      <removed_mapping ext="glsl" approved="true" type="GLSL" />
       <removed_mapping ext="tps" approved="true" type="XML" />
     </extensionMap>
   </component>

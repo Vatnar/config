@@ -1,0 +1,26 @@
+<application>
+  <component name="AdvancedSettings">
+    <option name="settings">
+      <map>
+        <entry key="ai.assistant.inline.prompt.detector" value="false" />
+        <entry key="clangd.keep.obsolete.ast" value="true" />
+        <entry key="clangd.use.indexer" value="true" />
+        <entry key="clion.debug.prepare.gdb.indexes" value="true" />
+        <entry key="clion.debug.targets.enabled" value="true" />
+        <entry key="clion.use.radler" value="true" />
+        <entry key="confirm.rerun.with.termination" value="false" />
+        <entry key="documentation.auto.show.in.modal.dialogs" value="true" />
+        <entry key="documentation.components.enable.highlighting.of.links" value="true" />
+        <entry key="documentation.components.enable.inline.code.highlighting" value="SEMANTIC_HIGHLIGHTING" />
+        <entry key="editor.maximize.in.splits.on.double.click" value="true" />
+        <entry key="editor.normalize.splits" value="true" />
+        <entry key="editor.paste.line.copied.from.empty.selection" value="AT_CARET" />
+        <entry key="editor.selection.expand-whitespaces" value="false" />
+        <entry key="floating.codeToolbar.hide" value="true" />
+        <entry key="ide.remember.last.search.scope" value="true" />
+        <entry key="ide.usages.page.size" value="1000" />
+        <entry key="promote.suggested.refactoring.in.editor" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

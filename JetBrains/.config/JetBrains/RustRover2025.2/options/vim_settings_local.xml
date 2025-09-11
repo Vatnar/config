@@ -1,0 +1,108 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="ShaderPreview2-70307de1">
+      <jump line="3" column="0" filename="$USER_HOME$/dev/ShaderPreview2/src/main.rs" protocol="file" />
+      <jump line="0" column="10" filename="$USER_HOME$/dev/ShaderPreview2/src/main.rs" protocol="file" />
+      <jump line="1" column="1" filename="$USER_HOME$/dev/ShaderPreview2/src/main.rs" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ShaderPreview2/src/lib.rs" protocol="file" />
+      <jump line="13" column="4" filename="$USER_HOME$/dev/ShaderPreview2/src/main.rs" protocol="file" />
+      <jump line="18" column="0" filename="$USER_HOME$/dev/ShaderPreview2/src/main.rs" protocol="file" />
+      <jump line="19" column="28" filename="$USER_HOME$/dev/ShaderPreview2/src/main.rs" protocol="file" />
+      <jump line="10" column="47" filename="$USER_HOME$/dev/ShaderPreview2/src/main.rs" protocol="file" />
+      <jump line="22" column="34" filename="$USER_HOME$/dev/ShaderPreview2/src/main.rs" protocol="file" />
+      <jump line="31" column="4" filename="$USER_HOME$/dev/ShaderPreview2/src/main.rs" protocol="file" />
+      <jump line="38" column="0" filename="$USER_HOME$/dev/ShaderPreview2/src/main.rs" protocol="file" />
+      <jump line="37" column="36" filename="$USER_HOME$/dev/ShaderPreview2/src/main.rs" protocol="file" />
+      <jump line="41" column="32" filename="$USER_HOME$/dev/ShaderPreview2/src/main.rs" protocol="file" />
+      <jump line="59" column="4" filename="$USER_HOME$/dev/ShaderPreview2/src/main.rs" protocol="file" />
+      <jump line="39" column="0" filename="$USER_HOME$/dev/ShaderPreview2/src/main.rs" protocol="file" />
+      <jump line="36" column="16" filename="$USER_HOME$/dev/ShaderPreview2/src/main.rs" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ShaderPreview2/Cargo.toml" protocol="file" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/dev/ShaderPreview2/src/main.rs" timestamp="1757191024320">
+        <mark key="&quot;" line="36" column="16" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/ShaderPreview2/src/lib.rs" timestamp="1757191024360">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ShaderPreview2/Cargo.toml" timestamp="1757191024364">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="LINE_WISE">
+        <text encoding="base64">ICAgIHVzZSBtYWdpYzo6e2Rpc3BsYXksIGludGVyYWN0fTsK</text>
+      </register>
+      <register name="*" type="LINE_WISE">
+        <text encoding="base64">ICAgIHVzZSBtYWdpYzo6e2Rpc3BsYXksIGludGVyYWN0fTsK</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">bA==</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">JyNbXVtdZGVyaXZlKClEZWZhdWx0</text>
+      </register>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">ICAgIHVzZSBtYWdpYzo6e2Rpc3BsYXksIGludGVyYWN0fTsK</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">ICAgIGxldCBpbnRlcmZhY2UgPSBjb3VudGVyLnZpZXcoKTsK</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">ICAgIGxldCBjb3VudGVyID0gQ291bnRlciB7IHZhbHVlOiAwIH07Cg==</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">ICAgIHVzZSBtYWdpYzo6e2Rpc3BsYXksIGludGVyYWN0fTsK</text>
+      </register>
+      <register name="6" type="CHARACTER_WISE">
+        <text encoding="base64">ZXQgbWVzc2FnZXMgPSBpbnRlcmFjdCgmaW50ZXJmYWNlKTsKICAgIGZvciBtZXNzYWdlIGluIG1lc3NhZ2VzIHsKICAgICAgICBjb3VudGVyLnVwZGF0ZShtZXNzYWdlKTsKICAgIH0KCg==</text>
+      </register>
+      <register name="7" type="LINE_WISE">
+        <text encoding="base64">ICAgIGxldCBtdXQgY291bnRlciA9ICBDb3VudGVyeyB2YWx1ZTowfTsK</text>
+      </register>
+      <register name="8" type="LINE_WISE">
+        <text encoding="base64">ICAgIGNvdW50ZXIudXBkYXRlKE1lc3NhZ2U6OkRlY3JlbWVudCk7Cg==</text>
+      </register>
+      <register name="9" type="LINE_WISE">
+        <text encoding="base64">ICAgIGNvdW50ZXIudXBkYXRlKE1lc3NhZ2U6OkluY3JlbWVudCk7Cg==</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">dw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-offset encoding="base64" />
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">dHJ1ZQ==</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

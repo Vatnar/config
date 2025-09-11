@@ -2761,10 +2761,52 @@
         <option value="LanguageTool.EN.HERE_HEAR" />
       </set>
     </option>
+    <option name="userEnabledRules">
+      <set>
+        <option value="LanguageTool.EN.COMMA_PERIOD_CONFUSION" />
+        <option value="LanguageTool.EN.NON_STANDARD_COMMA" />
+        <option value="LanguageTool.EN.COMMA_PARENTHESIS_WHITESPACE" />
+        <option value="LanguageTool.EN.TL_DR" />
+        <option value="LanguageTool.EN.CAPITALIZATION_NNP_DERIVED" />
+        <option value="LanguageTool.EN.O_CONNOR" />
+        <option value="LanguageTool.EN.CURRENCY_SPACE" />
+        <option value="LanguageTool.EN.WHITESPACE_RULE" />
+        <option value="LanguageTool.EN.A_LA_DIACRITIC" />
+        <option value="LanguageTool.EN.CAFE_DIACRITIC" />
+        <option value="LanguageTool.EN.MULTIPLICATION_SIGN" />
+        <option value="LanguageTool.EN.SPACE_BEFORE_PARENTHESIS" />
+        <option value="LanguageTool.EN.DOUBLE_APOSTROPHE" />
+        <option value="LanguageTool.EN.COPYRIGHT" />
+        <option value="LanguageTool.EN.SPURIOUS_APOSTROPHE" />
+        <option value="LanguageTool.EN.SPACE_BETWEEN_NUMBER_AND_WORD" />
+        <option value="LanguageTool.EN.CD_TH" />
+        <option value="LanguageTool.EN.R_SYMBOL" />
+        <option value="LanguageTool.EN.HYPOTHESIS_TYPOGRAPHY" />
+        <option value="LanguageTool.EN.CURRENCY" />
+        <option value="LanguageTool.EN.ARROWS" />
+        <option value="LanguageTool.EN.GERMAN_QUOTES" />
+        <option value="LanguageTool.EN.TRADEMARK" />
+        <option value="LanguageTool.EN.WRONG_APOSTROPHE" />
+        <option value="LanguageTool.EN.APOS_SPACE_CONTRACTION" />
+        <option value="LanguageTool.EN.TYPEWRITER_APOSTROPHE" />
+        <option value="LanguageTool.EN.EN_QUOTES" />
+        <option value="LanguageTool.EN.PLUS_MINUS" />
+        <option value="LanguageTool.EN.EN_DASH_RULE" />
+        <option value="LanguageTool.EN.APOSTROPHE_VS_QUOTE" />
+        <option value="LanguageTool.EN.APOSTROPHE_IN_DATES" />
+        <option value="LanguageTool.EN.CONSECUTIVE_SPACES" />
+        <option value="LanguageTool.EN.MISSING_APOSTROPHE" />
+        <option value="LanguageTool.EN.APOSTROPHE_IN_DAYS" />
+        <option value="LanguageTool.EN.NON_STANDARD_QUESTION_MARK" />
+        <option value="LanguageTool.EN.TYPOGRAPHICAL_APOSTROPHE" />
+        <option value="LanguageTool.EN.NON_ENGLISH_CHARACTER_IN_A_WORD" />
+      </set>
+    </option>
     <option name="suppressingContext">
       <SuppressingContext>
         <option name="suppressed">
           <set>
+            <option value="" />
             <option value="&quot;" />
             <option value=":" />
             <option value="INSERT INTO authors" />

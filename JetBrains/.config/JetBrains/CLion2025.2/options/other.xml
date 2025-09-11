@@ -17,6 +17,10 @@
       <option value="SynchronizeCurrentFile" />
       <option value="CMake.ReloadCMakeProject" />
       <option value="RestartIde" />
+      <option value="ReplaceInPath" />
+      <option value="EditorIncreaseFontSize" />
+      <option value="EditorDecreaseFontSize" />
+      <option value="FindMenuGroup" />
     </ids>
   </component>
   <component name="FileEditorProviderManager">{}</component>
@@ -60,19 +64,19 @@
     "BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR": "true",
     "BEFORE.DISTRACTION.MODE.SHOW_NEW_MAIN_TOOLBAR": "false",
     "BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR": "true",
-    "BLOCK_TERMINAL_LAST_USED_DATE": "1756456227",
+    "BLOCK_TERMINAL_LAST_USED_DATE": "1757191313",
     "BLOCK_TERMINAL_LAST_USED_VERSION": "252.25557.127",
     "DISTRACTION.MODE.ENTER.VALUE": "false",
     "ExternalToolDialog.advanced.expanded": "true",
-    "FileTemplates.CurrentTab": "Other",
-    "FileTemplates.SelectedTemplate": "library.cpp",
-    "InstalledPluginsSearchHistory": "fuzzier\nfuzzi\nfuzz\nfuz\nfuu",
+    "FileTemplates.SelectedTemplate": "HTML File",
+    "FindSplitterProportion": "0.32759807",
+    "GRAZIE_RULE_FILTER": "typography",
+    "InstalledPluginsSearchHistory": "copy\ncop\nlive templates\nlive tem\nli",
     "KEYMAP": "code completion\nline completion\nline  completion\nnew file\ncomplete current statement",
-    "LAST_CALCULATED_COLOR_INDEX_KEY": "6",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "7",
     "LayoutCode.codeCleanup": "true",
     "LayoutCode.rearrangeEntriesCMake": "false",
-    "MarketplacePluginsSearchHistory": "math\nlatex\nfuzzy\nfuzz\nfuzzi",
-    "PluginConfigurable.selectionTab": "1",
+    "MarketplacePluginsSearchHistory": "ideavim\ni\ncopy\nmath\nlatex",
     "Rad.Init.Cfg.1": "true",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.TerminalFontSettingsService.fixStoredNonMonospacedFonts": "true",
@@ -81,7 +85,7 @@
     "RunOnceActivity.cidr.test.framework.showIndexingAsTask": "true",
     "RunOnceActivity.cidr.test.roots.only": "true",
     "RunOnceActivity.git.modal.commit.toggle": "true",
-    "SettingsSearchHistory": "2\nfile templates\nactions on save\nfile type\nideavim",
+    "SettingsSearchHistory": "line numbers\nactions on save\nlive templates\nmath\n2",
     "ai.assistant.inline.prompt.detector.used": "true",
     "ask.about.ctrl.y.shortcut.v2": "true",
     "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
@@ -93,7 +97,7 @@
     "experimental.ui.used.version": "252.25557.127",
     "export.settings.path": "/home/vatnar/cppconfig/settings.zip",
     "file.gist.reindex.count": "1",
-    "fileTypeChangedCounter": "5",
+    "fileTypeChangedCounter": "8",
     "fontSizeToResetConsole": "14.0",
     "fontSizeToResetEditor": "14.0",
     "full.line.logs.sending.asked": "true",
@@ -103,7 +107,7 @@
     "got.it.tooltip.debug.target.enabled.debug.targets.gotit.selector": "1",
     "idea.islands.enabled": "true",
     "input.method.disabler.muted": "true",
-    "last_opened_file_path": "/home/vatnar/ikt203g25h/submissions",
+    "last_opened_file_path": "/home/vatnar/ikt203g25h/submissions/submission3",
     "llm.installer.last.toolwindow.state": "AI_ASSISTANT",
     "migrated.non.roamable.values.from.general.settings": "true",
     "onboarding.tips.enabled": "false",
@@ -120,6 +124,9 @@
     "AIHubNotificationManager.notifications": [],
     "AIHubNotificationManager.seenNotifications": [],
     "file.chooser.recent.files": [
+      "/home/vatnar/ikt203g25h/submissions/submission3",
+      "/home/vatnar/dev/shaderpreview2",
+      "/home/vatnar/dev",
       "/home/vatnar/ikt203g25h",
       "/home/vatnar/ikt203g25h/submissions/submission1",
       "/home/vatnar/ikt203g25h/submissions",
@@ -131,8 +138,7 @@
       "/home/vatnar/ikt203g25h/ovinger/oving1/main.cpp",
       "/home/vatnar/ikt203g25h/ovinger",
       "/home/vatnar/cppconfig",
-      "/run/media/vatnar/KINGSTON/misc/settings.zip",
-      "/home/vatnar/dev"
+      "/run/media/vatnar/KINGSTON/misc/settings.zip"
     ],
     "fileTypeDetectors": [
       "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",

@@ -1,4 +1,6 @@
--Xmx2048m
+-Didea.suppressed.plugins.set.selector=radler
+-Dcom.sun.awt.use.national.layouts=false
 -Dide.managed.by.toolbox=/home/vatnar/bin/jetbrains-toolbox-2.8.1.52155/bin/jetbrains-toolbox
 -Dtoolbox.notification.token=0abef178-9355-4709-a69d-3f7ebcd04e3e
 -Dtoolbox.notification.portFile=/home/vatnar/.cache/JetBrains/Toolbox/ports/a4f5d85c-72e4-458c-bd25-0b8adca84ae6.port
+-Xmx2048m

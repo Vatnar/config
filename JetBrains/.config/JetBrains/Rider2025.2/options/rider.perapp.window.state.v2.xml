@@ -32,7 +32,9 @@
         {
           "id": "Structure",
           "order": 1,
-          "weight": 0.3986979,
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.015985325,
           "isSplit": true
         },
         {
@@ -122,26 +124,33 @@
           "id": "Run",
           "order": 5,
           "anchor": "BOTTOM",
+          "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.33025292
+          "weight": 0.3467899
         },
         {
           "id": "Build",
           "order": 6,
           "anchor": "BOTTOM",
-          "weight": 0.33025292
+          "weight": 0.3467899
         },
         {
           "id": "Debug",
           "order": 7,
           "anchor": "BOTTOM",
-          "weight": 0.3146887
+          "weight": 0.33025292
         },
         {
           "id": "Find",
           "order": 8,
           "anchor": "BOTTOM",
-          "weight": 0.3146887
+          "weight": 0.31435186
+        },
+        {
+          "id": "Stacktrace",
+          "order": 9,
+          "anchor": "BOTTOM",
+          "weight": 0.33025292
         },
         {
           "id": "PR AI Assistant",
@@ -196,7 +205,7 @@
           "id": "AIAssistant",
           "order": 1,
           "anchor": "RIGHT",
-          "weight": 0.25
+          "weight": 0.3299266
         },
         {
           "id": "Database",
@@ -234,8 +243,8 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.3980608,
-        "bottom": 0.33025292,
+        "left": 0.015985325,
+        "bottom": 0.3467899,
         "right": 0.3299266
       }
     }

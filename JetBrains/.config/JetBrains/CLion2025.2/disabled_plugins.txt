@@ -9,7 +9,6 @@ NodeJS
 PerforceDirectPlugin
 Subversion
 XPathView
-com.bukowiecki.regdebug
 com.deadlock.scsyntax
 com.intellij.cidr.lang
 com.intellij.clion.west
@@ -22,7 +21,6 @@ com.intellij.stylelint
 com.intellij.tailwindcss
 com.jetbrains.plugins.webDeployment
 com.joshestein.ideavim-quickscope
-com.redhat.devtools.lsp4ij
 hg4idea
 intellij.nextjs
 intellij.platform.ijent.impl
