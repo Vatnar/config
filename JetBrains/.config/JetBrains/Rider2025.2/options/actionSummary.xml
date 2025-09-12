@@ -1,7 +1,7 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Copy">
-      <i c="23" l="1757666524542" />
+      <i c="25" l="1757677778378" />
     </e>
     <e n="$Delete">
       <i c="6" l="1757587426593" />
@@ -79,7 +79,7 @@
       <i c="5" l="1757424355763" />
     </e>
     <e n="EditorBackSpace">
-      <i c="2175" l="1757670293983" />
+      <i c="2180" l="1757677808483" />
     </e>
     <e n="EditorBreadcrumbsShowBelow">
       <i c="1" d="1" l="1755606887883" k="1755606887883" />
@@ -112,7 +112,7 @@
       <i c="382" l="1757666609794" />
     </e>
     <e n="EditorEscape">
-      <i c="92" l="1757675145448" />
+      <i c="93" l="1757677310642" />
     </e>
     <e n="EditorLeft">
       <i c="53" l="1757588990459" />
@@ -232,7 +232,7 @@
       <i c="61" l="1757623318892" />
     </e>
     <e n="SaveAll">
-      <i c="115" l="1757675146254" />
+      <i c="117" l="1757677810903" />
     </e>
     <e n="SearchEverywhere">
       <i c="7" l="1757622852306" />
@@ -247,7 +247,7 @@
       <i c="2" l="1756387158087" />
     </e>
     <e n="ShowIntentionActions">
-      <i c="42" l="1757592527599" />
+      <i c="43" l="1757677256608" />
     </e>
     <e n="ShowReformatFileDialog">
       <i c="2" l="1757591676298" />
@@ -292,7 +292,7 @@
       <i c="1" l="1755195199475" />
     </e>
     <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
-      <i c="5496" l="1757675146184" />
+      <i c="5509" l="1757677810898" />
     </e>
     <e n="com.intellij.openapi.actionSystem.EmptyAction">
       <i c="1" l="1755606969916" />
@@ -328,7 +328,7 @@
       <i c="1" l="1756389010702" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="3" l="1757590672555" />
+      <i c="4" l="1757677767378" />
     </e>
     <e n="com.intellij.ui.CommonActionsPanel$AddButton">
       <i c="1" l="1756451602630" />

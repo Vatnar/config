@@ -234,8 +234,6 @@
           "order": 6,
           "anchor": "RIGHT",
           "contentUiType": "COMBO",
-          "isActiveOnStart": true,
-          "isVisible": true,
           "weight": 0.32468554
         }
       ],

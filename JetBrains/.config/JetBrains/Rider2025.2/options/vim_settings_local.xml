@@ -5,6 +5,7 @@
         <entry encoding="base64" />
         <entry encoding="base64">JzwsJz4b</entry>
         <entry encoding="base64">Vw==</entry>
+        <entry encoding="base64">IWxn</entry>
         <entry encoding="base64">Gw==</entry>
         <entry encoding="base64">dw==</entry>
       </history-cmd>
@@ -208,10 +209,6 @@
       <jump line="4" column="39" filename="$USER_HOME$/ikt201g25h/examples/03_entity_framework_relationships/Models/ApplicationUser.cs" protocol="file" />
     </project>
     <project id="assignment_3-e4c765cc">
-      <jump line="57" column="59" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Index.cshtml" protocol="file" />
-      <jump line="58" column="14" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Index.cshtml" protocol="file" />
-      <jump line="43" column="28" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
-      <jump line="46" column="32" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
       <jump line="25" column="47" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
       <jump line="26" column="49" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
       <jump line="2" column="0" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Shared/_PostPartial.cshtml" protocol="file" />
@@ -226,11 +223,9 @@
       <jump line="13" column="4" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Index.cshtml" protocol="file" />
       <jump line="17" column="0" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Index.cshtml" protocol="file" />
       <jump line="15" column="6" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Shared/_PostPartial.cshtml" protocol="file" />
-      <jump line="15" column="1" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Index.cshtml" protocol="file" />
       <jump line="4" column="52" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Shared/_PostPartial.cshtml" protocol="file" />
       <jump line="12" column="0" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Data/ApplicationDbInitializer.cs" protocol="file" />
       <jump line="2" column="2" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Add.cshtml" protocol="file" />
-      <jump line="24" column="12" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
       <jump line="53" column="8" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
       <jump line="52" column="5" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
       <jump line="54" column="42" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
@@ -254,7 +249,6 @@
       <jump line="29" column="0" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Areas/Identity/Pages/Account/Manage/_Layout.cshtml" protocol="file" />
       <jump line="0" column="0" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Areas/Identity/Pages/Account/Manage/_Layout.cshtml" protocol="file" />
       <jump line="3" column="0" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Areas/Identity/Pages/Account/Manage/_Layout.cshtml" protocol="file" />
-      <jump line="0" column="0" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Home/Index.cshtml" protocol="file" />
       <jump line="0" column="0" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Shared/_Layout.cshtml" protocol="file" />
       <jump line="34" column="8" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Shared/_Layout.cshtml" protocol="file" />
       <jump line="43" column="105" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Shared/_Layout.cshtml" protocol="file" />
@@ -304,10 +298,17 @@
       <jump line="10" column="39" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Shared/_PostPartial.cshtml" protocol="file" />
       <jump line="8" column="35" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Shared/_PostPartial.cshtml" protocol="file" />
       <jump line="7" column="27" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Shared/_PostPartial.cshtml" protocol="file" />
-      <jump line="5" column="32" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Shared/_PostPartial.cshtml" protocol="file" />
       <jump line="0" column="6" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Models/Blog.cs" protocol="file" />
       <jump line="3" column="30" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Models/Blog.cs" protocol="file" />
       <jump line="22" column="4" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Models/Blog.cs" protocol="file" />
+      <jump line="31" column="4" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Models/Blog.cs" protocol="file" />
+      <jump line="33" column="30" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Models/Blog.cs" protocol="file" />
+      <jump line="32" column="0" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Models/Blog.cs" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Home/Index.cshtml" protocol="file" />
+      <jump line="15" column="1" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Index.cshtml" protocol="file" />
+      <jump line="5" column="32" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Shared/_PostPartial.cshtml" protocol="file" />
+      <jump line="3" column="9" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Shared/_PostPartial.cshtml" protocol="file" />
+      <jump line="24" column="92" filename="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" protocol="file" />
     </project>
   </component>
   <component name="VimMarksSettings">
@@ -328,18 +329,19 @@
       <file name="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Index.cshtml.cs" timestamp="1757587427833">
         <mark key="&quot;" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Models/Blog.cs" timestamp="1757675144592">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Models/Blog.cs" timestamp="1757677269449">
+        <mark key="[" line="33" column="27" />
+        <mark key="]" line="33" column="31" />
+        <mark key="." line="33" column="30" />
+        <mark key="^" line="33" column="31" />
       </file>
-      <file name="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" timestamp="1757624227785">
+      <file name="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" timestamp="1757677808967">
         <mark key="&quot;" line="93" column="1" />
         <mark key="'" line="46" column="45" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="50" column="14" />
-        <mark key="." line="50" column="0" />
+        <mark key="[" line="43" column="43" />
+        <mark key="]" line="43" column="39" />
+        <mark key="^" line="43" column="39" />
+        <mark key="." line="43" column="38" />
       </file>
       <file name="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/Areas/Identity/Pages/Account/Manage/_Layout.cshtml" timestamp="1757622411579">
         <mark key="]" line="3" column="0" />

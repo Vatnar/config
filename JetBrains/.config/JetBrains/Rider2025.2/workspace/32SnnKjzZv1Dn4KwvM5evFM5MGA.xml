@@ -92,21 +92,24 @@
         </entry>
         <tab><![CDATA[{"tabTitle":"Register.cshtml.cs","foregroundColor":-3287308,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,92,10,30,114,101,115,104,97,114,112,101,114,47,80,115,105,67,83,104,97,114,112,47,67,115,104,97,114,112,46,115,118,103,18,36,114,101,115,104,97,114,112,101,114,47,101,120,112,117,105,47,80,115,105,67,83,104,97,114,112,47,67,115,104,97,114,112,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-118,-79,-68,-127,4,48,2]}]]></tab>
       </file>
-      <file>
+      <file current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Controllers/BlogController.cs" file-id="24550" managing-fs="1755195194016">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="840">
-              <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
+            <state relative-caret-position="420">
+              <caret line="43" column="38" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
+              <folding>
+                <marker date="1757677810905" expanded="false" signature="6:199" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
-        <tab><![CDATA[{"tabTitle":"BlogController.cs","foregroundColor":-3287308,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,92,10,30,114,101,115,104,97,114,112,101,114,47,80,115,105,67,83,104,97,114,112,47,67,115,104,97,114,112,46,115,118,103,18,36,114,101,115,104,97,114,112,101,114,47,101,120,112,117,105,47,80,115,105,67,83,104,97,114,112,47,67,115,104,97,114,112,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-118,-79,-68,-127,4,48,2]}]]></tab>
+        <tab><![CDATA[{"tabTitle":"BlogController.cs","foregroundColor":-7752454,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,92,10,30,114,101,115,104,97,114,112,101,114,47,80,115,105,67,83,104,97,114,112,47,67,115,104,97,114,112,46,115,118,103,18,36,114,101,115,104,97,114,112,101,114,47,101,120,112,117,105,47,80,115,105,67,83,104,97,114,112,47,67,115,104,97,114,112,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-118,-79,-68,-127,4,48,2]}]]></tab>
       </file>
       <file>
         <entry file="file://$PROJECT_DIR$/Views/Shared/_PostPartial.cshtml" file-id="24554" managing-fs="1755195194016">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="105">
-              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+            <state relative-caret-position="63">
+              <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -132,18 +135,18 @@
         </entry>
         <tab><![CDATA[{"tabTitle":"Blog/Index.cshtml","foregroundColor":-3287308,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,99,10,31,114,105,100,101,114,47,102,105,108,101,84,121,112,101,115,47,114,97,122,111,114,67,83,104,97,114,112,46,115,118,103,18,37,114,105,100,101,114,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,114,97,122,111,114,67,83,104,97,114,112,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-24,-105,-81,-119,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
       </file>
-      <file current-in-tab="true">
+      <file>
         <entry file="file://$PROJECT_DIR$/Models/Blog.cs" file-id="24564" managing-fs="1755195194016">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="518">
-              <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+            <state relative-caret-position="539">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
               <folding>
-                <marker date="1757675146274" expanded="true" signature="6:73" ph="..." />
+                <marker date="1757677311451" expanded="true" signature="6:73" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
-        <tab><![CDATA[{"tabTitle":"Blog.cs","foregroundColor":-7752454,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,92,10,30,114,101,115,104,97,114,112,101,114,47,80,115,105,67,83,104,97,114,112,47,67,115,104,97,114,112,46,115,118,103,18,36,114,101,115,104,97,114,112,101,114,47,101,120,112,117,105,47,80,115,105,67,83,104,97,114,112,47,67,115,104,97,114,112,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-118,-79,-68,-127,4,48,2]}]]></tab>
+        <tab><![CDATA[{"tabTitle":"Blog.cs","foregroundColor":-3287308,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,92,10,30,114,101,115,104,97,114,112,101,114,47,80,115,105,67,83,104,97,114,112,47,67,115,104,97,114,112,46,115,118,103,18,36,114,101,115,104,97,114,112,101,114,47,101,120,112,117,105,47,80,115,105,67,83,104,97,114,112,47,67,115,104,97,114,112,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-118,-79,-68,-127,4,48,2]}]]></tab>
       </file>
       <file>
         <entry file="file://$PROJECT_DIR$/Areas/Identity/Pages/Account/Manage/_Layout.cshtml" file-id="24072" managing-fs="1755195194016">
@@ -207,30 +210,30 @@
     </replaceStrings>
   </component>
   <component name="GitSEFilterConfiguration">{}</component>
-  <component name="IdeDocumentHistory">{
-  &quot;changedPaths&quot;: [
-    &quot;/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Models/ApplicationUser.cs&quot;,
-    &quot;/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Views/Shared/_LoginPartial.cshtml&quot;,
-    &quot;/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Areas/Identity/Pages/_ViewStart.cshtml&quot;,
-    &quot;/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Data/ApplicationUser.cs&quot;,
-    &quot;/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Areas/Identity/Pages/Account/ConfirmEmail.cshtml.cs&quot;,
-    &quot;/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml.cs&quot;,
-    &quot;/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Areas/Identity/Pages/Account/Register.cshtml.cs&quot;,
-    &quot;/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Areas/Identity/Pages/Account/Register.cshtml&quot;,
-    &quot;/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/_PostPartial.cshtml&quot;,
-    &quot;/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Data/ApplicationDbContext.cs&quot;,
-    &quot;/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Index.cshtml&quot;,
-    &quot;/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Add.cshtml&quot;,
-    &quot;/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Edit.cshtml&quot;,
-    &quot;/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs&quot;,
-    &quot;/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Areas/Identity/Pages/Account/Manage/_Layout.cshtml&quot;,
-    &quot;/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Views/Shared/_Layout.cshtml&quot;,
-    &quot;/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Program.cs&quot;,
-    &quot;/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Data/ApplicationDbInitializer.cs&quot;,
-    &quot;/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Views/Shared/_PostPartial.cshtml&quot;,
-    &quot;/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Models/Blog.cs&quot;
+  <component name="IdeDocumentHistory"><![CDATA[{
+  "changedPaths": [
+    "/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Models/ApplicationUser.cs",
+    "/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Views/Shared/_LoginPartial.cshtml",
+    "/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Areas/Identity/Pages/_ViewStart.cshtml",
+    "/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Data/ApplicationUser.cs",
+    "/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Areas/Identity/Pages/Account/ConfirmEmail.cshtml.cs",
+    "/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml.cs",
+    "/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Areas/Identity/Pages/Account/Register.cshtml.cs",
+    "/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Areas/Identity/Pages/Account/Register.cshtml",
+    "/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/_PostPartial.cshtml",
+    "/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Data/ApplicationDbContext.cs",
+    "/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Index.cshtml",
+    "/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Add.cshtml",
+    "/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Views/Blog/Edit.cshtml",
+    "/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Areas/Identity/Pages/Account/Manage/_Layout.cshtml",
+    "/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Views/Shared/_Layout.cshtml",
+    "/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Program.cs",
+    "/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Data/ApplicationDbInitializer.cs",
+    "/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Views/Shared/_PostPartial.cshtml",
+    "/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Models/Blog.cs",
+    "/home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs"
   ]
-}</component>
+}]]></component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
       <set>
@@ -323,8 +326,9 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="assignment_3" type="24d0babc:SolutionExplorerModelNode" />
               <item name="assignment_3" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Models" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Blog.cs" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Shared" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="_PostPartial.cshtml" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </select>
         </subPane>
@@ -470,7 +474,7 @@
         </entry>
         <entry key="Project">
           <value>
-            <window_info active="true" anchor="right" content_ui="combo" id="Project" order="6" visible="true" weight="0.32468554" />
+            <window_info anchor="right" content_ui="combo" id="Project" order="6" weight="0.32468554" />
           </value>
         </entry>
         <entry key="Pull Requests">
@@ -577,7 +581,7 @@
     </option>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14093000" />
+    <option name="totallyTimeSpent" value="15655000" />
   </component>
   <component name="TodoView">
     <todo-panel id="all">
@@ -628,7 +632,7 @@
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
       <window_info anchor="right" id="Monitoring" order="5" weight="0.3299266" />
-      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="6" visible="true" weight="0.32468554" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="6" weight="0.32468554" />
       <unified_weights bottom="0.346875" left="0.015985325" right="0.32468554" />
     </layoutV2>
     <recentWindows>
@@ -763,40 +767,6 @@
     <entry file="file://$PROJECT_DIR$/appsettings.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Models/Blog.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
-          <folding>
-            <marker date="1757675146274" expanded="true" signature="6:73" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Controllers/BlogController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Views/Shared/_PostPartial.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Views/Blog/Index.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Views/Home/Index.cshtml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Areas/Identity/Pages/Account/Manage/_Layout.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
@@ -836,6 +806,43 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" column="77" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/Blog.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <marker date="1757677311451" expanded="true" signature="6:73" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/Blog/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/Shared/_PostPartial.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controllers/BlogController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="43" column="38" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
+          <folding>
+            <marker date="1757677810905" expanded="false" signature="6:199" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

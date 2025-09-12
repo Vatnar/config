@@ -21,7 +21,7 @@
     <feature id="editing.copy.line" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.find.in.files" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="db.copy.table" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="ui.hide.tool.window" count="3" last-shown="0" last-used="1757590672559" shown-count="0" />
+    <feature id="ui.hide.tool.window" count="4" last-shown="0" last-used="1757677767384" shown-count="0" />
     <feature id="navigation.find.replace.in.files.toggle" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="move.element.left.right" count="17" last-shown="0" last-used="1757592256174" shown-count="0" />
     <feature id="intentions.check.regexp" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -74,14 +74,14 @@
     <feature id="refactoring.extractMethod" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="NuGet.QuickList" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.generate.code" count="3" last-shown="0" last-used="1757586876934" shown-count="0" />
-    <feature id="navigation.goto.declaration" count="24" last-shown="0" last-used="1757623354467" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="25" last-shown="0" last-used="1757677260559" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="104" last-shown="0" last-used="1757670299323" shown-count="0" />
     <feature id="ui.open.project.tool.window" count="13" last-shown="0" last-used="1755609251448" shown-count="0" />
     <feature id="editing.join.lines" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.goto.implementation" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="debugger.breakpoint.non.suspending" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.finishByCtrlDot" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="codeassists.context.actions" count="44" last-shown="0" last-used="1757592527600" shown-count="0" />
+    <feature id="codeassists.context.actions" count="45" last-shown="0" last-used="1757677256623" shown-count="0" />
     <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.tree.speedsearch" count="1" last-shown="0" last-used="1757624218562" shown-count="0" />
     <feature id="ui.horizontal.scrolling" count="0" last-shown="0" last-used="0" shown-count="0" />
