@@ -72,9 +72,13 @@
     <size key="GridCell.Tab.3.right.0.0.2560.1440" width="2482" height="426" />
     <size key="GridCell.Tab.3.bottom.0.0.2560.1440" width="2482" height="426" />
     <size key="find.popup.0.0.2560.1440" width="645" height="768" />
+    <size key="GridCell.Tab.0.left.1920.0.2560.1440" width="2494" height="494" />
+    <size key="GridCell.Tab.0.center.1920.0.2560.1440" width="2494" height="494" />
+    <size key="GridCell.Tab.0.right.1920.0.2560.1440" width="2494" height="494" />
+    <size key="GridCell.Tab.0.bottom.1920.0.2560.1440" width="2494" height="494" />
   </component>
   <component name="WindowManager">
-    <frame x="6" y="6" width="1908" height="1028" />
+    <frame x="1920" y="0" width="2560" height="1440" />
   </component>
   <component name="WindowStateApplicationService">
     <state x="730" y="298" key="FileChooserDialogImpl" timestamp="1756376477486">

@@ -173,11 +173,11 @@
       <pattern index="7" />
     </filter>
     <filter name="Todo">
-      <pattern index="5" />
       <pattern index="1" />
       <pattern index="4" />
-      <pattern index="2" />
       <pattern index="7" />
+      <pattern index="2" />
+      <pattern index="5" />
     </filter>
     <filter name="Todo Exclusive">
       <pattern index="2" />

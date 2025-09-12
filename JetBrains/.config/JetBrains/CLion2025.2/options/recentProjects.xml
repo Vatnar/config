@@ -113,41 +113,41 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/dev/shaderpreview2">
-          <value>
-            <RecentProjectMetaInfo frameTitle="shaderpreview2 [~/dev/shaderpreview2] – /home/vatnar/dev/shaderpreview2/main.cpp" projectWorkspaceId="32LDjBDuNkE1RXaC58GdEzUpgv3">
-              <option name="activationTimestamp" value="1757492107824" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="CL-252.25557.127" />
-              <option name="buildTimestamp" value="1756284720000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="7" />
-              </option>
-              <frame x="6" y="6" width="1908" height="1028" />
-              <option name="productionCode" value="CL" />
-              <option name="projectOpenTimestamp" value="1757191091724" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/ikt203g25h">
           <value>
-            <RecentProjectMetaInfo frameTitle="ikt203 [~/ikt203g25h] – /home/vatnar/ikt203g25h/submissions/submission3/AdvancedTraversal.cpp" opened="true" projectWorkspaceId="31vPTOedMkz9XLiRWlDE7qeeUKG">
-              <option name="activationTimestamp" value="1757586680174" />
+            <RecentProjectMetaInfo frameTitle="ikt203 [~/ikt203g25h] – /home/vatnar/ikt203g25h/submissions/submission3/AdvancedTraversal.cpp" projectWorkspaceId="31vPTOedMkz9XLiRWlDE7qeeUKG">
+              <option name="activationTimestamp" value="1757624657421" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="CL-252.25557.127" />
               <option name="buildTimestamp" value="1756284720000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="6" />
               </option>
-              <frame x="6" y="6" width="1908" height="1028" />
+              <frame x="1926" y="6" width="2548" height="1388" />
               <option name="productionCode" value="CL" />
               <option name="projectOpenTimestamp" value="1757492108629" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/dev/shaderpreview2">
+          <value>
+            <RecentProjectMetaInfo frameTitle="shaderpreview2 [~/dev/shaderpreview2] – /home/vatnar/dev/shaderpreview2/main.cpp" opened="true" projectWorkspaceId="32LDjBDuNkE1RXaC58GdEzUpgv3">
+              <option name="activationTimestamp" value="1757628913959" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-252.25557.127" />
+              <option name="buildTimestamp" value="1756284720000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="1920" y="0" width="2560" height="1440" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1757624666804" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/ikt203g25h" />
+    <option name="lastOpenedProject" value="$USER_HOME$/dev/shaderpreview2" />
     <option name="lastProjectLocation" value="$USER_HOME$/dev" />
   </component>
 </application>

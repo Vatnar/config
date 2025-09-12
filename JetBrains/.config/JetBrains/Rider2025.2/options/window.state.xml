@@ -84,9 +84,13 @@
     <size key="GridCell.Tab.6.center.0.0.1920.1080" width="1842" height="307" />
     <size key="GridCell.Tab.6.right.0.0.1920.1080" width="1842" height="307" />
     <size key="GridCell.Tab.6.bottom.0.0.1920.1080" width="1842" height="307" />
+    <size key="GridCell.Tab.0.left.1920.0.2560.1440" width="2494" height="467" />
+    <size key="GridCell.Tab.0.center.1920.0.2560.1440" width="2494" height="467" />
+    <size key="GridCell.Tab.0.right.1920.0.2560.1440" width="2494" height="467" />
+    <size key="GridCell.Tab.0.bottom.1920.0.2560.1440" width="2494" height="467" />
   </component>
   <component name="WindowManager">
-    <frame x="6" y="6" width="1908" height="1028" />
+    <frame x="1920" y="0" width="2560" height="1440" />
   </component>
   <component name="WindowStateApplicationService">
     <state x="730" y="298" key="FileChooserDialogImpl" timestamp="1757251959354">
@@ -102,6 +106,10 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="189" y="419" width="900" height="633" key="FuzzyGrepPopup_2560_1440_0_0/0.0.2560.1440/2560.0.1920.1080" timestamp="1756320014599" />
+    <state x="2749" y="419" width="900" height="633" key="FuzzyGrepPopup_2560_1440_1920_0" timestamp="1757624232922">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2749" y="419" width="900" height="633" key="FuzzyGrepPopup_2560_1440_1920_0/0.0.1920.1080/1920.0.2560.1440" timestamp="1757624232922" />
     <state x="609" y="339" width="700" height="433" key="FuzzyMoverPopup_1920_1080_0_0" timestamp="1756376345623">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

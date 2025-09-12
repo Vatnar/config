@@ -1,16 +1,16 @@
 <application>
   <component name="AcceptanceRateFactors">
     <option name="lastSelectionTime" value="1757592564342" />
-    <option name="lastShowUpTime" value="1757592637575" />
+    <option name="lastShowUpTime" value="1757666629913" />
     <selectionCounts>
       <entry key="1" value="31.505983324713412" />
       <entry key="24" value="63.26896571557301" />
       <entry key="168" value="77.54816005793322" />
     </selectionCounts>
     <showUpCounts>
-      <entry key="1" value="129.52330719958292" />
-      <entry key="24" value="267.6615794214915" />
-      <entry key="168" value="345.4688196501911" />
+      <entry key="1" value="2.000115263247914" />
+      <entry key="24" value="150.54972507422175" />
+      <entry key="168" value="320.3331197008686" />
     </showUpCounts>
   </component>
   <component name="CompletionFinishedType">
@@ -46,9 +46,15 @@
       <entry key="2025-09-11">
         <DailyData>
           <option name="explicitCancel" value="8" />
-          <option name="invalidated" value="148" />
+          <option name="invalidated" value="149" />
           <option name="other" value="46" />
           <option name="selected" value="63" />
+        </DailyData>
+      </entry>
+      <entry key="2025-09-12">
+        <DailyData>
+          <option name="invalidated" value="1" />
+          <option name="other" value="1" />
         </DailyData>
       </entry>
     </dailyDataMap>
@@ -149,8 +155,14 @@
       </entry>
       <entry key="2025-09-11">
         <DailyData>
-          <option name="count" value="3093" />
-          <option name="totalTime" value="2361572" />
+          <option name="count" value="3162" />
+          <option name="totalTime" value="2455108" />
+        </DailyData>
+      </entry>
+      <entry key="2025-09-12">
+        <DailyData>
+          <option name="count" value="103" />
+          <option name="totalTime" value="88545" />
         </DailyData>
       </entry>
     </dailyDataMap>

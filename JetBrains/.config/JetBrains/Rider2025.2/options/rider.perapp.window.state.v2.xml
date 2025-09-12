@@ -113,7 +113,7 @@
           "id": "Terminal",
           "order": 3,
           "anchor": "BOTTOM",
-          "weight": 0.33025292
+          "weight": 0.346875
         },
         {
           "id": "Services",
@@ -124,9 +124,7 @@
           "id": "Run",
           "order": 5,
           "anchor": "BOTTOM",
-          "isActiveOnStart": true,
-          "isVisible": true,
-          "weight": 0.3467899
+          "weight": 0.346875
         },
         {
           "id": "Build",
@@ -238,14 +236,14 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.3299266
+          "weight": 0.32468554
         }
       ],
       "unifiedWeights": {
         "top": 0.33,
         "left": 0.015985325,
-        "bottom": 0.3467899,
-        "right": 0.3299266
+        "bottom": 0.346875,
+        "right": 0.32468554
       }
     }
   }

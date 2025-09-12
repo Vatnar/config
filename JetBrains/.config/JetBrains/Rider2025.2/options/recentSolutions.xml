@@ -119,15 +119,15 @@
         </entry>
         <entry key="$USER_HOME$/ikt201g25h/assignments/solutions/assignment_3/assignment_3.sln">
           <value>
-            <RecentProjectMetaInfo frameTitle="assignment_3 [~/ikt201g25h/assignments/solutions/assignment_3] – /home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Controllers/BlogController.cs" opened="true" projectWorkspaceId="32SnnKjzZv1Dn4KwvM5evFM5MGA">
-              <option name="activationTimestamp" value="1757593268525" />
+            <RecentProjectMetaInfo frameTitle="assignment_3 [~/ikt201g25h/assignments/solutions/assignment_3] – /home/vatnar/ikt201g25h/assignments/solutions/assignment_3/Views/Shared/_Layout.cshtml" opened="true" projectWorkspaceId="32SnnKjzZv1Dn4KwvM5evFM5MGA">
+              <option name="activationTimestamp" value="1757675110953" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="RD-252.23892.537" />
               <option name="buildTimestamp" value="1755726060000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="2" />
               </option>
-              <frame x="6" y="6" width="1908" height="1028" />
+              <frame x="1920" y="0" width="2560" height="1440" />
               <option name="productionCode" value="RD" />
               <option name="projectOpenTimestamp" value="1757583033801" />
             </RecentProjectMetaInfo>

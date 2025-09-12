@@ -13,8 +13,8 @@ background-opacity = 0.9
 theme = catppuccin-mocha
 
 # command
-shell-integration = fish
-command = /usr/bin/fish --login --interactive
+shell-integration = zsh
+command = /usr/bin/zsh --login --interactive
 
 # history buffer
 scrollback-limit = 10000
