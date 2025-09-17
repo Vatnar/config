@@ -21,6 +21,9 @@
       <option value="EditorIncreaseFontSize" />
       <option value="EditorDecreaseFontSize" />
       <option value="FindMenuGroup" />
+      <option value="OpenMouseWheelSmoothScrollSettings" />
+      <option value="Find" />
+      <option value="FoldingGroup" />
     </ids>
   </component>
   <component name="FileEditorProviderManager">{}</component>
@@ -77,6 +80,7 @@
     "LayoutCode.codeCleanup": "true",
     "LayoutCode.rearrangeEntriesCMake": "false",
     "MarketplacePluginsSearchHistory": "ideavim\ni\ncopy\nmath\nlatex",
+    "PluginConfigurable.selectionTab": "1",
     "Rad.Init.Cfg.1": "true",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.TerminalFontSettingsService.fixStoredNonMonospacedFonts": "true",
@@ -96,7 +100,7 @@
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "252.25557.127",
     "export.settings.path": "/home/vatnar/cppconfig/settings.zip",
-    "file.gist.reindex.count": "1",
+    "file.gist.reindex.count": "2",
     "fileTypeChangedCounter": "8",
     "fontSizeToResetConsole": "14.0",
     "fontSizeToResetEditor": "14.0",

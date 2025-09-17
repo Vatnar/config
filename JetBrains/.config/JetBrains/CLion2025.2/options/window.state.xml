@@ -5,10 +5,10 @@
     <location key="find.popup.1200.362.1920.1080" x="1920" y="486" />
     <location key="REMOTE_DEVELOPMENT_CONNECTION.0.0.1920.1080" x="549" y="171" />
     <location key="find.popup.0.0.2560.1440" x="1044" y="135" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1854" height="267" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1854" height="267" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1854" height="267" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1854" height="267" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1842" height="307" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1842" height="307" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1842" height="307" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1842" height="307" />
     <size key="find.popup.0.0.1920.1080" width="670" height="578" />
     <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1854" height="267" />
     <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1854" height="267" />
@@ -55,10 +55,10 @@
     <size key="GridCell.Tab.0.right.-1920.0.1920.1080" width="1838" height="705" />
     <size key="GridCell.Tab.0.bottom.-1920.0.1920.1080" width="1838" height="705" />
     <size key="REMOTE_DEVELOPMENT_CONNECTION.0.0.1920.1080" width="816" height="699" />
-    <size key="GridCell.Tab.0.left.0.0.2560.1440" width="2482" height="195" />
-    <size key="GridCell.Tab.0.center.0.0.2560.1440" width="2482" height="195" />
-    <size key="GridCell.Tab.0.right.0.0.2560.1440" width="2482" height="195" />
-    <size key="GridCell.Tab.0.bottom.0.0.2560.1440" width="2482" height="195" />
+    <size key="GridCell.Tab.0.left.0.0.2560.1440" width="1203" height="426" />
+    <size key="GridCell.Tab.0.center.0.0.2560.1440" width="1203" height="426" />
+    <size key="GridCell.Tab.0.right.0.0.2560.1440" width="1203" height="426" />
+    <size key="GridCell.Tab.0.bottom.0.0.2560.1440" width="1203" height="426" />
     <size key="GridCell.Tab.1.left.0.0.2560.1440" width="2482" height="426" />
     <size key="GridCell.Tab.1.center.0.0.2560.1440" width="2482" height="426" />
     <size key="GridCell.Tab.1.right.0.0.2560.1440" width="2482" height="426" />
@@ -78,7 +78,7 @@
     <size key="GridCell.Tab.0.bottom.1920.0.2560.1440" width="2494" height="494" />
   </component>
   <component name="WindowManager">
-    <frame x="1920" y="0" width="2560" height="1440" />
+    <frame x="6" y="6" width="1908" height="1028" />
   </component>
   <component name="WindowStateApplicationService">
     <state x="730" y="298" key="FileChooserDialogImpl" timestamp="1756376477486">
@@ -90,10 +90,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="509" y="239" width="900" height="633" key="FuzzyGrepPopup_1920_1080_0_0/0.0.1920.1080" timestamp="1757582555651" />
-    <state x="189" y="419" width="900" height="633" key="FuzzyGrepPopup_2560_1440_0_0" timestamp="1756320014599">
+    <state x="189" y="419" width="900" height="633" key="FuzzyGrepPopup_2560_1440_0_0" timestamp="1757935380749">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="189" y="419" width="900" height="633" key="FuzzyGrepPopup_2560_1440_0_0/0.0.2560.1440/2560.0.1920.1080" timestamp="1756320014599" />
+    <state x="189" y="419" width="900" height="633" key="FuzzyGrepPopup_2560_1440_0_0/0.0.2560.1440/0.0.0.0" timestamp="1757765954700" />
+    <state x="189" y="419" width="900" height="633" key="FuzzyGrepPopup_2560_1440_0_0/0.0.2560.1440/2560.0.1920.1080" timestamp="1757935380749" />
     <state x="609" y="339" width="700" height="433" key="FuzzyMoverPopup_1920_1080_0_0" timestamp="1756893272202">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -106,21 +107,23 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="509" y="239" width="900" height="633" key="FuzzySearchPopup_1920_1080_0_0/0.0.1920.1080" timestamp="1757325513280" />
-    <state x="829" y="419" width="900" height="633" key="FuzzySearchPopup_2560_1440_0_0" timestamp="1756318330125">
+    <state x="829" y="419" width="900" height="633" key="FuzzySearchPopup_2560_1440_0_0" timestamp="1757765996896">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
+    <state x="829" y="419" width="900" height="633" key="FuzzySearchPopup_2560_1440_0_0/0.0.2560.1440/0.0.0.0" timestamp="1757765996896" />
     <state x="829" y="419" width="900" height="633" key="FuzzySearchPopup_2560_1440_0_0/0.0.2560.1440/2560.0.1920.1080" timestamp="1756318330125" />
     <state x="746" y="31" width="600" height="333" key="RegExHelpPopup" timestamp="1753781554936">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="746" y="31" width="600" height="333" key="RegExHelpPopup/0.0.1920.1032/1920.0.1920.1032" timestamp="1753781554936" />
-    <state width="380" height="161" key="ShowUsagesActions.dimensionServiceKey" timestamp="1756380803863">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="507" height="139" key="ShowUsagesActions.dimensionServiceKey" timestamp="1757885752726">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="448" height="117" key="ShowUsagesActions.dimensionServiceKey/0.0.1920.1032" timestamp="1752491962781" />
     <state width="448" height="425" key="ShowUsagesActions.dimensionServiceKey/0.0.1920.1032/1920.0.1920.1032" timestamp="1753791769252" />
     <state width="380" height="161" key="ShowUsagesActions.dimensionServiceKey/0.0.1920.1080" timestamp="1756380803863" />
     <state width="380" height="111" key="ShowUsagesActions.dimensionServiceKey/0.0.1920.1080/1920.0.1920.1080" timestamp="1750540770533" />
+    <state width="507" height="139" key="ShowUsagesActions.dimensionServiceKey/0.0.2560.1440/2560.0.1920.1080" timestamp="1757885752726" />
     <state width="448" height="139" key="ShowUsagesActions.dimensionServiceKey/1920.0.1920.1032/0.0.1920.1032" timestamp="1754167094096" />
     <state x="240" y="260" width="469" height="509" key="WELCOME_SCREEN" timestamp="1756386308265">
       <screen x="0" y="0" width="1920" height="1080" />

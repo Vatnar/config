@@ -2808,10 +2808,12 @@
           <set>
             <option value="" />
             <option value="&quot;" />
+            <option value="'s" />
             <option value=":" />
             <option value="INSERT INTO authors" />
             <option value="family" />
             <option value="given" />
+            <option value="’ll" />
           </set>
         </option>
       </SuppressingContext>

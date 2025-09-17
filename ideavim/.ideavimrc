@@ -3,7 +3,7 @@
 " =========================
 set number
 set relativenumber
-set clipboard=unnamed
+set clipboard=
 set incsearch
 set ignorecase
 set smartcase

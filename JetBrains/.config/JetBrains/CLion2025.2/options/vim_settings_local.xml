@@ -13,15 +13,17 @@
         <entry encoding="base64">YWN0aW9uIChjb20ubWl0dXV6LmZ1enppZXIuRnV6emllcik=</entry>
         <entry encoding="base64">YWN0aW9uIChjb20uZnV6enlmaWxlc2VhcmNoLik=</entry>
         <entry encoding="base64">c291cmNlIH4vLmlkZWF2aW1yYw==</entry>
-        <entry encoding="base64">aQ==</entry>
         <entry encoding="base64">d10=</entry>
         <entry encoding="base64">TmVyZHRyZWU=</entry>
         <entry encoding="base64">U291cmNlIC5pZGVhdmltcmM=</entry>
         <entry encoding="base64">TkVSRFRyZWU=</entry>
-        <entry encoding="base64" />
-        <entry encoding="base64">Vw==</entry>
         <entry encoding="base64">cw==</entry>
+        <entry encoding="base64">c2V0IGNsaXBib2FyZD8=</entry>
+        <entry encoding="base64">U291cmNlIH4vLmlkZWF2aW1yYw==</entry>
+        <entry encoding="base64">aQ==</entry>
         <entry encoding="base64">JzwsJz4b</entry>
+        <entry encoding="base64">Vw==</entry>
+        <entry encoding="base64" />
         <entry encoding="base64">Gw==</entry>
         <entry encoding="base64">dw==</entry>
       </history-cmd>
@@ -490,258 +492,270 @@
       <jump line="36" column="0" filename="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.tpp" protocol="file" />
     </project>
     <project id="shaderpreview2-a80f4da1">
-      <jump line="113" column="30" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="114" column="33" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="125" column="100" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="126" column="15" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="127" column="14" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="128" column="90" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="129" column="89" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="130" column="86" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="138" column="69" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="139" column="69" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="140" column="70" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="141" column="72" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="142" column="72" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="143" column="72" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="146" column="0" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="149" column="45" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="150" column="43" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="151" column="43" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="152" column="43" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="148" column="59" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="153" column="61" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="156" column="13" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="116" column="0" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="163" column="21" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="118" column="0" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
-      <jump line="1" column="20" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
-      <jump line="5" column="52" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
-      <jump line="3" column="20" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
-      <jump line="80" column="44" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.h" protocol="file" />
-      <jump line="79" column="22" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.h" protocol="file" />
-      <jump line="74" column="21" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.h" protocol="file" />
-      <jump line="10" column="42" filename="$USER_HOME$/dev/shaderpreview2/meson.build" protocol="file" />
-      <jump line="13" column="77" filename="$USER_HOME$/dev/shaderpreview2/meson.build" protocol="file" />
-      <jump line="6" column="1" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
-      <jump line="19" column="0" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
-      <jump line="15" column="27" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
-      <jump line="15" column="29" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.h" protocol="file" />
-      <jump line="88" column="0" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/shaderpreview2/subprojects/glad/include/glad/glad.h" protocol="file" />
-      <jump line="97" column="17" filename="$USER_HOME$/dev/shaderpreview2/subprojects/glad/include/glad/glad.h" protocol="file" />
-      <jump line="33" column="22" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.h" protocol="file" />
-      <jump line="35" column="0" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.h" protocol="file" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.h" protocol="file" />
-      <jump line="55" column="27" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.h" protocol="file" />
-      <jump line="83" column="6" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.h" protocol="file" />
-      <jump line="9" column="8" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.h" protocol="file" />
-      <jump line="7" column="14" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.h" protocol="file" />
-      <jump line="11" column="1" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.h" protocol="file" />
-      <jump line="40" column="22" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.h" protocol="file" />
-      <jump line="84" column="1" filename="/usr/include/GL/glew.h" protocol="file" />
-      <jump line="86" column="0" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="90" column="0" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="91" column="5" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="89" column="0" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="87" column="0" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="275" column="49" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="278" column="32" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="274" column="18" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="280" column="41" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="433" column="27" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="41" column="23" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.h" protocol="file" />
-      <jump line="12" column="0" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="18" column="17" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="6" column="0" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="2" column="17" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="10" column="15" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="117" column="71" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="37" column="71" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
-      <jump line="9" column="106" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
-      <jump line="11" column="18" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
-      <jump line="283" column="36" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="273" column="54" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.h" protocol="file" />
-      <jump line="88" column="0" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.h" protocol="file" />
-      <jump line="78" column="17" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.h" protocol="file" />
-      <jump line="85" column="1" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.h" protocol="file" />
-      <jump line="87" column="49" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.h" protocol="file" />
-      <jump line="272" column="4" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="495" column="50" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="504" column="4" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="54" column="23" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.h" protocol="file" />
-      <jump line="56" column="13" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.h" protocol="file" />
-      <jump line="3" column="16" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.h" protocol="file" />
-      <jump line="6" column="20" filename="$USER_HOME$/dev/shaderpreview2/shaders/default.frag" protocol="file" />
-      <jump line="0" column="17" filename="$USER_HOME$/dev/shaderpreview2/shaders/default.vert" protocol="file" />
-      <jump line="2" column="0" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.h" protocol="file" />
-      <jump line="22" column="0" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="1" column="21" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="13" column="64" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
-      <jump line="7" column="0" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
-      <jump line="505" column="20" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="516" column="0" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="502" column="0" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="423" column="34" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="79" column="4" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="456" column="8" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="457" column="20" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="378" column="23" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="376" column="31" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
-      <jump line="370" column="24" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
+      <jump line="62" column="0" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
+      <jump line="64" column="0" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
+      <jump line="286" column="26" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
+      <jump line="285" column="24" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
+      <jump line="226" column="34" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
+      <jump line="175" column="24" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
+      <jump line="16" column="0" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
+      <jump line="87" column="1" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.h" protocol="file" />
+      <jump line="83" column="0" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
+      <jump line="122" column="0" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
+      <jump line="128" column="25" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
+      <jump line="17" column="5" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
+      <jump line="29" column="0" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
+      <jump line="27" column="0" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
+      <jump line="38" column="0" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
+      <jump line="42" column="0" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
+      <jump line="46" column="21" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
+      <jump line="47" column="0" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
+      <jump line="51" column="0" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
+      <jump line="465" column="0" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
+      <jump line="472" column="16" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
+      <jump line="482" column="33" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
+      <jump line="636" column="8" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
+      <jump line="37" column="0" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
+      <jump line="38" column="0" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
+      <jump line="246" column="37" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
+      <jump line="277" column="35" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
+      <jump line="406" column="4" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
+      <jump line="442" column="66" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
+      <jump line="527" column="15" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
+      <jump line="526" column="12" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/shaderpreview2/.gitignore" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/shaderpreview2/.gitignore" protocol="file" />
+      <jump line="17" column="170" filename="$USER_HOME$/dev/shaderpreview2/meson.build" protocol="file" />
+      <jump line="61" column="12" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
+      <jump line="32" column="39" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
+      <jump line="37" column="44" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
+      <jump line="623" column="8" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
+      <jump line="412" column="61" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
+      <jump line="434" column="15" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
+      <jump line="467" column="80" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
+      <jump line="705" column="26" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
+      <jump line="542" column="74" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
+      <jump line="704" column="37" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
+      <jump line="23" column="72" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
+      <jump line="66" column="4" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
+      <jump line="65" column="4" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
+      <jump line="74" column="9" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
+      <jump line="17" column="0" filename="$USER_HOME$/dev/shaderpreview2/shaders/sa.frag" protocol="file" />
+      <jump line="23" column="24" filename="$USER_HOME$/dev/shaderpreview2/shaders/sa.frag" protocol="file" />
+      <jump line="19" column="18" filename="$USER_HOME$/dev/shaderpreview2/shaders/sa.frag" protocol="file" />
+      <jump line="58" column="1" filename="$USER_HOME$/dev/shaderpreview2/shaders/sa.frag" protocol="file" />
+      <jump line="54" column="3" filename="$USER_HOME$/dev/shaderpreview2/shaders/sa.frag" protocol="file" />
+      <jump line="5" column="12" filename="$USER_HOME$/dev/shaderpreview2/shaders/sa.frag" protocol="file" />
+      <jump line="4" column="12" filename="$USER_HOME$/dev/shaderpreview2/shaders/default.frag" protocol="file" />
+      <jump line="7" column="26" filename="$USER_HOME$/dev/shaderpreview2/shaders/sa.frag" protocol="file" />
+      <jump line="6" column="19" filename="$USER_HOME$/dev/shaderpreview2/shaders/sa.frag" protocol="file" />
+      <jump line="12" column="0" filename="$USER_HOME$/dev/shaderpreview2/shaders/sa.frag" protocol="file" />
+      <jump line="12" column="26" filename="$USER_HOME$/dev/shaderpreview2/shaders/GridScalingMouseTest.frag" protocol="file" />
+      <jump line="4" column="13" filename="$USER_HOME$/dev/shaderpreview2/shaders/sa.vert" protocol="file" />
+      <jump line="31" column="41" filename="$USER_HOME$/dev/shaderpreview2/shaders/sa.vert" protocol="file" />
+      <jump line="9" column="43" filename="$USER_HOME$/dev/shaderpreview2/shaders/sa.vert" protocol="file" />
+      <jump line="14" column="16" filename="$USER_HOME$/dev/shaderpreview2/shaders/sa.vert" protocol="file" />
+      <jump line="17" column="46" filename="$USER_HOME$/dev/shaderpreview2/shaders/sa.vert" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/shaderpreview2/shaders/sa.frag" protocol="file" />
+      <jump line="24" column="4" filename="$USER_HOME$/dev/shaderpreview2/shaders/sa.frag" protocol="file" />
+      <jump line="47" column="26" filename="$USER_HOME$/dev/shaderpreview2/shaders/sa.frag" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/shaderpreview2/shaders/test.frag" protocol="file" />
+      <jump line="67" column="2" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
+      <jump line="39" column="24" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" protocol="file" />
+      <jump line="51" column="0" filename="$USER_HOME$/dev/shaderpreview2/shaders/sa.frag" protocol="file" />
+      <jump line="2" column="15" filename="$USER_HOME$/dev/shaderpreview2/shaders/sa.frag" protocol="file" />
+      <jump line="27" column="45" filename="$USER_HOME$/dev/shaderpreview2/shaders/sa.frag" protocol="file" />
+      <jump line="700" column="99" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
+      <jump line="35" column="53" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
+      <jump line="90" column="11" filename="$USER_HOME$/dev/shaderpreview2/UniformParser.h" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/shaderpreview2/shaders/default.frag" protocol="file" />
+      <jump line="9" column="39" filename="$USER_HOME$/dev/shaderpreview2/shaders/default.frag" protocol="file" />
+      <jump line="10" column="30" filename="$USER_HOME$/dev/shaderpreview2/shaders/default.frag" protocol="file" />
+      <jump line="4" column="24" filename="$USER_HOME$/dev/shaderpreview2/shaders/sa.frag" protocol="file" />
+      <jump line="22" column="16" filename="$USER_HOME$/dev/shaderpreview2/shaders/sa.frag" protocol="file" />
+      <jump line="20" column="15" filename="$USER_HOME$/dev/shaderpreview2/shaders/sa.frag" protocol="file" />
+      <jump line="18" column="0" filename="$USER_HOME$/dev/shaderpreview2/shaders/sa.frag" protocol="file" />
+      <jump line="8" column="20" filename="$USER_HOME$/dev/shaderpreview2/shaders/sa.frag" protocol="file" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/shaderpreview2/shaders/sa.frag" protocol="file" />
+      <jump line="13" column="0" filename="$USER_HOME$/dev/shaderpreview2/shaders/sa.frag" protocol="file" />
+      <jump line="0" column="4" filename="$USER_HOME$/dev/shaderpreview2/shaders/sa.vert" protocol="file" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/shaderpreview2/shaders/sa.vert" protocol="file" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/shaderpreview2/shaders/default.vert" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/shaderpreview2/shaders/default.vert" protocol="file" />
+      <jump line="1" column="7" filename="$USER_HOME$/dev/shaderpreview2/shaders/sa.vert" protocol="file" />
+      <jump line="2" column="33" filename="$USER_HOME$/dev/shaderpreview2/shaders/default.vert" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/shaderpreview2/shaders/GridScalingMouseTest.frag" protocol="file" />
+      <jump line="34" column="53" filename="$USER_HOME$/dev/shaderpreview2/main.cpp" protocol="file" />
+      <jump line="12" column="0" filename="$USER_HOME$/dev/shaderpreview2/shaders/default.frag" protocol="file" />
+      <jump line="9" column="18" filename="$USER_HOME$/dev/shaderpreview2/shaders/sa.frag" protocol="file" />
+      <jump line="14" column="32" filename="$USER_HOME$/dev/shaderpreview2/shaders/sa.frag" protocol="file" />
+      <jump line="29" column="27" filename="$USER_HOME$/dev/shaderpreview2/shaders/sa.frag" protocol="file" />
+      <jump line="16" column="14" filename="$USER_HOME$/dev/shaderpreview2/shaders/sa.frag" protocol="file" />
+      <jump line="50" column="0" filename="$USER_HOME$/dev/shaderpreview2/shaders/sa.frag" protocol="file" />
     </project>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <localmarks>
-      <file name="$USER_HOME$/ikt203g25h/submissions/submission3/output.txt" timestamp="1757577278009">
-        <mark key="&quot;" line="0" column="4" />
+      <file name="$USER_HOME$/dev/shaderpreview2/shaders/default.vert" timestamp="1758098647137">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.h" timestamp="1757624666243">
-        <mark key="&quot;" line="23" column="59" />
-      </file>
-      <file name="/usr/include/GL/glew.h" timestamp="1757628002330">
-        <mark key="&quot;" line="84" column="1" />
-      </file>
-      <file name="$USER_HOME$/dev/shaderpreview2/meson.build" timestamp="1757627795692">
-        <mark key="&quot;" line="10" column="42" />
-        <mark key="[" line="13" column="54" />
-        <mark key="]" line="13" column="78" />
-        <mark key="." line="13" column="77" />
-        <mark key="^" line="13" column="78" />
-      </file>
-      <file name="$USER_HOME$/ikt203g25h/submissions/submission3/main.cpp" timestamp="1757624666181">
-        <mark key="&quot;" line="27" column="72" />
-        <mark key="[" line="30" column="38" />
-        <mark key="]" line="23" column="352" />
-        <mark key="^" line="23" column="352" />
-        <mark key="." line="23" column="351" />
-      </file>
-      <file name="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.cpp" timestamp="1757624666199">
-        <mark key="&quot;" line="138" column="20" />
-        <mark key="'" line="37" column="4" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
-        <mark key="^" line="168" column="8" />
-      </file>
-      <file name="$USER_HOME$/dev/shaderpreview2/main.cpp" timestamp="1757628799889">
-        <mark key="[" line="456" column="0" />
-        <mark key="]" line="456" column="21" />
-        <mark key="." line="456" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/shaderpreview2/UniformParser.h" timestamp="1757628521017">
-        <mark key="'" line="10" column="3" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="86" column="108" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1757582543228">
+      <file name="/Dummy.txt" timestamp="1757935380066">
         <mark key="&quot;" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ikt203g25h/submissions/submission3/practical_applications.h" timestamp="1757492134347">
-        <mark key="&quot;" line="12" column="7" />
+      <file name="$USER_HOME$/dev/shaderpreview2/shaders/GridScalingMouseTest.frag" timestamp="1757884719011">
+        <mark key="&quot;" line="51" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ikt203g25h/submissions/submission3/TStack.tpp" timestamp="1757624666226">
-        <mark key="&quot;" line="36" column="0" />
-        <mark key="[" line="30" column="32" />
-        <mark key="]" line="30" column="36" />
-        <mark key="^" line="30" column="36" />
-        <mark key="." line="30" column="35" />
+      <file name="$USER_HOME$/dev/shaderpreview2/meson.build" timestamp="1757886750868">
+        <mark key="&quot;" line="18" column="27" />
+        <mark key="[" line="17" column="150" />
+        <mark key="]" line="17" column="171" />
+        <mark key="^" line="17" column="171" />
+        <mark key="." line="17" column="170" />
       </file>
-      <file name="$USER_HOME$/ikt203g25h/SharedCode/VatnarUtility/VatnarDebug/assert.h" timestamp="1757582535422">
-        <mark key="&quot;" line="22" column="0" />
+      <file name="$USER_HOME$/dev/shaderpreview2/subprojects/tinyfiledialogs/meson.build" timestamp="1757886739560">
+        <mark key="&quot;" line="0" column="30" />
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="30" />
+        <mark key="." line="0" column="30" />
+        <mark key="^" line="17" column="24" />
       </file>
-      <file name="$USER_HOME$/ikt203g25h/submissions/submission3/TQueue.h" timestamp="1757624666235">
-        <mark key="&quot;" line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1757624666223">
-        <mark key="&quot;" line="256" column="0" />
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1757793590574">
+        <mark key="&quot;" line="5" column="13" />
         <mark key="'" line="37" column="16" />
-        <mark key="[" line="256" column="0" />
-        <mark key="]" line="256" column="18" />
-        <mark key="." line="256" column="0" />
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="14" />
+        <mark key="." line="5" column="13" />
+        <mark key="^" line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/ikt203g25h/submissions/submission3/outputCoords.txt" timestamp="1757582196990">
-        <mark key="&quot;" line="0" column="6" />
+      <file name="$USER_HOME$/dev/shaderpreview2/stb_image.h" timestamp="1757888902117">
+        <mark key="&quot;" line="192" column="73" />
       </file>
-      <file name="$USER_HOME$/dev/.clang-format" timestamp="1757627999027">
-        <mark key="&quot;" line="81" column="0" />
-        <mark key="[" line="80" column="43" />
+      <file name="$USER_HOME$/dev/shaderpreview2/shaders/default.frag" timestamp="1758098694037">
+        <mark key="&quot;" line="12" column="0" />
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="10" column="31" />
+        <mark key="." line="10" column="30" />
+        <mark key="^" line="10" column="31" />
       </file>
-      <file name="$USER_HOME$/ikt203g25h/CMakeLists.txt" timestamp="1757582543523">
-        <mark key="&quot;" line="23" column="0" />
+      <file name="$USER_HOME$/dev/shaderpreview2/shaders/test.frag" timestamp="1757881444281">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="11" column="1" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ikt203g25h/submissions/submission3/TQueue.tpp" timestamp="1757624666230">
-        <mark key="&quot;" line="0" column="11" />
+      <file name="$USER_HOME$/dev/shaderpreview2/ShaderSetup.h" timestamp="1757881445302">
+        <mark key="&quot;" line="13" column="0" />
+        <mark key="[" line="12" column="2" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" timestamp="1757628567150">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="46" column="1" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/dev/shaderpreview2/shaders/sa.frag" timestamp="1758098851174">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="46" column="21" />
+        <mark key="." line="46" column="20" />
+        <mark key="^" line="46" column="21" />
       </file>
-      <file name="$USER_HOME$/ikt203g25h/submissions/submission3/AdvancedTraversal.h" timestamp="1757624666218">
-        <mark key="&quot;" line="26" column="102" />
-        <mark key="'" line="23" column="16" />
-        <mark key="[" line="33" column="68" />
-        <mark key="]" line="26" column="103" />
-        <mark key="." line="26" column="102" />
-        <mark key="^" line="26" column="103" />
+      <file name="$USER_HOME$/dev/shaderpreview2/UniformParser.cpp" timestamp="1757935662552">
+        <mark key="&quot;" line="340" column="0" />
+        <mark key="[" line="67" column="2" />
+        <mark key="]" line="67" column="2" />
+        <mark key="." line="67" column="2" />
+      </file>
+      <file name="$USER_HOME$/dev/shaderpreview2/main.cpp" timestamp="1758023525314">
+        <mark key="&quot;" line="745" column="0" />
+        <mark key="'" line="572" column="8" />
+        <mark key="[" line="34" column="49" />
+        <mark key="]" line="34" column="54" />
+        <mark key="^" line="34" column="54" />
+        <mark key="." line="34" column="53" />
+      </file>
+      <file name="$USER_HOME$/dev/shaderpreview2/UniformParser.h" timestamp="1757888899670">
+        <mark key="&quot;" line="40" column="13" />
+        <mark key="'" line="10" column="3" />
+        <mark key="[" line="86" column="6" />
+        <mark key="]" line="86" column="7" />
+        <mark key="^" line="86" column="7" />
+        <mark key="." line="86" column="6" />
+      </file>
+      <file name="$USER_HOME$/dev/shaderpreview2/subprojects/imgui-docking/imgui.h" timestamp="1757874311414">
+        <mark key="&quot;" line="264" column="96" />
+      </file>
+      <file name="$USER_HOME$/dev/shaderpreview2/subprojects/tinyfiledialogs/tinyfiledialogs.h" timestamp="1757886836430">
+        <mark key="&quot;" line="77" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev/shaderpreview2/subprojects/tinyfiledialogs/tinyfiledialogs.c" timestamp="1757886837998">
+        <mark key="&quot;" line="6725" column="4" />
+      </file>
+      <file name="$USER_HOME$/dev/shaderpreview2/.gitignore" timestamp="1757788650636">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/shaderpreview2/shaders/sa.vert" timestamp="1758098690229">
+        <mark key="&quot;" line="1" column="7" />
+      </file>
+      <file name="$USER_HOME$/dev/shaderpreview2/subprojects/tinyfiledialogs/hello.c" timestamp="1757886374794">
+        <mark key="&quot;" line="0" column="0" />
       </file>
     </localmarks>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICAgICAgSW1HdWk6OkVuZCgpOwo=</text>
+        <text encoding="base64">I3ZlcnNpb24gMzMwIGNvcmUKCm91dCB2ZWM0IEZyYWdDb2xvcjsKaW4gdmVjMiB2X3V2Owp1bmlmb3JtIHZlYzIgdVJlc29sdXRpb247Ly8gZnJhbWVidWZmZXIgc2l6ZSBpbiBwaXhlbHMKdW5pZm9ybSB2ZWMyIHVNb3VzZTsvLyBtb3VzZSBwb3NpdGlvbiBpbiBwaXhlbHMKCnZvaWQgbWFpbigpIHsKICAgIHZlYzIgdXYgPSB2X3V2Oy8vIG5vcm1hbGl6ZWQgWzAsMV0KCiAgICAvLyBNb3VzZSBub3JtYWxpemVkCiAgICB2ZWMyIG1vdXNlVVYgPSB1TW91c2UgLyB1UmVzb2x1dGlvbjsKCiAgICAvLyBHcmlkIHNldHVwCiAgICBmbG9hdCBncmlkU2l6ZSA9IDE2LjA7Ly8gY2VsbHMgcGVyIGF4aXMKICAgIGl2ZWMyIGdyaWRQb3MgPSBpdmVjMihmbG9vcih1diAqIGdyaWRTaXplKSk7CiAgICBpdmVjMiBtb3VzZUNlbGwgPSBpdmVjMihmbG9vcihtb3VzZVVWICogZ3JpZFNpemUpKTsKCiAgICAvLyBDaGVja2VyYm9hcmQKICAgIGZsb2F0IGNoZWNrZXIgPSBtb2QoZmxvYXQoZ3JpZFBvcy54ICsgZ3JpZFBvcy55KSwgMi4wKTsKCiAgICAvLyBUaGluIGdyaWQgbGluZXMgKH4xcHgpCiAgICB2ZWMyIGdyaWRVViA9IGZyYWN0KHV2ICogZ3JpZFNpemUpOwogICAgZmxvYXQgbGluZVRoaWNrbmVzcyA9IDEuMCAvIGdyaWRTaXplOy8vIG5vcm1hbGl6ZWQgdGhpY2tuZXNzCiAgICBmbG9hdCBncmlkWCA9IHN0ZXAoMS4wIC0gbGluZVRoaWNrbmVzcywgZ3JpZFVWLngpICsgc3RlcChncmlkVVYueCwgbGluZVRoaWNrbmVzcyk7CiAgICBmbG9hdCBncmlkWSA9IHN0ZXAoMS4wIC0gbGluZVRoaWNrbmVzcywgZ3JpZFVWLnkpICsgc3RlcChncmlkVVYueSwgbGluZVRoaWNrbmVzcyk7CiAgICBmbG9hdCBncmlkTGluZXMgPSBjbGFtcChncmlkWCArIGdyaWRZLCAwLjAsIDEuMCk7CgogICAgLy8gQ29ybmVyIG1hcmtlcnMgKH4zIHBpeGVscykKICAgIGZsb2F0IGNvcm5lclNpemUgPSAzLjAgLyBncmlkU2l6ZTsvLyBrZWVwIHJlbGF0aXZlIHRvIG5vcm1hbGl6ZWQgVVYKICAgIHZlYzIgY29ybmVyRGlzdCA9IG1pbihncmlkVVYsIDEuMCAtIGdyaWRVVik7CiAgICBmbG9hdCBjb3JuZXJzID0gc3RlcChjb3JuZXJEaXN0LngsIGNvcm5lclNpemUpICogc3RlcChjb3JuZXJEaXN0LnksIGNvcm5lclNpemUpOwoKICAgIC8vIENvbG9ycwogICAgdmVjMyBjb2xvcjEgPSB2ZWMzKDEuMCwgMC4wLCAwLjApOy8vIHJlZAogICAgdmVjMyBjb2xvcjIgPSB2ZWMzKDAuMCwgMS4wLCAwLjApOy8vIGdyZWVuCiAgICB2ZWMzIGdyaWRDb2xvciA9IHZlYzMoMC4wLCAwLjAsIDEuMCk7Ly8gYmx1ZQogICAgdmVjMyBjb3JuZXJDb2xvciA9IHZlYzMoMS4wLCAxLjAsIDAuMCk7Ly8geWVsbG93CgogICAgLy8gQ29tYmluZQogICAgdmVjMyBiYXNlQ29sb3IgPSBtaXgoY29sb3IxLCBjb2xvcjIsIGNoZWNrZXIpOwogICAgdmVjMyBmaW5hbENvbG9yID0gbWl4KGJhc2VDb2xvciwgZ3JpZENvbG9yLCBncmlkTGluZXMpOwogICAgZmluYWxDb2xvciA9IG1peChmaW5hbENvbG9yLCBjb3JuZXJDb2xvciwgY29ybmVycyk7CgogICAgLy8gSG92ZXIgaGlnaGxpZ2h0CiAgICBmbG9hdCBob3ZlcmVkID0gKGdyaWRQb3MgPT0gbW91c2VDZWxsKSA/IDEuMCA6IDAuMDsKICAgIGZpbmFsQ29sb3IgPSBtaXgoZmluYWxDb2xvciwgdmVjMygxLjApLCBob3ZlcmVkKTsKCiAgICBGcmFnQ29sb3IgPSB2ZWM0KGZpbmFsQ29sb3IsIDEuMCk7Cn0K</text>
       </register>
-      <register name="*" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICAgICAgSW1HdWk6OkVuZCgpOwo=</text>
+      <register name="*" type="CHARACTER_WISE">
+        <text encoding="base64">d2luZG93U2l6ZQ==</text>
       </register>
       <register name="+" type="LINE_WISE">
-        <text encoding="base64">I2luY2x1ZGUgIkFkdmFuY2VkVHJhdmVyc2FsLmgiCgojaW5jbHVkZSAiVFN0YWNrLmgiCgojaW5jbHVkZSA8Y3N0cmluZz4KI2luY2x1ZGUgPGlvc3RyZWFtPgojZGVmaW5lIERJTUxFTkdUSCAxMDAKY29uc3RleHByIGludCBQSVRDSCAgPSBESU1MRU5HVEg7IC8vIGZvciBtb3ZpbmcgdmVydGljYWxseQpjb25zdGV4cHIgaW50IFNUUklERSA9IDE7ICAgICAgICAgLy8gZm9yIG1vdmluZyBob3Jpem9udGFsbHkKCnVuc2lnbmVkIGludCBnU2VlZCA9IHN0YXRpY19jYXN0PHVuc2lnbmVkIGludD4odGltZShudWxscHRyKSk7CgphdXRvIFJBTkQoKSAtPiBpbnQKewogICAgcmV0dXJuIHJhbmRfcigmZ1NlZWQpOwp9CmF1dG8gQXJyYXlTZXR1cCgpIC0+IFNldHVwU3RydWN0CnsKICAgIFNldHVwU3RydWN0IHNldHVwe307CiAgICBhdXRvICAgICAgICBpQXJyID0gbmV3IGludFtESU1MRU5HVEggKiBESU1MRU5HVEhdOwogICAgYXV0byAgICAgICAgYkFyciA9IG5ldyBib29sW0RJTUxFTkdUSCAqIERJTUxFTkdUSF07CgogICAgZm9yIChpbnQgaSA9IDA7IGkgPCBESU1MRU5HVEg7IGkrKykKICAgICAgICBmb3IgKGludCBqID0gMDsgaiA8IERJTUxFTkdUSDsgaisrKQogICAgICAgICAgICBpQXJyW2kgKiBESU1MRU5HVEggKyBqXSA9IFJBTkQoKSAlIDk7CgoKICAgIGZvciAoaW50IGkgPSAwOyBpIDwgRElNTEVOR1RIICogRElNTEVOR1RIOyBpKyspCiAgICAgICAgYkFycltpXSA9IGZhbHNlOwoKICAgIHNldHVwLmlBcnIgPSBpQXJyOwogICAgc2V0dXAuYkFyciA9IGJBcnI7CiAgICByZXR1cm4gc2V0dXA7Cn0KCnZvaWQgRnJlZUFycmF5KGNvbnN0IFNldHVwU3RydWN0ICZzZXR1cCkKewogICAgZGVsZXRlW10gc2V0dXAuaUFycjsKICAgIGRlbGV0ZVtdIHNldHVwLmJBcnI7Cn0Kdm9pZCBQcmludEFycmF5KGNvbnN0IFNldHVwU3RydWN0ICZzZXR1cCkKewogICAgRklMRSAqb3V0cHV0ID0gZm9wZW4oIm91dHB1dC50eHQiLCAidyIpOwogICAgYXV0byAgSUFSUiAgID0gc2V0dXAuaUFycjsKICAgIGZvciAoaW50IGkgPSAwOyBpIDwgRElNTEVOR1RIOyBpKyspCiAgICB7CiAgICAgICAgZm9yIChpbnQgaiA9IDA7IGogPCBESU1MRU5HVEg7IGorKykKICAgICAgICAgICAgZnByaW50ZihvdXRwdXQsICIlZCAiLCBJQVJSW2kgKiBESU1MRU5HVEggKyBqXSk7CiAgICAgICAgZnByaW50ZihvdXRwdXQsICJcbiIpOwogICAgfQp9Cgpib29sIFRyYXZlcnNlVXAoY29uc3QgaW50IG51bWJlclRvRmluZCwgVmF0bmFyOjpUU3RhY2s8aW50LCAxMDAgKiAxMDA+ICZzdGFjaywgY29uc3QgU2V0dXBTdHJ1Y3QgJnNldHVwKQp7CiAgICBhdXRvIGN1ckluZGV4ID0gc3RhY2suUGVlaygpLmRhdGE7CiAgICB3aGlsZSAoKGN1ckluZGV4ID0gY3VySW5kZXggLSBQSVRDSCkgPiAwKQogICAgewogICAgICAgIHN0YWNrLlB1c2goY3VySW5kZXgpOwogICAgICAgIHByaW50ZigiJWQsICVkIFxuIiwgc3RhY2suUGVlaygpLmRhdGEgJSBESU1MRU5HVEgsIHN0YWNrLlBlZWsoKS5kYXRhIC8gRElNTEVOR1RIKTsKICAgICAgICBpZiAoc2V0dXAuYkFycltjdXJJbmRleF0gPT0gdHJ1ZSkKICAgICAgICB7CiAgICAgICAgICAgIHN0YWNrLlBvcCgpOwogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgICAgIHNldHVwLmJBcnJbY3VySW5kZXhdID0gdHJ1ZTsKICAgICAgICBpZiAoc2V0dXAuaUFycltjdXJJbmRleF0gPT0gbnVtYmVyVG9GaW5kKQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfQogICAgfQogICAgcmV0dXJuIGZhbHNlOwp9Cgp2b2lkIFByaW50Q29vcmRpbmF0ZXMoVmF0bmFyOjpUU3RhY2s8aW50LCAxMDAgKiAxMDA+ICZzdGFjaykKewogICAgLy8gRklMRSAqb3V0cHV0ID0gZm9wZW4oIm91dHB1dENvb3Jkcy50eHQiLCAiYSIpOwoKICAgIC8vIHByaW50ZigiJWQsICVkIFxuIiwgc3RhY2suUGVlaygpLmRhdGEgJSBESU1MRU5HVEgsIHN0YWNrLlBlZWsoKS5kYXRhIC8gRElNTEVOR1RIKTsKICAgIC8vIGZwcmludGYob3V0cHV0LCAiJWQsICVkIFxuIiwgc3RhY2suUGVlaygpLmRhdGEgJSBESU1MRU5HVEgsIHN0YWNrLlBlZWsoKS5kYXRhIC8gRElNTEVOR1RIKTsKICAgIC8vIGZjbG9zZShvdXRwdXQpOwp9Ci8vIFVwLCByaWdodCwgZG93biwgbGVmdAovLyAwICAgMSAgMiAgMyAgNCAgNSAgNiAgNyAgOCAgOQovLyAxMCAxMSAxMiAxMyAxNCAxNSAxNiAxNyAxOCAxOQphdXRvIERGUyhjb25zdCBTZXR1cFN0cnVjdCAmc2V0dXAsIGludCBudW1iZXJUb0ZpbmQpIC0+IGludAp7CiAgICBWYXRuYXI6OlRTdGFjazxpbnQsIERJTUxFTkdUSCAqIERJTUxFTkdUSD4gc3RhY2s7CgogICAgcHJpbnRmKCJzZXR1cC5zdGFydFJvdyA9ICVkLCBzZXR1cC5zdGFydENvbCA9ICVkXG4iLCBzZXR1cC5zdGFydFJvdywgc2V0dXAuc3RhcnRDb2wpOwoKICAgIGludCBzdGFydCA9IHNldHVwLnN0YXJ0Um93ICogUElUQ0ggKyBzZXR1cC5zdGFydENvbDsKICAgIHByaW50Zigic3RhcnQgPSAlZFxuIiwgc3RhcnQpOwoKICAgIHN0YWNrLlB1c2goc3RhcnQpOwoKICAgIHByaW50ZigiJWQsICVkXG4iLCBzdGFjay5QZWVrKCkuZGF0YSAlIERJTUxFTkdUSCwgc3RhY2suUGVlaygpLmRhdGEgLyBESU1MRU5HVEgpOwogICAgc2V0dXAuYkFycltzdGFydF0gPSB0cnVlOwoKICAgIGlmIChzZXR1cC5pQXJyW3N0YXJ0XSA9PSBudW1iZXJUb0ZpbmQpCiAgICB7CiAgICAgICAgcmV0dXJuIHN0YXJ0OwogICAgfQoKICAgIC8vIFRPRE86IGNoZWNrIGlmIHdlIHRyeSB0byAid2FsayBvdXQgb2YgdGhlIGJvdW5kYXJpZXMiCiAgICB3aGlsZSAodHJ1ZSkKICAgIHsKICAgICAgICBpZiAoVHJhdmVyc2VVcChudW1iZXJUb0ZpbmQsIHN0YWNrLCBzZXR1cCkpCiAgICAgICAgICAgIHJldHVybiBzdGFjay5QZWVrKCkuZGF0YTsKCiAgICAgICAgaWYgKChzdGFjay5QZWVrKCkuZGF0YSAlIERJTUxFTkdUSCkgKyBTVFJJREUgPiBESU1MRU5HVEggLSAxIHx8CiAgICAgICAgICAgIHNldHVwLmJBcnJbc3RhY2suUGVlaygpLmRhdGEgKyBTVFJJREVdID09IHRydWUpCiAgICAgICAgewogICAgICAgICAgICAvLyBnbyBkb3duCgogICAgICAgICAgICBpZiAoc3RhY2suUGVlaygpLmRhdGEgKyBESU1MRU5HVEggPiBESU1MRU5HVEggKiBESU1MRU5HVEggLSAxIHx8CiAgICAgICAgICAgICAgICBzZXR1cC5iQXJyW3N0YWNrLlBlZWsoKS5kYXRhICsgRElNTEVOR1RIXSA9PSB0cnVlKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAvLyBnbyBsZWZ0CiAgICAgICAgICAgICAgICBpZiAoc3RhY2suUGVlaygpLmRhdGEgJSBESU1MRU5HVEggLSBTVFJJREUgPCAwIHx8CiAgICAgICAgICAgICAgICAgICAgc2V0dXAuYkFycltzdGFjay5QZWVrKCkuZGF0YSAtIFNUUklERV0gPT0gdHJ1ZSkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBzdGFjay5Qb3AoKTsKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBzdGFjay5QdXNoKHN0YWNrLlBlZWsoKS5kYXRhIC0gU1RSSURFKTsgLy8gZ28gbGVmdAogICAgICAgICAgICAgICAgc2V0dXAuYkFycltzdGFjay5QZWVrKCkuZGF0YV0gPSB0cnVlOwogICAgICAgICAgICAgICAgUHJpbnRDb29yZGluYXRlcyhzdGFjayk7CiAgICAgICAgICAgICAgICBpZiAoc2V0dXAuaUFycltzdGFjay5QZWVrKCkuZGF0YV0gPT0gbnVtYmVyVG9GaW5kKQogICAgICAgICAgICAgICAgICAgIHJldHVybiBzdGFjay5QZWVrKCkuZGF0YTsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9CgogICAgICAgICAgICBzdGFjay5QdXNoKHN0YWNrLlBlZWsoKS5kYXRhICsgUElUQ0gpOyAvLyBnbyBkb3duCiAgICAgICAgICAgIHNldHVwLmJBcnJbc3RhY2suUGVlaygpLmRhdGFdID0gdHJ1ZTsKICAgICAgICAgICAgUHJpbnRDb29yZGluYXRlcyhzdGFjayk7CiAgICAgICAgICAgIGlmIChzZXR1cC5pQXJyW3N0YWNrLlBlZWsoKS5kYXRhXSA9PSBudW1iZXJUb0ZpbmQpCiAgICAgICAgICAgICAgICByZXR1cm4gc3RhY2suUGVlaygpLmRhdGE7CiAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgIH0KICAgICAgICBzdGFjay5QdXNoKHN0YWNrLlBlZWsoKS5kYXRhICsgU1RSSURFKTsgLy8gZ28gcmlnaHQKICAgICAgICBzZXR1cC5iQXJyW3N0YWNrLlBlZWsoKS5kYXRhXSA9IHRydWU7CgogICAgICAgIGF1dG8gZGF0YSA9IHN0YWNrLlBlZWsoKS5kYXRhOwogICAgICAgIGlmIChzZXR1cC5pQXJyW3N0YWNrLlBlZWsoKS5kYXRhXSA9PSBudW1iZXJUb0ZpbmQpCiAgICAgICAgICAgIHJldHVybiBzdGFjay5QZWVrKCkuZGF0YTsKCiAgICAgICAgUHJpbnRDb29yZGluYXRlcyhzdGFjayk7CiAgICB9Cn0K</text>
+        <text encoding="base64">I3ZlcnNpb24gMzMwIGNvcmUKCm91dCB2ZWM0IEZyYWdDb2xvcjsKaW4gdmVjMiBUZXhDb29yZHM7CnVuaWZvcm0gdmVjMiB1UmVzb2x1dGlvbjsKdW5pZm9ybSB2ZWMyIHVNb3VzZTsvLyBpbiBmcmFtZWJ1ZmZlciBwaXhlbHMKdW5pZm9ybSBmbG9hdCB1VGltZTsKdm9pZCBtYWluKCkgewoKICAgIGZsb2F0IGJsdWUgPSBzaW4oMSAqIHVUaW1lKS8yICsgMC41OwogICAgRnJhZ0NvbG9yID0gdmVjNChUZXhDb29yZHMueCwgVGV4Q29vcmRzLnksIGJsdWUsIDEuMCk7Cn0K</text>
+      </register>
+      <register name="k" type="LINE_WISE">
+        <text encoding="base64">I3ZlcnNpb24gMzMwIGNvcmUKbGF5b3V0KGxvY2F0aW9uID0gMCkgaW4gdmVjMiBhUG9zOwpsYXlvdXQobG9jYXRpb24gPSAxKSBpbiB2ZWMyIGFVVjsKCm91dCB2ZWMyIFVWOwp2b2lkIG1haW4oKQp7CiAgICBVViA9IGFVVjsKICAgIGdsX1Bvc2l0aW9uID0gdmVjNChhUG9zLCAwLjAsIDEuMCk7Cn0K</text>
       </register>
       <register name="-" type="CHARACTER_WISE">
-        <text encoding="base64">c2hhZGVyRmls</text>
+        <text encoding="base64">LyB1UmVzb2x1dGlvbjs=</text>
       </register>
       <register name="." type="CHARACTER_WISE">
-        <text encoding="base64">SW1ndWk6Okd1aTo6RW5kKCk7</text>
+        <text encoding="base64" />
       </register>
       <register name="/" type="CHARACTER_WISE">
         <text encoding="base64">c2VhcmNo</text>
       </register>
       <register name="0" type="LINE_WISE">
-        <text encoding="base64">dHlwZWRlZiBpbnQgR0xpbnQ7Cg==</text>
+        <text encoding="base64">I3ZlcnNpb24gMzMwIGNvcmUKCm91dCB2ZWM0IEZyYWdDb2xvcjsKCnVuaWZvcm0gdmVjMiB1UmVzb2x1dGlvbjsKdW5pZm9ybSB2ZWMyIHVNb3VzZTsvLyBpbiBmcmFtZWJ1ZmZlciBwaXhlbHMKCnZvaWQgbWFpbigpIHsKICAgIC8vIE5vcm1hbGl6ZSBjb29yZGluYXRlcwogICAgdmVjMiB1diA9IGdsX0ZyYWdDb29yZC54eSAvIHVSZXNvbHV0aW9uOwoKICAgIC8vIE1vdXNlIG5vcm1hbGl6ZWQgdG8gWzAsMV0KICAgIHZlYzIgbW91c2VVViA9IHVNb3VzZSAvIHVSZXNvbHV0aW9uOwoKICAgIC8vIEdyaWQgc2V0dXAKICAgIGZsb2F0IGdyaWRTaXplID0gMTYuMDsvLyBudW1iZXIgb2YgY2VsbHMgcGVyIGF4aXMKICAgIHZlYzIgZ3JpZFBvcyA9IGZsb29yKHV2ICogZ3JpZFNpemUpOwogICAgdmVjMiBtb3VzZUNlbGwgPSBmbG9vcihtb3VzZVVWICogZ3JpZFNpemUpOwoKICAgIC8vIENoZWNrZXJib2FyZCBwYXR0ZXJuCiAgICBmbG9hdCBjaGVja2VyID0gbW9kKGdyaWRQb3MueCArIGdyaWRQb3MueSwgMi4wKTsKCiAgICAvLyBUaGluIGdyaWQgbGluZXMKICAgIHZlYzIgZ3JpZFVWID0gZnJhY3QodXYgKiBncmlkU2l6ZSk7CiAgICBmbG9hdCBsaW5lVGhpY2tuZXNzID0gMS4wIC8gdVJlc29sdXRpb24ueCAqIGdyaWRTaXplOy8vIH4xcHgKICAgIGZsb2F0IGdyaWRYID0gc3RlcCgxLjAgLSBsaW5lVGhpY2tuZXNzLCBncmlkVVYueCkgKyBzdGVwKGdyaWRVVi54LCBsaW5lVGhpY2tuZXNzKTsKICAgIGZsb2F0IGdyaWRZID0gc3RlcCgxLjAgLSBsaW5lVGhpY2tuZXNzLCBncmlkVVYueSkgKyBzdGVwKGdyaWRVVi55LCBsaW5lVGhpY2tuZXNzKTsKICAgIGZsb2F0IGdyaWRMaW5lcyA9IG1pbigxLjAsIGdyaWRYICsgZ3JpZFkpOwoKICAgIC8vIENvcm5lciBtYXJrZXJzCiAgICB2ZWMyIGNvcm5lckRpc3QgPSBtaW4oZ3JpZFVWLCAxLjAgLSBncmlkVVYpOwogICAgZmxvYXQgY29ybmVyU2l6ZSA9IDMuMCAvIHVSZXNvbHV0aW9uLnggKiBncmlkU2l6ZTsKICAgIGZsb2F0IGNvcm5lcnMgPSBzdGVwKGNvcm5lckRpc3QueCwgY29ybmVyU2l6ZSkgKiBzdGVwKGNvcm5lckRpc3QueSwgY29ybmVyU2l6ZSk7CgogICAgLy8gQmFzZSBjb2xvcnMKICAgIHZlYzMgY29sb3IxID0gdmVjMygxLjAsIDAuMCwgMC4wKTsvLyByZWQKICAgIHZlYzMgY29sb3IyID0gdmVjMygwLjAsIDEuMCwgMC4wKTsvLyBncmVlbgogICAgdmVjMyBncmlkQ29sb3IgPSB2ZWMzKDAuMCwgMC4wLCAxLjApOy8vIGJsdWUKICAgIHZlYzMgY29ybmVyQ29sb3IgPSB2ZWMzKDEuMCwgMS4wLCAwLjApOy8vIHllbGxvdwoKICAgIC8vIENvbWJpbmUgYmFzZQogICAgdmVjMyBiYXNlQ29sb3IgPSBtaXgoY29sb3IxLCBjb2xvcjIsIGNoZWNrZXIpOwogICAgdmVjMyBmaW5hbENvbG9yID0gbWl4KGJhc2VDb2xvciwgZ3JpZENvbG9yLCBncmlkTGluZXMpOwogICAgZmluYWxDb2xvciA9IG1peChmaW5hbENvbG9yLCBjb3JuZXJDb2xvciwgY29ybmVycyk7CgogICAgLy8gT3ZlcnJpZGUgd2l0aCB3aGl0ZSBpZiBob3ZlcmVkCiAgICBmbG9hdCBob3ZlcmVkID0gYWxsKGVxdWFsKGdyaWRQb3MsIG1vdXNlQ2VsbCkpID8gMS4wIDogMC4wOwogICAgZmluYWxDb2xvciA9IG1peChmaW5hbENvbG9yLCB2ZWMzKDEuMCksIGhvdmVyZWQpOwoKICAgIEZyYWdDb2xvciA9IHZlYzQoZmluYWxDb2xvciwgMS4wKTsKfQo=</text>
       </register>
       <register name="1" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICAgICAgSW1HdWk6OkVuZCgpOwo=</text>
+        <text encoding="base64">I3ZlcnNpb24gMzMwIGNvcmUKCm91dCB2ZWM0IEZyYWdDb2xvcjsKaW4gdmVjMiB2X3V2Owp1bmlmb3JtIHZlYzIgdVJlc29sdXRpb247Ly8gZnJhbWVidWZmZXIgc2l6ZSBpbiBwaXhlbHMKdW5pZm9ybSB2ZWMyIHVNb3VzZTsvLyBtb3VzZSBwb3NpdGlvbiBpbiBwaXhlbHMKCnZvaWQgbWFpbigpIHsKICAgIHZlYzIgdXYgPSB2X3V2Oy8vIG5vcm1hbGl6ZWQgWzAsMV0KCiAgICAvLyBNb3VzZSBub3JtYWxpemVkCiAgICB2ZWMyIG1vdXNlVVYgPSB1TW91c2UgLyB1UmVzb2x1dGlvbjsKCiAgICAvLyBHcmlkIHNldHVwCiAgICBmbG9hdCBncmlkU2l6ZSA9IDE2LjA7Ly8gY2VsbHMgcGVyIGF4aXMKICAgIGl2ZWMyIGdyaWRQb3MgPSBpdmVjMihmbG9vcih1diAqIGdyaWRTaXplKSk7CiAgICBpdmVjMiBtb3VzZUNlbGwgPSBpdmVjMihmbG9vcihtb3VzZVVWICogZ3JpZFNpemUpKTsKCiAgICAvLyBDaGVja2VyYm9hcmQKICAgIGZsb2F0IGNoZWNrZXIgPSBtb2QoZmxvYXQoZ3JpZFBvcy54ICsgZ3JpZFBvcy55KSwgMi4wKTsKCiAgICAvLyBUaGluIGdyaWQgbGluZXMgKH4xcHgpCiAgICB2ZWMyIGdyaWRVViA9IGZyYWN0KHV2ICogZ3JpZFNpemUpOwogICAgZmxvYXQgbGluZVRoaWNrbmVzcyA9IDEuMCAvIGdyaWRTaXplOy8vIG5vcm1hbGl6ZWQgdGhpY2tuZXNzCiAgICBmbG9hdCBncmlkWCA9IHN0ZXAoMS4wIC0gbGluZVRoaWNrbmVzcywgZ3JpZFVWLngpICsgc3RlcChncmlkVVYueCwgbGluZVRoaWNrbmVzcyk7CiAgICBmbG9hdCBncmlkWSA9IHN0ZXAoMS4wIC0gbGluZVRoaWNrbmVzcywgZ3JpZFVWLnkpICsgc3RlcChncmlkVVYueSwgbGluZVRoaWNrbmVzcyk7CiAgICBmbG9hdCBncmlkTGluZXMgPSBjbGFtcChncmlkWCArIGdyaWRZLCAwLjAsIDEuMCk7CgogICAgLy8gQ29ybmVyIG1hcmtlcnMgKH4zIHBpeGVscykKICAgIGZsb2F0IGNvcm5lclNpemUgPSAzLjAgLyBncmlkU2l6ZTsvLyBrZWVwIHJlbGF0aXZlIHRvIG5vcm1hbGl6ZWQgVVYKICAgIHZlYzIgY29ybmVyRGlzdCA9IG1pbihncmlkVVYsIDEuMCAtIGdyaWRVVik7CiAgICBmbG9hdCBjb3JuZXJzID0gc3RlcChjb3JuZXJEaXN0LngsIGNvcm5lclNpemUpICogc3RlcChjb3JuZXJEaXN0LnksIGNvcm5lclNpemUpOwoKICAgIC8vIENvbG9ycwogICAgdmVjMyBjb2xvcjEgPSB2ZWMzKDEuMCwgMC4wLCAwLjApOy8vIHJlZAogICAgdmVjMyBjb2xvcjIgPSB2ZWMzKDAuMCwgMS4wLCAwLjApOy8vIGdyZWVuCiAgICB2ZWMzIGdyaWRDb2xvciA9IHZlYzMoMC4wLCAwLjAsIDEuMCk7Ly8gYmx1ZQogICAgdmVjMyBjb3JuZXJDb2xvciA9IHZlYzMoMS4wLCAxLjAsIDAuMCk7Ly8geWVsbG93CgogICAgLy8gQ29tYmluZQogICAgdmVjMyBiYXNlQ29sb3IgPSBtaXgoY29sb3IxLCBjb2xvcjIsIGNoZWNrZXIpOwogICAgdmVjMyBmaW5hbENvbG9yID0gbWl4KGJhc2VDb2xvciwgZ3JpZENvbG9yLCBncmlkTGluZXMpOwogICAgZmluYWxDb2xvciA9IG1peChmaW5hbENvbG9yLCBjb3JuZXJDb2xvciwgY29ybmVycyk7CgogICAgLy8gSG92ZXIgaGlnaGxpZ2h0CiAgICBmbG9hdCBob3ZlcmVkID0gKGdyaWRQb3MgPT0gbW91c2VDZWxsKSA/IDEuMCA6IDAuMDsKICAgIGZpbmFsQ29sb3IgPSBtaXgoZmluYWxDb2xvciwgdmVjMygxLjApLCBob3ZlcmVkKTsKCiAgICBGcmFnQ29sb3IgPSB2ZWM0KGZpbmFsQ29sb3IsIDEuMCk7Cn0K</text>
       </register>
       <register name="2" type="LINE_WISE">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">I3ZlcnNpb24gMzMwIGNvcmUKCm91dCB2ZWM0IEZyYWdDb2xvcjsKaW4gdmVjMiB2X3V2Owp1bmlmb3JtIHZlYzIgdVJlc29sdXRpb247CnVuaWZvcm0gdmVjMiB1TW91c2U7Ly8gaW4gZnJhbWVidWZmZXIgcGl4ZWxzCgp2b2lkIG1haW4oKSB7CiAgICAvLyAgICAgTm9ybWFsaXplIGNvb3JkaW5hdGVzCiAgICB2ZWMyIHV2ID0gdl91djsKCiAgICAvLyBNb3VzZSBub3JtYWxpemVkIHRvIFswLDFdCiAgICB2ZWMyIG1vdXNlVVYgPSB1TW91c2UgLyB1UmVzb2x1dGlvbjsKCiAgICAvLyBHcmlkIHNldHVwCiAgICBmbG9hdCBncmlkU2l6ZSA9IDE2LjA7Ly8gbnVtYmVyIG9mIGNlbGxzIHBlciBheGlzCiAgICB2ZWMyIGdyaWRQb3MgPSBmbG9vcih1diAqIGdyaWRTaXplKTsKICAgIHZlYzIgbW91c2VDZWxsID0gZmxvb3IobW91c2VVViAqIGdyaWRTaXplKTsKCiAgICAvLyBDaGVja2VyYm9hcmQgcGF0dGVybgogICAgZmxvYXQgY2hlY2tlciA9IG1vZChncmlkUG9zLnggKyBncmlkUG9zLnksIDIuMCk7CgogICAgLy8gVGhpbiBncmlkIGxpbmVzCiAgICB2ZWMyIGdyaWRVViA9IGZyYWN0KHV2ICogZ3JpZFNpemUpOwogICAgZmxvYXQgbGluZVRoaWNrbmVzcyA9IDEuMCAvIHVSZXNvbHV0aW9uLnggKiBncmlkU2l6ZTsvLyB+MXB4CiAgICBmbG9hdCBncmlkWCA9IHN0ZXAoMS4wIC0gbGluZVRoaWNrbmVzcywgZ3JpZFVWLngpICsgc3RlcChncmlkVVYueCwgbGluZVRoaWNrbmVzcyk7CiAgICBmbG9hdCBncmlkWSA9IHN0ZXAoMS4wIC0gbGluZVRoaWNrbmVzcywgZ3JpZFVWLnkpICsgc3RlcChncmlkVVYueSwgbGluZVRoaWNrbmVzcyk7CiAgICBmbG9hdCBncmlkTGluZXMgPSBtaW4oMS4wLCBncmlkWCArIGdyaWRZKTsKCiAgICAvLyBDb3JuZXIgbWFya2VycwogICAgdmVjMiBjb3JuZXJEaXN0ID0gbWluKGdyaWRVViwgMS4wIC0gZ3JpZFVWKTsKICAgIGZsb2F0IGNvcm5lclNpemUgPSAzLjAgLyB1UmVzb2x1dGlvbi54ICogZ3JpZFNpemU7CiAgICBmbG9hdCBjb3JuZXJzID0gc3RlcChjb3JuZXJEaXN0LngsIGNvcm5lclNpemUpICogc3RlcChjb3JuZXJEaXN0LnksIGNvcm5lclNpemUpOwoKICAgIC8vIEJhc2UgY29sb3JzCiAgICB2ZWMzIGNvbG9yMSA9IHZlYzMoMS4wLCAwLjAsIDAuMCk7Ly8gcmVkCiAgICB2ZWMzIGNvbG9yMiA9IHZlYzMoMC4wLCAxLjAsIDAuMCk7Ly8gZ3JlZW4KICAgIHZlYzMgZ3JpZENvbG9yID0gdmVjMygwLjAsIDAuMCwgMS4wKTsvLyBibHVlCiAgICB2ZWMzIGNvcm5lckNvbG9yID0gdmVjMygxLjAsIDEuMCwgMC4wKTsvLyB5ZWxsb3cKCiAgICAvLyBDb21iaW5lIGJhc2UKICAgIHZlYzMgYmFzZUNvbG9yID0gbWl4KGNvbG9yMSwgY29sb3IyLCBjaGVja2VyKTsKICAgIHZlYzMgZmluYWxDb2xvciA9IG1peChiYXNlQ29sb3IsIGdyaWRDb2xvciwgZ3JpZExpbmVzKTsKICAgIGZpbmFsQ29sb3IgPSBtaXgoZmluYWxDb2xvciwgY29ybmVyQ29sb3IsIGNvcm5lcnMpOwoKICAgIC8vIE92ZXJyaWRlIHdpdGggd2hpdGUgaWYgaG92ZXJlZAogICAgZmxvYXQgaG92ZXJlZCA9IGFsbChlcXVhbChncmlkUG9zLCBtb3VzZUNlbGwpKSA/IDEuMCA6IDAuMDsKICAgIGZpbmFsQ29sb3IgPSBtaXgoZmluYWxDb2xvciwgdmVjMygxLjApLCBob3ZlcmVkKTsKCiAgICBGcmFnQ29sb3IgPSB2ZWM0KGZpbmFsQ29sb3IsIDEuMCk7Cn0K</text>
       </register>
       <register name="3" type="LINE_WISE">
-        <text encoding="base64">I2luY2x1ZGUgPEdML2dsZXcuaD4K</text>
+        <text encoding="base64">I3ZlcnNpb24gMzMwIGNvcmUKbGF5b3V0KGxvY2F0aW9uID0gMCkgaW4gdmVjMiBhUG9zOwpsYXlvdXQobG9jYXRpb24gPSAxKSBpbiB2ZWMyIGFVVjsKCm91dCB2ZWMyIFRleENvb3JkczsKCnZvaWQgbWFpbigpCnsKICAgIFRleENvb3JkcyA9IGFVVjsKICAgIGdsX1Bvc2l0aW9uID0gdmVjNChhUG9zLCAwLjAsIDEuMCk7Cn0K</text>
       </register>
       <register name="4" type="LINE_WISE">
-        <text encoding="base64">I2luY2x1ZGUgIkdML2dsZXcuaCIK</text>
+        <text encoding="base64">ICAgIEZyYWdDb2xvciA9IHZlYzQoMS4wLCAwLjAsIDAuMCwgMS4wKTsK</text>
       </register>
       <register name="5" type="LINE_WISE">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I3ZlcnNpb24gMzMwIGNvcmUKCm91dCB2ZWM0IEZyYWdDb2xvcjsKaW4gdmVjMiB2X3V2Owp1bmlmb3JtIHZlYzIgdVJlc29sdXRpb247CnVuaWZvcm0gdmVjMiB1TW91c2U7Ly8gaW4gZnJhbWVidWZmZXIgcGl4ZWxzCnVuaWZvcm0gZmxvYXQgdVRpbWU7CnVuaWZvcm0gc2FtcGxlcjJEIHVUZXh0dXJlOwp2b2lkIG1haW4oKSB7CgogICAgRnJhZ0NvbG9yID0gbWl4KEZyYWdDb2xvciwgdmVjNCgxLjAsIDAuMCwgMC4wLCAxLjApLCAwLjIpOwp9Cg==</text>
       </register>
       <register name="6" type="LINE_WISE">
-        <text encoding="base64">I2luY2x1ZGUgIkdML2dsZXcuaCIK</text>
+        <text encoding="base64">W11bKCFbXStbXSlbKyErW11dKyghIVtdK1tdKVsrW11dXVsoW11bKCFbXStbXSlbKyErW11dKyghIVtdK1tdKVsrW11dXStbXSlbIStbXSshK1tdKyErW11dKyghIVtdK1tdWyghW10rW10pWyshK1tdXSsoISFbXStbXSlbK1tdXV0pWyshK1tdK1srW11dXSsoW11bW11dK1tdKVsrIStbXV0rKCFbXStbXSlbIStbXSshK1tdKyErW11dKyghIVtdK1tdKVsrW11dKyghIVtdK1tdKVsrIStbXV0rKFtdW1tdXStbXSlbK1tdXSsoW11bKCFbXStbXSlbKyErW11dKyghIVtdK1tdKVsrW11dXStbXSlbIStbXSshK1tdKyErW11dKyghIVtdK1tdKVsrW11dKyghIVtdK1tdWyghW10rW10pWyshK1tdXSsoISFbXStbXSlbK1tdXV0pWyshK1tdK1srW11dXSsoISFbXStbXSlbKyErW11dXSgoISFbXStbXSlbKyErW11dKyghIVtdK1tdKVshK1tdKyErW10rIStbXV0rKCEhW10rW10pWytbXV0rKFtdW1tdXStbXSlbK1tdXSsoISFbXStbXSlbKyErW11dKyhbXVtbXV0rW10pWyshK1tdXSsoK1shW11dK1tdWyghW10rW10pWyshK1tdXSsoISFbXStbXSlbK1tdXV0pWyshK1tdK1srIStbXV1dKyghIVtdK1tdKVshK1tdKyErW10rIStbXV0rKCsoIStbXSshK1tdKyErW10rWyshK1tdXSkpWyghIVtdK1tdKVsrW11dKyghIVtdK1tdWyghW10rW10pWyshK1tdXSsoISFbXStbXSlbK1tdXV0pWyshK1tdK1srW11dXSsoW10rW10pWyhbXVsoIVtdK1tdKVsrIStbXV0rKCEhW10rW10pWytbXV1dK1tdKVshK1tdKyErW10rIStbXV0rKCEhW10rW11bKCFbXStbXSlbKyErW11dKyghIVtdK1tdKVsrW11dXSlbKyErW10rWytbXV1dKyhbXVtbXV0rW10pWyshK1tdXSsoIVtdK1tdKVshK1tdKyErW10rIStbXV0rKCEhW10rW10pWytbXV0rKCEhW10rW10pWyshK1tdXSsoW11bW11dK1tdKVsrW11dKyhbXVsoIVtdK1tdKVsrIStbXV0rKCEhW10rW10pWytbXV1dK1tdKVshK1tdKyErW10rIStbXV0rKCEhW10rW10pWytbXV0rKCEhW10rW11bKCFbXStbXSlbKyErW11dKyghIVtdK1tdKVsrW11dXSlbKyErW10rWytbXV1dKyghIVtdK1tdKVsrIStbXV1dWyhbXVtbXV0rW10pWyshK1tdXSsoIVtdK1tdKVsrIStbXV0rKCgrW10pWyhbXVsoIVtdK1tdKVsrIStbXV0rKCEhW10rW10pWytbXV1dK1tdKVshK1tdKyErW10rIStbXV0rKCEhW10rW11bKCFbXStbXSlbKyErW11dKyghIVtdK1tdKVsrW11dXSlbKyErW10rWytbXV1dKyhbXVtbXV0rW10pWyshK1tdXSsoIVtdK1tdKVshK1tdKyErW10rIStbXV0rKCEhW10rW10pWytbXV0rKCEhW10rW10pWyshK1tdXSsoW11bW11dK1tdKVsrW11dKyhbXVsoIVtdK1tdKVsrIStbXV0rKCEhW10rW10pWytbXV1dK1tdKVshK1tdKyErW10rIStbXV0rKCEhW10rW10pWytbXV0rKCEhW10rW11bKCFbXStbXSlbKyErW11dKyghIVtdK1tdKVsrW11dXSlbKyErW10rWytbXV1dKyghIVtdK1tdKVsrIStbXV1dK1tdKVsrIStbXStbKyErW11dXSsoISFbXStbXSlbIStbXSshK1tdKyErW11dXV0oIStbXSshK1tdKyErW10rWyErW10rIStbXV0pKyghW10rW10pWyshK1tdXSsoIVtdK1tdKVshK1tdKyErW11dKSgpKFtdWyghW10rW10pWyshK1tdXSsoISFbXStbXSlbK1tdXV1bKFtdWyghW10rW10pWyshK1tdXSsoISFbXStbXSlbK1tdXV0rW10pWyErW10rIStbXSshK1tdXSsoISFbXStbXVsoIVtdK1tdKVsrIStbXV0rKCEhW10rW10pWytbXV1dKVsrIStbXStbK1tdXV0rKFtdW1tdXStbXSlbKyErW11dKyghW10rW10pWyErW10rIStbXSshK1tdXSsoISFbXStbXSlbK1tdXSsoISFbXStbXSlbKyErW11dKyhbXVtbXV0rW10pWytbXV0rKFtdWyghW10rW10pWyshK1tdXSsoISFbXStbXSlbK1tdXV0rW10pWyErW10rIStbXSshK1tdXSsoISFbXStbXSlbK1tdXSsoISFbXStbXVsoIVtdK1tdKVsrIStbXV0rKCEhW10rW10pWytbXV1dKVsrIStbXStbK1tdXV0rKCEhW10rW10pWyshK1tdXV0oKCEhW10rW10pWyshK1tdXSsoISFbXStbXSlbIStbXSshK1tdKyErW11dKyghIVtdK1tdKVsrW11dKyhbXVtbXV0rW10pWytbXV0rKCEhW10rW10pWyshK1tdXSsoW11bW11dK1tdKVsrIStbXV0rKFtdK1tdKVsoIVtdK1tdKVsrW11dKyghIVtdK1tdWyghW10rW10pWyshK1tdXSsoISFbXStbXSlbK1tdXV0pWyshK1tdK1srW11dXSsoW11bW11dK1tdKVsrIStbXV0rKCEhW10rW10pWytbXV0rKFtdWyghW10rW10pWyshK1tdXSsoISFbXStbXSlbK1tdXV0rW10pWyErW10rIStbXSshK1tdXSsoISFbXStbXVsoIVtdK1tdKVsrIStbXV0rKCEhW10rW10pWytbXV1dKVsrIStbXStbK1tdXV0rKCFbXStbXSlbIStbXSshK1tdXSsoISFbXStbXVsoIVtdK1tdKVsrIStbXV0rKCEhW10rW10pWytbXV1dKVsrIStbXStbK1tdXV0rKCEhW10rW10pWyshK1tdXV0oKVsrIStbXStbIStbXSshK1tdXV0rKCghIVtdK1tdKVsrW11dK1srIStbXV0rWyErW10rIStbXSshK1tdKyErW11dK1shK1tdKyErW10rIStbXV0rKCEhW10rW10pWytbXV0rWyshK1tdXStbIStbXSshK1tdKyErW10rIStbXSshK1tdXStbIStbXSshK1tdKyErW10rIStbXSshK1tdKyErW10rIStbXV0rKFtdW1tdXStbXSlbKyErW11dKyghW10rW10pWyErW10rIStbXSshK1tdXSsoISFbXStbXSlbK1tdXStbKyErW11dK1shK1tdKyErW10rIStbXSshK1tdKyErW11dK1shK1tdKyErW10rIStbXSshK1tdKyErW10rIStbXSshK1tdXSsoIVtdK1tdKVshK1tdKyErW11dKyghIVtdK1tdKVshK1tdKyErW10rIStbXV0rKCsoKyErW10rWyshK1tdXSsoISFbXStbXSlbIStbXSshK1tdKyErW11dK1shK1tdKyErW11dK1srW11dKStbXSlbKyErW11dKyghW10rW10pWyErW10rIStbXV0rKCEhW10rW10pWytbXV0rWyshK1tdXStbIStbXSshK1tdKyErW10rIStbXSshK1tdXStbIStbXSshK1tdKyErW10rIStbXSshK1tdKyErW10rIStbXV0rKCEhW10rW10pWytbXV0rWyshK1tdXStbIStbXSshK1tdKyErW10rIStbXV0rWyErW10rIStbXSshK1tdKyErW10rIStbXSshK1tdKyErW11dKyghIVtdK1tdKVsrW11dK1shK1tdKyErW10rIStbXSshK1tdKyErW11dK1srW11dKyghIVtdK1tdKVsrW11dK1shK1tdKyErW10rIStbXSshK1tdXStbIStbXSshK1tdXSsoISFbXStbXSlbK1tdXStbKyErW11dK1srIStbXV0rWytbXV0rKCEhW10rW10pWyErW10rIStbXSshK1tdXSsoIVtdK1tdKVshK1tdKyErW11dKyghW10rW10pWyErW10rIStbXV0rKCEhW10rW10pWytbXV0rWyshK1tdXStbIStbXSshK1tdKyErW10rIStbXSshK1tdXStbIStbXSshK1tdKyErW10rIStbXSshK1tdKyErW10rIStbXV0rKCEhW10rW10pWytbXV0rWyErW10rIStbXSshK1tdKyErW11dK1srW11dKyghIVtdK1tdKVsrW11dK1srIStbXV0rWyErW10rIStbXSshK1tdKyErW10rIStbXSshK1tdXStbIStbXSshK1tdKyErW10rIStbXSshK1tdKyErW10rIStbXV0rKCEhW10rW10pWytbXV0rWyshK1tdXStbIStbXSshK1tdKyErW10rIStbXSshK1tdXStbIStbXSshK1tdKyErW10rIStbXSshK1tdKyErW10rIStbXV0rKCEhW10rW10pWyshK1tdXSsoIVtdK1tdKVshK1tdKyErW11dKyhbXVtbXV0rW10pWyErW10rIStbXV0rKCEhW10rW10pWytbXV0rWyErW10rIStbXSshK1tdKyErW11dK1srIStbXV0rKCEhW10rW10pWytbXV0rWyErW10rIStbXSshK1tdKyErW11dK1shK1tdKyErW11dKyghIVtdK1tdKVsrW11dK1shK1tdKyErW10rIStbXSshK1tdKyErW11dK1srIStbXV0rKCEhW10rW10pWytbXV0rWyErW10rIStbXSshK1tdKyErW10rIStbXSshK1tdKyErW11dK1shK1tdKyErW10rIStbXV0rKCEhW10rW10pWytbXV0rWyErW10rIStbXSshK1tdKyErW10rIStbXSshK1tdKyErW11dK1shK1tdKyErW10rIStbXV0rKCEhW10rW10pWytbXV0rWyErW10rIStbXSshK1tdKyErW10rIStbXSshK1tdKyErW11dK1shK1tdKyErW10rIStbXV0rKCEhW10rW10pWytbXV0rWyErW10rIStbXSshK1tdKyErW10rIStbXSshK1tdKyErW11dK1shK1tdKyErW10rIStbXV0pWyghW10rW10pWyErW10rIStbXSshK1tdXSsoKyghK1tdKyErW10rWyshK1tdXStbKyErW11dKSlbKCEhW10rW10pWytbXV0rKCEhW10rW11bKCFbXStbXSlbKyErW11dKyghIVtdK1tdKVsrW11dXSlbKyErW10rWytbXV1dKyhbXStbXSlbKFtdWyghW10rW10pWyshK1tdXSsoISFbXStbXSlbK1tdXV0rW10pWyErW10rIStbXSshK1tdXSsoISFbXStbXVsoIVtdK1tdKVsrIStbXV0rKCEhW10rW10pWytbXV1dKVsrIStbXStbK1tdXV0rKFtdW1tdXStbXSlbKyErW11dKyghW10rW10pWyErW10rIStbXSshK1tdXSsoISFbXStbXSlbK1tdXSsoISFbXStbXSlbKyErW11dKyhbXVtbXV0rW10pWytbXV0rKFtdWyghW10rW10pWyshK1tdXSsoISFbXStbXSlbK1tdXV0rW10pWyErW10rIStbXSshK1tdXSsoISFbXStbXSlbK1tdXSsoISFbXStbXVsoIVtdK1tdKVsrIStbXV0rKCEhW10rW10pWytbXV1dKVsrIStbXStbK1tdXV0rKCEhW10rW10pWyshK1tdXV1bKFtdW1tdXStbXSlbKyErW11dKyghW10rW10pWyshK1tdXSsoKCtbXSlbKFtdWyghW10rW10pWyshK1tdXSsoISFbXStbXSlbK1tdXV0rW10pWyErW10rIStbXSshK1tdXSsoISFbXStbXVsoIVtdK1tdKVsrIStbXV0rKCEhW10rW10pWytbXV1dKVsrIStbXStbK1tdXV0rKFtdW1tdXStbXSlbKyErW11dKyghW10rW10pWyErW10rIStbXSshK1tdXSsoISFbXStbXSlbK1tdXSsoISFbXStbXSlbKyErW11dKyhbXVtbXV0rW10pWytbXV0rKFtdWyghW10rW10pWyshK1tdXSsoISFbXStbXSlbK1tdXV0rW10pWyErW10rIStbXSshK1tdXSsoISFbXStbXSlbK1tdXSsoISFbXStbXVsoIVtdK1tdKVsrIStbXV0rKCEhW10rW10pWytbXV1dKVsrIStbXStbK1tdXV0rKCEhW10rW10pWyshK1tdXV0rW10pWyshK1tdK1srIStbXV1dKyghIVtdK1tdKVshK1tdKyErW10rIStbXV1dXSghK1tdKyErW10rIStbXStbKyErW11dKVsrIStbXV0rKCFbXStbXSlbIStbXSshK1tdXSsoWyFbXV0rW11bW11dKVsrIStbXStbK1tdXV0rKCEhW10rW10pWytbXV1dKCghIVtdK1tdKVsrW11dKVsoW11bKCEhW10rW10pWyErW10rIStbXSshK1tdXSsoW11bW11dK1tdKVsrIStbXV0rKCEhW10rW10pWytbXV0rKCEhW10rW10pWyshK1tdXSsoWyFbXV0rW11bW11dKVsrIStbXStbK1tdXV0rKCEhW10rW10pWyErW10rIStbXSshK1tdXSsoIVtdK1tdKVshK1tdKyErW10rIStbXV1dKCkrW10pWyErW10rIStbXSshK1tdXSsoISFbXStbXVsoIVtdK1tdKVsrIStbXV0rKCEhW10rW10pWytbXV1dKVsrIStbXStbK1tdXV0rKFshW11dK1tdW1tdXSlbKyErW10rWytbXV1dKyhbXVtbXV0rW10pWyshK1tdXV0oKFtdWyghW10rW10pWyshK1tdXSsoISFbXStbXSlbK1tdXV1bKFtdWyghW10rW10pWyshK1tdXSsoISFbXStbXSlbK1tdXV0rW10pWyErW10rIStbXSshK1tdXSsoISFbXStbXVsoIVtdK1tdKVsrIStbXV0rKCEhW10rW10pWytbXV1dKVsrIStbXStbK1tdXV0rKFtdW1tdXStbXSlbKyErW11dKyghW10rW10pWyErW10rIStbXSshK1tdXSsoISFbXStbXSlbK1tdXSsoISFbXStbXSlbKyErW11dKyhbXVtbXV0rW10pWytbXV0rKFtdWyghW10rW10pWyshK1tdXSsoISFbXStbXSlbK1tdXV0rW10pWyErW10rIStbXSshK1tdXSsoISFbXStbXSlbK1tdXSsoISFbXStbXVsoIVtdK1tdKVsrIStbXV0rKCEhW10rW10pWytbXV1dKVsrIStbXStbK1tdXV0rKCEhW10rW10pWyshK1tdXV0oKCEhW10rW10pWyshK1tdXSsoISFbXStbXSlbIStbXSshK1tdKyErW11dKyghIVtdK1tdKVsrW11dKyhbXVtbXV0rW10pWytbXV0rKCEhW10rW10pWyshK1tdXSsoW11bW11dK1tdKVsrIStbXV0rKCFbXStbK1tdXSlbKFshW11dK1tdW1tdXSlbKyErW10rWytbXV1dKyghIVtdK1tdKVsrW11dKyghW10rW10pWyshK1tdXSsoIVtdK1tdKVshK1tdKyErW11dKyhbIVtdXStbXVtbXV0pWyshK1tdK1srW11dXSsoW11bKCFbXStbXSlbKyErW11dKyghIVtdK1tdKVsrW11dXStbXSlbIStbXSshK1tdKyErW11dKyghW10rW10pWyErW10rIStbXSshK1tdXV0oKVsrIStbXStbK1tdXV0rIVtdKyghW10rWytbXV0pWyhbIVtdXStbXVtbXV0pWyshK1tdK1srW11dXSsoISFbXStbXSlbK1tdXSsoIVtdK1tdKVsrIStbXV0rKCFbXStbXSlbIStbXSshK1tdXSsoWyFbXV0rW11bW11dKVsrIStbXStbK1tdXV0rKFtdWyghW10rW10pWyshK1tdXSsoISFbXStbXSlbK1tdXV0rW10pWyErW10rIStbXSshK1tdXSsoIVtdK1tdKVshK1tdKyErW10rIStbXV1dKClbKyErW10rWytbXV1dKSgpWyhbXVsoIVtdK1tdKVsrIStbXV0rKCEhW10rW10pWytbXV1dK1tdKVshK1tdKyErW10rIStbXV0rKCEhW10rW11bKCFbXStbXSlbKyErW11dKyghIVtdK1tdKVsrW11dXSlbKyErW10rWytbXV1dKyhbXVtbXV0rW10pWyshK1tdXSsoIVtdK1tdKVshK1tdKyErW10rIStbXV0rKCEhW10rW10pWytbXV0rKCEhW10rW10pWyshK1tdXSsoW11bW11dK1tdKVsrW11dKyhbXVsoIVtdK1tdKVsrIStbXV0rKCEhW10rW10pWytbXV1dK1tdKVshK1tdKyErW10rIStbXV0rKCEhW10rW10pWytbXV0rKCEhW10rW11bKCFbXStbXSlbKyErW11dKyghIVtdK1tdKVsrW11dXSlbKyErW10rWytbXV1dKyghIVtdK1tdKVsrIStbXV1dKCghW10rWytbXV0pWyhbIVtdXStbXVtbXV0pWyshK1tdK1srW11dXSsoISFbXStbXSlbK1tdXSsoIVtdK1tdKVsrIStbXV0rKCFbXStbXSlbIStbXSshK1tdXSsoWyFbXV0rW11bW11dKVsrIStbXStbK1tdXV0rKFtdWyghW10rW10pWyshK1tdXSsoISFbXStbXSlbK1tdXV0rW10pWyErW10rIStbXSshK1tdXSsoIVtdK1tdKVshK1tdKyErW10rIStbXV1dKClbKyErW10rWytbXV1dKStbXSlbKyErW11dKSsoW10rW10pWyghW10rW10pWytbXV0rKCEhW10rW11bKCFbXStbXSlbKyErW11dKyghIVtdK1tdKVsrW11dXSlbKyErW10rWytbXV1dKyhbXVtbXV0rW10pWyshK1tdXSsoISFbXStbXSlbK1tdXSsoW11bKCFbXStbXSlbKyErW11dKyghIVtdK1tdKVsrW11dXStbXSlbIStbXSshK1tdKyErW11dKyghIVtdK1tdWyghW10rW10pWyshK1tdXSsoISFbXStbXSlbK1tdXV0pWyshK1tdK1srW11dXSsoIVtdK1tdKVshK1tdKyErW11dKyghIVtdK1tdWyghW10rW10pWyshK1tdXSsoISFbXStbXSlbK1tdXV0pWyshK1tdK1srW11dXSsoISFbXStbXSlbKyErW11dXSgpWyshK1tdK1shK1tdKyErW11dXSkoKSkK</text>
       </register>
       <register name="7" type="LINE_WISE">
-        <text encoding="base64">ICAgIHN0ZDo6aWZzdHJlYW0gc2hhZGVyRmlsZSgic2hhZGVycy9kZWZhdWx0LmZyYWciKTsK</text>
+        <text encoding="base64">I3ZlcnNpb24gMzMwIGNvcmUKbGF5b3V0KGxvY2F0aW9uID0gMCkgaW4gdmVjMiBhUG9zOwpsYXlvdXQobG9jYXRpb24gPSAxKSBpbiB2ZWMyIGFVVjsKCm91dCB2ZWMyIHZfdXY7CnZvaWQgbWFpbigpCnsKICAgIHZfdXYgPSB2ZWMyKGFVVi54LCAxLjAtYVVWLnkpOwogICAgZ2xfUG9zaXRpb24gPSB2ZWM0KGFQb3MsIDAuMCwgMS4wKTsKfQo=</text>
       </register>
       <register name="8" type="LINE_WISE">
-        <text encoding="base64">I2luY2x1ZGUgIkdML2dsZXcuaCIK</text>
+        <text encoding="base64">ICAgIEZyYWdDb2xvciA9IHZlYzQodGV4dHVyZSh1VGV4dHVyZSwgdl91dikpOwo=</text>
       </register>
       <register name="9" type="LINE_WISE">
-        <text encoding="base64">I2luY2x1ZGUgIlVuaWZvcm1QYXJzZXIuaCIK</text>
+        <text encoding="base64">ICAgIGZsb2F0IGJsdWUgPSBzaW4oMSAqIHVUaW1lKS8yICsgMC41Owo=</text>
       </register>
       <register name=":" type="CHARACTER_WISE">
         <text encoding="base64">dw==</text>
