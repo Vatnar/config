@@ -1,5 +1,0 @@
-<application>
-  <component name="PackageManager">
-    <repository name="vcpkg" path="C:\Users\peter\vcpkg" baseUrl="https://github.com/microsoft/vcpkg" forcedCMakeNinja="false" />
-  </component>
-</application>

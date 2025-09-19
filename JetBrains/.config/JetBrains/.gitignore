@@ -1,0 +1,5 @@
+# Ignore JetBrains IDEs user-specific folders
+CLion2025.2/
+Rider2025.2/
+RustRover2025.2/
+
