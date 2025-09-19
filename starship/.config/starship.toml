@@ -53,27 +53,22 @@ format = '[\($state( $progress_current of $progress_total)\)]($style) '
 cherry_pick = "[🍒 PICKING](bold #F38BA8)"
 
 
+
 [git_status]
 
-conflicted = " 🏳 "
+conflicted = '( $count⚔️)(#FF5555)'
+ahead      = '( $count🏎💨)(#55FF55)'
+behind     = '( $count🐢)(#FFFF55)'
+diverged   = '( $count🔀)(#FF55FF)'
+untracked  = '( $count🆕)(#55FFFF)'
+stashed    = '( $count📦)(#AAAAFF)'
+modified   = '( $count✏️)(#FFA500)'
+staged     = '[ ++($count)](#ABE9B3)'
+renamed    = '( $count✍️)(#55AAFF)'
+deleted    = '( $count🗑)(#FF5555)'
 
-ahead = " 🏎💨 "
 
-behind = " 😰 "
 
-diverged = " 😵 "
-
-untracked = " 🤷 "
-
-stashed = " 📦 "
-
-modified = " 📝 "
-
-staged = '[++\($count\)](#ABE9B3)'
-
-renamed = " ✍️ "
-
-deleted = " 🗑 "
 
 
 [hostname]
