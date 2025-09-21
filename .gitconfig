@@ -1,0 +1,53 @@
+[credential]
+	credentialStore = gpg
+
+[user]
+	signingkey = redacted
+	name = Vatnar
+	email = peter@70x7.net
+
+[includeIf "gitdir:~/uia/"]
+    path=/home/vatnar/.gitconfig-uia
+
+[commit]
+	gpgsign = true
+
+[init]
+	defaultBranch = main
+
+[core]
+    editor = nvim
+    packedGitThreads = 4
+
+[color]
+    ui = auto
+
+[color "diff"]
+    old = red
+    new = green
+
+[alias]
+    lg = log --oneline --graph --dercorate --all
+
+[pull]
+    rebase = true
+
+[gc]
+    auto = 256
+
+[log]
+    decorate = short
+    abbrevCommit = true
+
+[pack]
+    deltaCacheSize = 128m
+    packSizeLimit = 2g
+
+[merge]
+    conflictstyle = diff3
+
+[commit]
+    gpgSign = true
+
+[rerere]
+	enabled = true
