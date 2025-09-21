@@ -5,13 +5,13 @@ add_newline = false
 
 format = """
 
-$directory  $git_branch $git_status 
+$directory  $git_branch $git_status $git_state $git_commit
 
 $character"""
 
 
-# Prompt symbols
 
+# Prompt symbols
 [character]
 
 success_symbol = "[   ](bold fg:#CBA6F7)"
@@ -32,9 +32,6 @@ style = "bg:#CBA6F7 fg:#1E1E2E"   # purple background, dark text
 
 symbol = "󰘬"
 
-truncation_length = 6
-
-truncation_symbol = ""
 
 format = "[](bold fg:#CBA6F7)[$symbol $branch(:$remote_branch)](fg:#1E1E2E bg:#CBA6F7)[ ](bold fg:#CBA6F7)"
 
@@ -44,14 +41,21 @@ format = "[](bold fg:#CBA6F7)[$symbol $branch(:$remote_branch)](fg:#1E1E2E bg
 commit_hash_length = 4
 
 tag_symbol = " "
-
+disabled = false
 
 [git_state]
+format = '[\($state( $progress_current/$progress_total)\)]($style) '
 
-format = '[\($state( $progress_current of $progress_total)\)]($style) '
-
+rebase = "[🔧 REBASING](bold #F38BA8)"
+merge = "[🔀 MERGING](bold #F38BA8)"
+revert = "[↩ REVERTING](bold #F38BA8)"
 cherry_pick = "[🍒 PICKING](bold #F38BA8)"
+bisect = "[🔍 BISECTING](bold #F38BA8)"
+am = "[📩 APPLYING](bold #F38BA8)"
+am_or_rebase = "[📦 AM/REBASE](bold #F38BA8)"
 
+style = "bold yellow"
+disabled = false
 
 
 [git_status]
