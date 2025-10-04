@@ -46,5 +46,13 @@ Scope {
             implicitWidth: parent.width - Appearance.sizes.elevationMargin * 2
             popup: true
         }
+
+        MouseArea {
+            anchors.fill: parent
+            z: 9999
+            onClicked: Notifications.timeoutAll()
+            hoverEnabled: false
+            propagateComposedEvents:false
+        }
     }
 }
