@@ -164,7 +164,7 @@ nnoremap <leader>dw   :action ActivateDebugToolWindow<CR>
 nnoremap <leader>dc   :action ChooseDebugConfiguration<CR>
 nnoremap K :action ShowHoverInfo<CR>
 
-set mouse=
+set mouse/home/vatnar/dev=
 
 set idearefactormode=visual
 " =========================

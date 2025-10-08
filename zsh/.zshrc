@@ -46,7 +46,7 @@ fh() {
 
 alias cat='bat --style=plain --paging=never'
 alias catt='bat --style=full'
-alias gl='git log --oneline --graph --decorate'
+alias gl='git log --all --oneline --graph --decorate'
 sf() {
     fd --type f . | fzf --preview 'bat --style=numbers --color=always --line-range=:500 {}'
 }
