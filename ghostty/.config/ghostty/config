@@ -36,7 +36,7 @@ keybind = alt+left=goto_split:left
 keybind = alt+right=goto_split:right
 keybind = alt+up=goto_split:up
 keybind = alt+down=goto_split:down
-
+keybind = global:ctrl+grave_accent=toggle_quick_terminal
 
 # cursror
 cursor-style = "block"
