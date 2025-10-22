@@ -61,6 +61,5 @@ eval "$(starship init zsh)"
 eval "$(zoxide init zsh --cmd cd)"
 zinit light zsh-users/zsh-syntax-highlighting
 
-zstyle ':completion::complete:git-switch:*' matcher 'm:{a-z-_}={A-Z_-}' 'r:|=*' 'l:|=* r:|=*'
 
 source ~/zsh-syntax-highlighting/themes/catppuccin_mocha-zsh-syntax-highlighting.zsh
