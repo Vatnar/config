@@ -7,6 +7,9 @@ zinit wait lucid light-mode for \
     zsh-users/zsh-history-substring-search \
     junegunn/fzf
 
+zinit ice wait lucid atload"!_git"
+zinit light git/git
+
 export EDITOR=nvim
 # Your custom aliases
 alias pamcan='pacman'
@@ -57,4 +60,7 @@ alias cheat='curl cheat.sh/'
 eval "$(starship init zsh)"
 eval "$(zoxide init zsh --cmd cd)"
 zinit light zsh-users/zsh-syntax-highlighting
+
+zstyle ':completion::complete:git-switch:*' matcher 'm:{a-z-_}={A-Z_-}' 'r:|=*' 'l:|=* r:|=*'
+
 source ~/zsh-syntax-highlighting/themes/catppuccin_mocha-zsh-syntax-highlighting.zsh
