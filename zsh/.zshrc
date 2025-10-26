@@ -7,9 +7,6 @@ zinit wait lucid light-mode for \
     zsh-users/zsh-history-substring-search \
     junegunn/fzf
 
-zinit ice wait lucid atload"!_git"
-zinit light git/git
-
 export EDITOR=nvim
 # Your custom aliases
 alias pamcan='pacman'
@@ -50,6 +47,10 @@ fh() {
 alias cat='bat --style=plain --paging=never'
 alias catt='bat --style=full'
 alias gl='git log --all --oneline --graph --decorate'
+alias gla='git log --all --graph --decorate --pretty=format:"%h|%an|%s" | column -t -s "|"'
+
+
+
 sf() {
     fd --type f . | fzf --preview 'bat --style=numbers --color=always --line-range=:500 {}'
 }
