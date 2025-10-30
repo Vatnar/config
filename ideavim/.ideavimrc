@@ -57,6 +57,7 @@ nnoremap <leader>fs :action SaveAll<CR>
 nnoremap <leader>se :action SearchEverywhere<CR>
 nnoremap <leader>ss :action FindInPath<CR>
 nnoremap <leader>sr :action RecentFiles<CR>
+
 nnoremap <leader>so :action GotoSymbol<CR>
 
 " Fuzzier plugin mapping
@@ -110,9 +111,17 @@ xnoremap > >gv
 " =========================
 " Buffer / Tab Navigation
 " =========================
-nnoremap <leader><leader> :action RecentFiles<CR>
+nmap <leader><leader> <action>(ShowIntentionActions)
+
 nnoremap ]b :action NextTab<CR>
 nnoremap [b :action PreviousTab<CR>
+nnoremap [B <C-w>W
+nnoremap ]B <C-w>w
+
+nnoremap <leader>wh <C-w>h
+nnoremap <leader>wj <C-w>j
+nnoremap <leader>wk <C-w>k
+nnoremap <leader>wl <C-w>l
 
 " =========================
 " Symbol & Definition Navigation
