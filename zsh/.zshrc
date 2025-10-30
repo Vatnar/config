@@ -48,6 +48,7 @@ alias cat='bat --style=plain --paging=never'
 alias catt='bat --style=full'
 alias gl='git log --all --oneline --graph --decorate'
 alias gla='git log --all --graph --decorate --pretty=format:"%h|%an|%s" | column -t -s "|"'
+alias gs='git switch $(git branch | fzf)'
 
 
 
