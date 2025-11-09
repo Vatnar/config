@@ -4,6 +4,7 @@ import QtQuick
 import Quickshell
 import Quickshell.Hyprland
 import Quickshell.Io
+import QtCore
 pragma Singleton
 pragma ComponentBehavior: Bound
 
@@ -21,6 +22,13 @@ Singleton {
     property bool screenLockContainsCharacters: false
     property bool screenUnlockFailed: false
     property bool sessionOpen: false
+    property bool quickFileOpen: false
+    property string quickFilePath1: ""
+    property string quickFilePath2: ""
+    property string quickFilePath3: ""
+    property string quickFilePath4: ""
+    property string quickFilePath5: ""
+    property string quickFilePath6: ""
     property bool superDown: false
     property bool superReleaseMightTrigger: true
     property bool workspaceShowNumbers: false
@@ -56,4 +64,23 @@ Singleton {
             screenZoom = Math.max(screenZoom - 0.4, 1)
         } 
 	}
+    IpcHandler {
+        target: "quickfile"
+
+        function toggle() {
+            root.quickFileOpen = !root.quickFileOpen
+        }
+    }
+    Settings {
+    id: quickFileSettings
+    category: "quickfile"
+    
+    property alias path1: root.quickFilePath1
+    property alias path2: root.quickFilePath2
+    property alias path3: root.quickFilePath3
+    property alias path4: root.quickFilePath4
+    property alias path5: root.quickFilePath5
+    property alias path6: root.quickFilePath6
 }
+}
+

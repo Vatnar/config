@@ -20,6 +20,7 @@ import "./modules/onScreenKeyboard/"
 import "./modules/overview/"
 import "./modules/screenCorners/"
 import "./modules/session/"
+import "./modules/quickfile/"
 import "./modules/sidebarLeft/"
 import "./modules/sidebarRight/"
 
@@ -32,7 +33,7 @@ ShellRoot {
     // Enable/disable modules here. False = not loaded at all, so rest assured
     // no unnecessary stuff will take up memory if you decide to only use, say, the overview.
     property bool enableBar: true
-    property bool enableBackground: true
+    property bool enableBackground: true 
     property bool enableCheatsheet: true
     property bool enableDock: true
     property bool enableLock: true
@@ -40,11 +41,12 @@ ShellRoot {
     property bool enableNotificationPopup: true
     property bool enableOnScreenDisplayBrightness: true
     property bool enableOnScreenDisplayVolume: true
-    property bool enableOnScreenKeyboard: true
+    property bool enableOnScreenKeyboard: false
     property bool enableOverview: true
     property bool enableReloadPopup: true
     property bool enableScreenCorners: true
     property bool enableSession: true
+    property bool enableQuickFile: true
     property bool enableSidebarLeft: true
     property bool enableSidebarRight: true
 
@@ -70,6 +72,7 @@ ShellRoot {
     LazyLoader { active: enableReloadPopup; component: ReloadPopup {} }
     LazyLoader { active: enableScreenCorners; component: ScreenCorners {} }
     LazyLoader { active: enableSession; component: Session {} }
+    LazyLoader { active: enableQuickFile; component: QuickFile {} }
     LazyLoader { active: enableSidebarLeft; component: SidebarLeft {} }
     LazyLoader { active: enableSidebarRight; component: SidebarRight {} }
 }
