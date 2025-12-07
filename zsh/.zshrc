@@ -64,8 +64,11 @@ fh() {
 alias cat='bat --style=plain --paging=never'
 alias catt='bat --style=full'
 alias gl='git log --all --oneline --graph --decorate'
+alias glh='git log --all --oneline --graph --decorate | head'
+alias glt='git log --all --oneline --graph --decorate | tail'
 alias gla='git log --all --graph --decorate --pretty=format:"%h|%an|%s" | column -t -s "|"'
 alias gs='git switch $(git branch | fzf)'
+alias gd='git branch -d $(git branch | fzf)'
 
 gbd() {
     git branch | fzf --multi --preview 'git log --oneline --graph --color=always {}' | xargs -r git branch -D
