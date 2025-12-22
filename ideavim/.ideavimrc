@@ -5,6 +5,8 @@
 sethandler n:vim i:ide
 sethandler <C-Y> a:ide
 sethandler <C-A> a:ide
+sethandler <C-F> a:ide
+sethandler <C-C> a:ide
 
 
 

@@ -143,6 +143,14 @@ cheat() {
     grep -E '^# [a-z]+ *→' ~/.zshrc | sed 's/^# //' | column -t -s '→' | bat --style=plain --language=txt
 }
 
+
+alias fix-wayland="run-nested"
+
+# Specific App aliases (Optional)
+alias clion="run-nested ~/.local/share/JetBrains/Toolbox/scripts/clion"
+alias rider="run-nested ~/.local/share/JetBrains/Toolbox/scripts/rider"
+
+
 # Starship prompt configuration
 # This is the Zsh equivalent of `starship init fish`
 eval "$(starship init zsh)"
