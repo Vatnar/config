@@ -68,7 +68,8 @@ alias glh='git log --all --oneline --graph --decorate | head'
 alias glt='git log --all --oneline --graph --decorate | tail'
 alias gla='git log --all --graph --decorate --pretty=format:"%h|%an|%s" | column -t -s "|"'
 alias gs='git switch $(git branch | fzf)'
-alias gd='git branch -d $(git branch | fzf)'
+alias gd='git branch -vv | fzf | awk "{print \$1}" | xargs git branch -d'
+
 
 gbd() {
     git branch | fzf --multi --preview 'git log --oneline --graph --color=always {}' | xargs -r git branch -D
