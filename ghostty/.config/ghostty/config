@@ -8,9 +8,10 @@ bold-is-bright = true
 window-padding-x = 5
 window-padding-y = 5
 background-opacity = 0.9
+window-decoration = false
 
 # theme
-theme = catppuccin-mocha
+theme = catppuccin-mocha.conf
 
 # command
 shell-integration = zsh
@@ -36,10 +37,10 @@ keybind = alt+left=goto_split:left
 keybind = alt+right=goto_split:right
 keybind = alt+up=goto_split:up
 keybind = alt+down=goto_split:down
-keybind = global:ctrl+grave_accent=toggle_quick_terminal
 
 # cursror
 cursor-style = "block"
 cursor-style-blink = true
 cursor-click-to-move = true
-
+mouse-hide-while-typing = true
+selection-clear-on-typing = true

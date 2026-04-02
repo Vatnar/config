@@ -1,65 +1,60 @@
 # Don't print a new line at the start of the prompt
-
 add_newline = false
 
-
+# Main prompt format
 format = """
-
-$directory  $git_branch $git_status $git_state $git_commit
-
-$character"""
-
-
+${custom.repo_name}\
+$directory  $git_branch $git_status $git_state $git_commit\
+$line_break\
+$character\
+"""
 
 # Prompt symbols
 [character]
-
-success_symbol = "[   ](bold fg:#CBA6F7)"
-
-error_symbol   = "[   ](bold fg:#F38BA8)"    # red
-
+success_symbol = "[ ](bold fg:#CBA6F7)"
+error_symbol   = "[ ](bold fg:#F38BA8)"    # red
 
 # Disable the package module
-
 [package]
-
 disabled = true
 
+[custom.repo_name]
+command = '''
+# 1. Get the remote name and URL
+remote=$(git rev-parse --abbrev-ref --symbolic-full-name @{u} 2>/dev/null | cut -d/ -f1)
+remote=${remote:-origin}
+url=$(git remote get-url "$remote" 2>/dev/null)
+
+# 2. Determine the icon based on the host
+if [[ "$url" =~ "github" ]]; then
+  icon="󰊤" 
+elif [[ "$url" =~ "gitlab" ]]; then
+  icon="" 
+elif [[ "$url" =~ "gitea" || "$url" =~ "forgejo" ]]; then
+  icon="󰟵" 
+elif [[ "$url" =~ "bitbucket" ]]; then
+  icon="󰊭" 
+else
+  icon="󰘬" 
+fi
+
+# 3. Extract owner/repo and output with icon
+if [ -n "$url" ]; then
+  repo=$(echo "$url" | sed -E 's/\.git$//; s/.*[:\/]([^/]+\/[^/]+)$/\1/')
+  echo "$icon $repo"
+else
+  echo "󰉋 $(basename "$PWD")"
+fi
+'''
+when = "git rev-parse --is-inside-work-tree 2>/dev/null"
+format = "[](fg:#89B4FA)[$output](bg:#89B4FA fg:#1E1E2E)[](fg:#89B4FA) "
 
 [git_branch]
-
-style = "bg:#CBA6F7 fg:#1E1E2E"   # purple background, dark text
-
+style = "bg:#CBA6F7 fg:#1E1E2E"
 symbol = "󰘬"
-
-
 format = "[](bold fg:#CBA6F7)[$symbol $branch(:$remote_branch)](fg:#1E1E2E bg:#CBA6F7)[ ](bold fg:#CBA6F7)"
 
-
-[git_commit]
-
-commit_hash_length = 4
-
-tag_symbol = " "
-disabled = false
-
-[git_state]
-format = '[\($state( $progress_current/$progress_total)\)]($style) '
-
-rebase = "[🔧 REBASING](bold #F38BA8)"
-merge = "[🔀 MERGING](bold #F38BA8)"
-revert = "[↩ REVERTING](bold #F38BA8)"
-cherry_pick = "[🍒 PICKING](bold #F38BA8)"
-bisect = "[🔍 BISECTING](bold #F38BA8)"
-am = "[📩 APPLYING](bold #F38BA8)"
-am_or_rebase = "[📦 AM/REBASE](bold #F38BA8)"
-
-style = "bold yellow"
-disabled = false
-
-
 [git_status]
-
 conflicted = '( $count⚔️)(#FF5555)'
 ahead      = '( $count🏎💨)(#55FF55)'
 behind     = '( $count🐢)(#FFFF55)'
@@ -71,92 +66,22 @@ staged     = '[ ++($count)](#ABE9B3)'
 renamed    = '( $count✍️)(#55AAFF)'
 deleted    = '( $count🗑)(#FF5555)'
 
-
-
-
-
-[hostname]
-
-ssh_only = true
-
-format = "[•$hostname](bg:#F9E2AF bold fg:#1E1E2E)[](bold fg:#F9E2AF)"  # peach background
-
-trim_at = ".companyname.com"
-
-disabled = false
-
-
-[line_break]
-
-disabled = false
-
-
-[memory_usage]
-
-disabled = true
-
-threshold = -1
-
-symbol = " "
-
-style = "bold dimmed #ABE9B3"
-
-
-[time]
-
-disabled = true
-
-format = '🕙[\[ $time \]]($style) '
-
-time_format = "%T"
-
-
-[username]
-
-style_user = "bold bg:#CBA6F7 fg:#1E1E2E"   # segment background and text
-
-style_root = "bold bg:#F38BA8 fg:#1E1E2E"
-
-format = "[](fg:#CBA6F7)[$user]($style)[](fg:#CBA6F7)"
-
-show_always = true
-
-
-
 [directory]
-
 home_symbol = "  "
-
 read_only = "  "
-
-style = "bg:#F5C2E7 fg:#1E1E2E"             # pink background
-
+style = "bg:#F5C2E7 fg:#1E1E2E"
 truncation_length = 0
 truncate_to_repo = true
-
-
-
 format = '[](bold fg:#F5C2E7)[󰉋 $path]($style)[](bold fg:#F5C2E7)'
 
+[line_break]
+disabled = false
 
 [directory.substitutions]
-
 "Desktop" = "  "
-
 "Documents" = "  "
-
 "Downloads" = "  "
-
 "Music" = " 󰎈 "
-
 "Pictures" = "  "
-
 "Videos" = "  "
-
 "GitHub" = " 󰊤 "
-
-
-[cmd_duration]
-
-disabled = true
-
