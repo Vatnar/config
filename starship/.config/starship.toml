@@ -11,8 +11,8 @@ $character\
 
 # Prompt symbols
 [character]
-success_symbol = "[ ](bold fg:#CBA6F7)"
-error_symbol   = "[ ](bold fg:#F38BA8)"    # red
+success_symbol = "[ ](bold fg:#8839EF)"
+error_symbol   = "[ ](bold fg:#D20F39)"    # red
 
 # Disable the package module
 [package]
@@ -47,12 +47,12 @@ else
 fi
 '''
 when = "git rev-parse --is-inside-work-tree 2>/dev/null"
-format = "[](fg:#89B4FA)[$output](bg:#89B4FA fg:#1E1E2E)[](fg:#89B4FA) "
+format = "[](fg:#1E66F5)[$output](bg:#1E66F5 fg:#EFF1F5)[](fg:#1E66F5) "
 
 [git_branch]
-style = "bg:#CBA6F7 fg:#1E1E2E"
+style = "bg:#8839EF fg:#EFF1F5"
 symbol = "󰘬"
-format = "[](bold fg:#CBA6F7)[$symbol $branch(:$remote_branch)](fg:#1E1E2E bg:#CBA6F7)[ ](bold fg:#CBA6F7)"
+format = "[](bold fg:#8839EF)[$symbol $branch(:$remote_branch)](fg:#EFF1F5 bg:#8839EF)[ ](bold fg:#8839EF)"
 
 [git_status]
 conflicted = '( $count⚔️)(#FF5555)'
@@ -60,19 +60,19 @@ ahead      = '( $count🏎💨)(#55FF55)'
 behind     = '( $count🐢)(#FFFF55)'
 diverged   = '( $count🔀)(#FF55FF)'
 untracked  = '( $count🆕)(#55FFFF)'
-stashed    = '( $count📦)(#AAAAFF)'
-modified   = '( $count✏️)(#FFA500)'
-staged     = '[ ++($count)](#ABE9B3)'
+stashed    = '( $count📦)(#8839EF)'
+modified   = '( $count✏️)(#DF8E1D)'
+staged     = '[ ++($count)](#40A02B)'
 renamed    = '( $count✍️)(#55AAFF)'
 deleted    = '( $count🗑)(#FF5555)'
 
 [directory]
 home_symbol = "  "
 read_only = "  "
-style = "bg:#F5C2E7 fg:#1E1E2E"
+style = "bg:#EA76CB fg:#EFF1F5"
 truncation_length = 0
 truncate_to_repo = true
-format = '[](bold fg:#F5C2E7)[󰉋 $path]($style)[](bold fg:#F5C2E7)'
+format = '[](bold fg:#EA76CB)[󰉋 $path]($style)[](bold fg:#EA76CB)'
 
 [line_break]
 disabled = false
