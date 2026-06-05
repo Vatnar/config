@@ -23,9 +23,7 @@ set showmode
 set showcmd
 set ideamarks
 let mapleader = " "
-set lazyredraw
 set cursorline
-set idearefactormode keep
 
 
 nnoremap <leader>rc :source ~/.ideavimrc<CR>
@@ -69,10 +67,8 @@ nnoremap <leader>sr :action RecentFiles<CR>
 nnoremap <leader>so :action GotoSymbol<CR>
 
 " Fuzzier plugin mapping
-map <leader>sf <action>(com.mituuz.fuzzier.Fuzzier)
-map <leader>sm <action>(com.mituuz.fuzzier.FuzzyMover)
-map <leader>sv <action>(com.mituuz.fuzzier.FuzzierVCS)
-map <leader>sg <action>(com.mituuz.fuzzier.FuzzyGrep)
+map <leader>gf <action>(com.mituuz.fuzzier.search.Fuzzier)
+map <leader>gg <action>(com.mituuz.fuzzier.grep.FuzzyGrepCI)
 
 " Window / Editor Management
 nnoremap <leader>ws :action SplitHorizontally<CR>
@@ -195,7 +191,6 @@ nnoremap <leader>dw   :action ActivateDebugToolWindow<CR>
 nnoremap <leader>dc   :action ChooseDebugConfiguration<CR>
 nnoremap K :action ShowHoverInfo<CR>
 
-set mouse
 
 set idearefactormode=visual
 " =========================
@@ -208,7 +203,6 @@ Plug 'chrisbra/matchit'
 Plug 'tpope/vim-surround'
 Plug 'preservim/nerdtree'
 set peekaboo
-set quickscope
 set which-key
 set notimeout
 nnoremap <leader>fb :<C-u>NERDTreeFocus<CR>
@@ -244,9 +238,9 @@ let g:WhichKeyDesc_se = "<leader>se  Search Everywhere"
 let g:WhichKeyDesc_ss = "<leader>ss  Find in Path"
 let g:WhichKeyDesc_sr = "<leader>sr  Recent Files"
 let g:WhichKeyDesc_so = "<leader>so  Go to Symbol"
-let g:WhichKeyDesc_sp = "<leader>sp  Fuzzier"
-let g:WhichKeyDesc_sm = "<leader>sm  Fuzzy Mover"
-let g:WhichKeyDesc_sv = "<leader>sv  Fuzzier VCS"
+let g:WhicKeyDesc_g_prefix = "<leader>g Fuzzier"
+let g:WhichKeyDesc_gf = "<leader>gf  Find file"
+let g:WhichKeyDesc_gg = "<leader>gg  Find in files"
 let g:WhichKeyDesc_sf = "<leader>sf Find File"
 
 " --- Window / Editor Management (<leader>w) ---
