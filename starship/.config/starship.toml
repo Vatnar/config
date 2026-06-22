@@ -55,16 +55,16 @@ symbol = "󰘬"
 format = "[](bold fg:#8839EF)[$symbol $branch(:$remote_branch)](fg:#EFF1F5 bg:#8839EF)[ ](bold fg:#8839EF)"
 
 [git_status]
-conflicted = '( $count⚔️)(#FF5555)'
-ahead      = '( $count🏎💨)(#55FF55)'
-behind     = '( $count🐢)(#FFFF55)'
-diverged   = '( $count🔀)(#FF55FF)'
-untracked  = '( $count🆕)(#55FFFF)'
-stashed    = '( $count📦)(#8839EF)'
-modified   = '( $count✏️)(#DF8E1D)'
+conflicted = '( $count)(#FF5555)'
+ahead      = '( $count)(#55FF55)'
+behind     = '( $count)(#FFFF55)'
+diverged   = '( $count)(#FF55FF)'
+untracked  = '( $count)(#55FFFF)'
+stashed    = '( $count)(#8839EF)'
+modified   = '( $count)(#DF8E1D)'
 staged     = '[ ++($count)](#40A02B)'
-renamed    = '( $count✍️)(#55AAFF)'
-deleted    = '( $count🗑)(#FF5555)'
+renamed    = '( $count)(#55AAFF)'
+deleted    = '( $count)(#FF5555)'
 
 [directory]
 home_symbol = "  "

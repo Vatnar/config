@@ -41,7 +41,6 @@ export HISTSIZE=100000
 export SAVEHIST=100000
 setopt INC_APPEND_HISTORY   
 setopt SHARE_HISTORY       
-setopt HIST_IGNORE_DUPS   
 setopt HIST_IGNORE_ALL_DUPS
 setopt HIST_REDUCE_BLANKS 
 setopt HIST_VERIFY
@@ -162,12 +161,10 @@ zinit light zsh-users/zsh-syntax-highlighting
 
 export PATH="$PATH:/home/vatnar/.local/share/JetBrains/Toolbox/apps/clion/bin/"
 source ~/.config/zsh/zsh-syntax-highlighting/themes/catppuccin_frappe-zsh-syntax-highlighting.zsh
-export PATH="$HOME/.local/bin:$PATH"
-
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
-export PATH="/home/vatnar/tools/realesrgan-ncnn-vulkan-v0.2.0-ubuntu/:$PATH"
+export PATH="$HOME/tools/realesrgan-ncnn-vulkan-*/:$PATH"
 
 
 
@@ -175,7 +172,6 @@ export PATH="/home/vatnar/tools/realesrgan-ncnn-vulkan-v0.2.0-ubuntu/:$PATH"
 export SDKMAN_DIR="$HOME/.sdkman"
 [[ -s "$HOME/.sdkman/bin/sdkman-init.sh" ]] && source "$HOME/.sdkman/bin/sdkman-init.sh"
 
-export PATH="$HOME/.local/bin:$PATH"
 export PATH="/home/vatnar/dev/src/flutter/bin:$PATH"
 export CHROME_EXECUTABLE=/usr/bin/vivaldi-stable
 export PATH=/usr/local/cuda-12.8/bin:$PATH
