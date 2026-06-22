@@ -97,6 +97,7 @@ help() {
     printf "${yellow}%-13s${nc} → %s\n" "gla/glp" "git log (author/pager)"
     printf "${yellow}%-13s${nc} → %s\n" "gs" "git switch branch (fzf)"
     printf "${yellow}%-13s${nc} → %s\n" "gdf" "fuzzy diff unstaged files"
+    printf "${magenta}%-13s${nc} → %s\n" "ghostty-toggle" "switch Ghostty light/dark theme"
     printf "${magenta}%-13s${nc} → %s\n" "_fixdisplay" "xrandr dual monitor setup"
 }
 alias catt='bat --style=full'
@@ -121,12 +122,16 @@ gdf() {
 fkill() {
     local pids
     pids=$(ps -ef | fzf --header-lines=1 --multi | awk '{print $2}')
-    [[ -n "$pids" ]] && echo "$pids" | xargs kill -9
+    if [[ -n "$pids" ]]; then
+      echo "$pids" | xargs kill -15 2>/dev/null
+      sleep 1
+      echo "$pids" | xargs kill -9 2>/dev/null
+    fi
 }
 
 
 fenv() {
-    printenv | fzf --preview 'echo {}' | cut -d= -f1
+    printenv | fzf --preview 'echo {}' --bind 'enter:become(echo {})'
 }
 
 
@@ -142,7 +147,7 @@ fman() {
 
 ff() {
     local file
-    file=$(fd . --type f | fzf --preview "head -20 {}") || return
+    file=$(fd . --type f | fzf --preview "bat --color=always --style=numbers --line-range=:100 {}") || return
     cd "$(dirname "$file")"
 }
 
