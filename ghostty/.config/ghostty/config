@@ -23,10 +23,10 @@ scrollback-limit = 10000
 # keybinds
 keybind = performable:ctrl+c=copy_to_clipboard
 keybind = performable:ctrl+v=paste_from_clipboard
-# Split right (horizontal)
+# Split right (vertical)
 keybind = alt+shift+d=new_split:right
 
-# Split down (vertical)
+# Split down (horizontal)
 keybind = alt+shift+s=new_split:down
 
 # Close current pane
