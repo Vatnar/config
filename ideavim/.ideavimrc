@@ -7,8 +7,11 @@ sethandler <C-Y> a:ide
 sethandler <C-A> a:ide
 sethandler <C-F> a:ide
 sethandler <C-C> a:ide
+sethandler <Tab> a:ide
 
 
+set VimEverywhere
+set inccommand=split
 
 set number
 set relativenumber
@@ -22,6 +25,7 @@ set cursorline
 set showmode
 set showcmd
 set ideamarks
+set maxsearchcount=999
 let mapleader = " "
 set cursorline
 
@@ -42,13 +46,13 @@ inoremap <C-y> <C-x><C-o>
 " =========================
 " Leader Key Mappings (Normal Mode)
 " =========================
-" Build / Project
-nnoremap <leader>bb :action Build<CR>
-nnoremap <leader>br :action Run<CR>
-nnoremap <leader>bc :action Clean<CR>
-nnoremap <leader>bd :action Debug<CR>
-nnoremap <leader>bor :action ChooseRunConfiguration<CR>
-nnoremap <leader>bod :action ChooseDebugConfiguration<CR>
+" Build / Project (moved: CamelCaseMotion uses <leader>b)
+nnoremap <leader>zb :action Build<CR>
+nnoremap <leader>zr :action Run<CR>
+nnoremap <leader>zc :action Clean<CR>
+nnoremap <leader>zd :action Debug<CR>
+nnoremap <leader>zor :action ChooseRunConfiguration<CR>
+nnoremap <leader>zod :action ChooseDebugConfiguration<CR>
 
 " File Management
 nnoremap <leader>fn :action NewFile<CR>
@@ -70,10 +74,10 @@ nnoremap <leader>so :action GotoSymbol<CR>
 map <leader>gf <action>(com.mituuz.fuzzier.search.Fuzzier)
 map <leader>gg <action>(com.mituuz.fuzzier.grep.FuzzyGrepCI)
 
-" Window / Editor Management
-nnoremap <leader>ws :action SplitHorizontally<CR>
-nnoremap <leader>wd :action SplitVertically<CR>
-nnoremap <leader>ww :action CloseEditor<CR>
+" Window / Editor Management (moved: CamelCaseMotion uses <leader>w)
+nnoremap <leader>vs :action SplitHorizontally<CR>
+nnoremap <leader>vd :action SplitVertically<CR>
+nnoremap <leader>vw :action CloseEditor<CR>
 nnoremap <leader>p  :action ActivateProjectToolWindow<CR>
 
 " =========================
@@ -95,6 +99,8 @@ inoremap <C-l> <Right>
 
 nnoremap n nzzzv
 nnoremap N Nzzzv
+nnoremap <C-d> <C-d>zz
+nnoremap <C-u> <C-u>zz
 
 " Normal mode
 nnoremap <A-j> :m .+1<CR>
@@ -122,10 +128,10 @@ nnoremap [b :action PreviousTab<CR>
 nnoremap [B <C-w>W
 nnoremap ]B <C-w>w
 
-nnoremap <leader>wh <C-w>h
-nnoremap <leader>wj <C-w>j
-nnoremap <leader>wk <C-w>k
-nnoremap <leader>wl <C-w>l
+nnoremap <leader>vh <C-w>h
+nnoremap <leader>vj <C-w>j
+nnoremap <leader>vk <C-w>k
+nnoremap <leader>vl <C-w>l
 
 " =========================
 " Symbol & Definition Navigation
@@ -202,9 +208,14 @@ Plug 'vim-scripts/argtextobj.vim'
 Plug 'chrisbra/matchit'
 Plug 'tpope/vim-surround'
 Plug 'preservim/nerdtree'
+Plug 'wellle/targets.vim'
+Plug 'tpope/vim-abolish'
+set functextobj
+set classtextobj
+set youcompleteme
 set peekaboo
 set which-key
-set notimeout
+set timeoutlen=800
 nnoremap <leader>fb :<C-u>NERDTreeFocus<CR>
 
 " =========================
@@ -221,16 +232,16 @@ let g:WhichKeyDesc_fd = "<leader>fd  Delete"
 let g:WhichKeyDesc_fo = "<leader>fo  Open File"
 let g:WhichKeyDesc_fs = "<leader>fs  Save All"
 
-" --- Build / Run (<leader>b) ---
-let g:WhichKeyDesc_b_prefix = "<leader>b  Build/run..."
-let g:WhichKeyDesc_bb = "<leader>bb  Build"
-let g:WhichKeyDesc_br = "<leader>br  Run"
-let g:WhichKeyDesc_bd = "<leader>bd  Debug"
-let g:WhichKeyDesc_bt = "<leader>bt  Test"
-let g:WhichKeyDesc_bc = "<leader>bc  Clean"
-let g:WhichKeyDesc_bo_prefix = "<leader>bo Choose configurations"
-let g:WhichKeyDesc_bor = "<leader>bor  Choose Run Configuration"
-let g:WhichKeyDesc_bod = "<leader>bod Choose Debug Configuration"
+" --- Build / Run (<leader>z) ---
+let g:WhichKeyDesc_z_prefix = "<leader>z  Build/run..."
+let g:WhichKeyDesc_zb = "<leader>zb  Build"
+let g:WhichKeyDesc_zr = "<leader>zr  Run"
+let g:WhichKeyDesc_zd = "<leader>zd  Debug"
+let g:WhichKeyDesc_zt = "<leader>zt  Test"
+let g:WhichKeyDesc_zc = "<leader>zc  Clean"
+let g:WhichKeyDesc_zo_prefix = "<leader>zo Choose configurations"
+let g:WhichKeyDesc_zor = "<leader>zor  Choose Run Configuration"
+let g:WhichKeyDesc_zod = "<leader>zod Choose Debug Configuration"
 
 " --- Search / Navigation (<leader>s) ---
 let g:WhichKeyDesc_s_prefix = "<leader>s  Search / Navigation"
@@ -243,12 +254,15 @@ let g:WhichKeyDesc_gf = "<leader>gf  Find file"
 let g:WhichKeyDesc_gg = "<leader>gg  Find in files"
 let g:WhichKeyDesc_sf = "<leader>sf Find File"
 
-" --- Window / Editor Management (<leader>w) ---
-let g:WhichKeyDesc_w_prefix = "<leader>w  Window / Editor"
-let g:WhichKeyDesc_ws = "<leader>ws  Split Horizontally"
-let g:WhichKeyDesc_wd = "<leader>wd  Split Vertically / Delete"
-let g:WhichKeyDesc_ww = "<leader>ww  Close Editor"
-let g:WhichKeyDesc_wp = "<leader>wp  Project Sidebar"
+" --- Window / Editor Management (<leader>v) ---
+let g:WhichKeyDesc_v_prefix = "<leader>v  Window / Editor"
+let g:WhichKeyDesc_vs = "<leader>vs  Split Horizontally"
+let g:WhichKeyDesc_vd = "<leader>vd  Split Vertically"
+let g:WhichKeyDesc_vw = "<leader>vw  Close Editor"
+
+" --- CamelCase Motion (requires IdeaVim >= 2.37.0, broken on this version) ---
+" Try enabling: Settings > Editor > General > CamelHumps words
+" This makes w/b/e navigate by sub-word natively
 
 " --- Refactoring (<leader>r) ---
 let g:WhichKeyDesc_r_prefix = "<leader>r  Refactor..."
@@ -282,7 +296,6 @@ let g:WhichKeyDesc_ml = "<leader>ml  Show All Bookmarks"
 
 " --- Project / Sidebar / Quick Access ---
 let g:WhichKeyDesc_p = "<leader>p  Project Tool Window"
-let g:WhichKeyDesc_q = "<leader>q  NOT IMPLEMENTED"
-let g:WhichKeyDesc__leader = "<leader><leader>  Recent Files"
-set relativenumber
+let g:WhichKeyDesc_q = "<leader>q  Show Hover Info"
+let g:WhichKeyDesc__leader = "<leader><leader>  Show Intention Actions"
 
